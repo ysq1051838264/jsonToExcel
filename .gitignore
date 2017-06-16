@@ -1,0 +1,5 @@
+node_modules/
+build/*.png
+build/*.js
+.DS_Store
+.idea/

@@ -1,0 +1,157 @@
+.item_question {
+    color: #333;
+    font-size: 17px;
+    height: 30px;
+    line-height: 30px;
+    margin-left: 5px;
+}
+
+.item_li {
+    background-color: white;
+}
+
+.question_list_table {
+    list-style: none;
+    width: 100%;
+    border-spacing: 0;
+}
+
+.question_list_container {
+    width: 100%;
+    background-color: white;
+}
+
+.question_list_separator {
+    border-top: solid 1px #ddd;
+}
+
+.question_list_td_content {
+    font-size: 15px;
+    padding: 12px 15px 12px 10px;
+    line-height: 25px;
+}
+
+.question_list_arrow {
+    width: 14px;
+    height: 14px;
+}
+
+.question_list_arrow_container {
+    padding-right: 20px;
+    vertical-align: middle;
+    text-align: right;
+}
+
+.section_list_div {
+    margin-top: 40px;
+}
+
+.section_list_title {
+    font-size: 14px;
+    line-height: 20px;
+    height: 20px;
+    color: #808080;
+}
+
+.section_list_title_container {
+    background-color: #f5f5f5;
+    padding: 30px 0 5px 10px;
+    overflow: hidden;
+}
+
+.div_answer {
+    padding: 5px 20px 20px 20px;
+    margin-top:50px;
+}
+
+.navigation_bar {
+    height: 50px;
+    line-height: 50px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    background-color: white;
+    z-index: 100;
+    text-align: center;
+}
+
+.navigation_bar_title {
+    text-align: center;
+    font-size: 17px;
+    width: 100%;
+    left: 0;
+    top: 0;
+}
+
+.navigation_bar_arrow {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    padding-top: 7px;
+    left: 0;
+    top: 0;
+}
+
+.answer_question_div {
+    color: #333;
+    font-weight: bold;
+    font-size: 17px;
+}
+
+.answer_list_div {
+    color: #4D4D4D;
+    font-size: 15px;
+    line-height: 22px;
+    margin-top: 18px;
+}
+
+.answer_table_div {
+    width: 100%;
+    margin-top: 10px;
+}
+
+.answer_table {
+    padding-right: 30px;
+    border-spacing: 0;
+    width: 100%;
+}
+
+.answer_table_th_first {
+    border-left: 1px solid;
+}
+
+.answer_table_th {
+    border-top: 1px solid;
+    border-right: 1px solid;
+    border-bottom: 1px solid;
+    padding: 5px;
+    text-align: center;
+}
+
+.answer_table_td_first {
+    border-left: 1px solid;
+}
+
+.answer_table_td {
+    text-align: center;
+    border-right: 1px solid;
+    border-bottom: 1px solid;
+    padding: 5px;
+
+}
+
+.answer_image_div {
+    /*width:100%;*/
+}
+
+.answer_image_content {
+    padding-right: 20px;
+}
+
+.answer_image_align_center {
+    text-align: center;
+}
+
+.answer_image_max_height {
+    width: 100%,
+}
