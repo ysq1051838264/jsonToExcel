@@ -12,7 +12,6 @@ export default class Image extends React.Component {
         var {answer, index} = this.props;
         var src = answer.content;
         var app = queryParams("app");
-        console.log("app:", app, answer.other);
         if (app != null && answer.other) {
             src = answer.other[app] || src;
         }

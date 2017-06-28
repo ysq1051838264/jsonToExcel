@@ -10,6 +10,7 @@ import TableAnswer from './answer/Table';
 import ImageAnswer from './answer/Image';
 
 import NavigationBar from './NavigationBar';
+import queryParams from '../util/QueryParams';
 
 export default class Answer extends React.Component {
 
@@ -21,9 +22,13 @@ export default class Answer extends React.Component {
         var {question, answers} = this.props.question;
         var levelCount = [];
         var lastLevel = -1;
+        var app = queryParams("app");
+        if(app!=null) {
+            question = question.replace(/Feelfit/g, app);
+        }
         return (
             <div >
-                <NavigationBar title="帮助中心" onBackClick={this.handleBackClick.bind(this)}/>
+                <NavigationBar title={this.props.helpCenter.title} onBackClick={this.handleBackClick.bind(this)}/>
                 <div className="div_answer">
                     <div className="answer_question_div">{question}</div>
                     <div className="answer_list_div">
