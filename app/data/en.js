@@ -2,7 +2,7 @@
  * Created by hdr on 17/6/9.
  */
 export default {
-    title:'Help Center',
+    title: 'Help Center',
     sections: [
         {
             title: "Precautions for use of the product",
@@ -173,6 +173,7 @@ export default {
                     ],
                 },
                 {
+                    id: 'how_to_avoid_measure_deviation',
                     question: "What measurement process can avoid an unnecessary measurement error?",
                     answers: [
                         {
@@ -281,7 +282,7 @@ export default {
                             type: "image",
                             content: require("./img/measure_main_ui.png"),
                         },
-                        "If the current APP has been bound to other scales and you need to bind the APP to this scale, you should click on "+" on upper right corner of the measurement interface to enter equipment-binding interface.",
+                        "If the current APP has been bound to other scales and you need to bind the APP to this scale, you should click on " + " on upper right corner of the measurement interface to enter equipment-binding interface.",
                         {
                             type: "image",
                             content: require("./img/measure_add_device_guide.png")
@@ -459,7 +460,7 @@ export default {
                             Kitnew: require('./img/user_add_guide_3_kitnew.png'),
                             RENPHO: require('./img/user_add_guide_3_renpho.png'),
                         },
-                        maxWidth:true,
+                        maxWidth: true,
                     },
                     {
                         type: 'string',

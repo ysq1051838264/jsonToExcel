@@ -173,6 +173,7 @@ export default {
                     ],
                 },
                 {
+                    id: 'how_to_avoid_measure_deviation',
                     question: "如何測量才能避免產生不必要的測量誤差？",
                     answers: [
                         {

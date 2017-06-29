@@ -173,6 +173,7 @@ export default {
                     ],
                 },
                 {
+                    id: 'how_to_avoid_measure_deviation',
                     question: "如何测量才能避免产生不必要的测量误差？",
                     answers: [
                         {
@@ -435,52 +436,53 @@ export default {
                     ]
                 },
                 {
-                    question: "如何添加Feelfit friends？", answers: [
-                    "Friends功能可以帮助你们互相看到对方的身体变化情况，比如营养师/健身教练常常需要monitor自己的客户的身体变化情况，就可以使用这个功能。",
-                    {
-                        type: 'string',
-                        content: "点击选项卡 “我”（主界面右下角）",
-                        level: 1
-                    },
-                    {
-                        type: "image",
-                        content: require('./img/user_index.png'),
-                    },
-                    {
-                        type: 'string',
-                        content: "点击头像左边的图标，弹出选择添加Feelfit friends",
-                        level: 1,
-                    },
-                    {
-                        type: "image",
-                        content: require('./img/user_add_guide_3_feelfit.png'),
-                        other: {
-                            Yolanda: require("./img/user_add_guide_3_yolanda.png"),
-                            Kitnew: require('./img/user_add_guide_3_kitnew.png'),
-                            RENPHO: require('./img/user_add_guide_3_renpho.png'),
+                    question: "如何添加Feelfit friends？",
+                    answers: [
+                        "Friends功能可以帮助你们互相看到对方的身体变化情况，比如营养师/健身教练常常需要monitor自己的客户的身体变化情况，就可以使用这个功能。",
+                        {
+                            type: 'string',
+                            content: "点击选项卡 “我”（主界面右下角）",
+                            level: 1
                         },
-                        maxWidth: true,
-                    },
-                    {
-                        type: 'string',
-                        content: "然后输入对方的邮箱，点击“发送”",
-                        level: 1,
-                    },
-                    {
-                        type: "image",
-                        content: require('./img/user_add_guide_4_feelfit.png'),
-                        other: {
-                            Yolanda: require("./img/user_add_guide_4_yolanda.png"),
-                            Kitnew: require('./img/user_add_guide_4_kitnew.png'),
-                            RENPHO: require('./img/user_add_guide_4_renpho.png'),
+                        {
+                            type: "image",
+                            content: require('./img/user_index.png'),
                         },
-                    },
-                    {
-                        type: 'string',
-                        content: "此时对方会收到一条系统消息，对方可以通过点击选项卡“我”界面上右上角的icon进入系统消息查看。如果对方并且接受了你的邀请，你们就成功的成为了friends。可以互相查看对方的身体详情。",
-                        level: 1,
-                    },
-                ]
+                        {
+                            type: 'string',
+                            content: "点击头像左边的图标，弹出选择添加Feelfit friends",
+                            level: 1,
+                        },
+                        {
+                            type: "image",
+                            content: require('./img/user_add_guide_3_feelfit.png'),
+                            other: {
+                                Yolanda: require("./img/user_add_guide_3_yolanda.png"),
+                                Kitnew: require('./img/user_add_guide_3_kitnew.png'),
+                                RENPHO: require('./img/user_add_guide_3_renpho.png'),
+                            },
+                            maxWidth: true,
+                        },
+                        {
+                            type: 'string',
+                            content: "然后输入对方的邮箱，点击“发送”",
+                            level: 1,
+                        },
+                        {
+                            type: "image",
+                            content: require('./img/user_add_guide_4_feelfit.png'),
+                            other: {
+                                Yolanda: require("./img/user_add_guide_4_yolanda.png"),
+                                Kitnew: require('./img/user_add_guide_4_kitnew.png'),
+                                RENPHO: require('./img/user_add_guide_4_renpho.png'),
+                            },
+                        },
+                        {
+                            type: 'string',
+                            content: "此时对方会收到一条系统消息，对方可以通过点击选项卡“我”界面上右上角的icon进入系统消息查看。如果对方并且接受了你的邀请，你们就成功的成为了friends。可以互相查看对方的身体详情。",
+                            level: 1,
+                        },
+                    ]
                 },
                 {
                     question: "如何查看我的历史测量数据？如果我想删除其中的数据该怎么办？",

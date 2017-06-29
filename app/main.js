@@ -15,36 +15,66 @@ class Main extends React.Component {
         super(props);
         this.state = {
             currentQuestion: null,
-            sectionIndex: -1,
-            questionIndex: -1,
+            questionId: null,
         };
+    }
+
+    componentDidMount() {
+        var questionId = queryParams("id");
+        if (questionId != null) {
+            var question = this.findQuestionById(questionId);
+            this.setState({
+                currentQuestion: question
+            });
+        }
     }
 
     onCurrentQuestionChange(question) {
         if (this.state.currentQuestion != question) {
             this.setState({
                 currentQuestion: question,
-                sectionIndex: -1,
-                questionIndex: -1
-        })
+            })
 
         }
     }
 
-    render() {
+    findQuestionById(id) {
+        if (id == null) {
+            return null;
+        }
+        var helpCenter = this.getHelpCenter();
+        var sectionList = helpCenter.sections;
+        var targetQuestion = null;
+        sectionList.forEach(section => {
+            section.questions.forEach(question => {
+                if (question.id && question.id == id) {
+                    targetQuestion = question;
+                }
+            })
+        })
+        return targetQuestion;
+    }
+
+    getHelpCenter() {
         var lang = queryParams('lang');
         var helpCenter = HelpCenter_EN;
         if (lang != null) {
             if (lang == "zh") {
                 helpCenter = HelpCenter_ZH;
-            }else if(lang == 'zh_TW'){
+            } else if (lang == 'zh_TW') {
                 helpCenter = HelpCenter_ZH_TW;
             }
         }
-        var {sectionIndex, questionIndex} = this.state;
+        return helpCenter;
+    }
+
+
+    render() {
+
+        var helpCenter = this.getHelpCenter();
 
         if (this.state.currentQuestion == null) {
-            return <SectionList sectionIndex={sectionIndex} questionIndex={questionIndex} helpCenter={helpCenter}
+            return <SectionList helpCenter={helpCenter}
                                 questionChangeChangeHandler={this.onCurrentQuestionChange.bind(this)}/>
         }
         return <Answer questionChangeChangeHandler={this.onCurrentQuestionChange.bind(this)}
