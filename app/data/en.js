@@ -55,7 +55,7 @@ export default {
                     question: "Can my body scale be connected to an APP (computer application program)? Please briefly introduce the situation.",
                     answers: [
                         "The body fat scale which you have bought must be used in coordination with an APP, otherwise the scale only shows weight information. In the APP, there is more information such as body fat percentage and body water percentage to be displayed. Advantage of doing so is to make your measurement result for one time be able to be recorded on your mobile phone and cloud service.",
-                        "Name of the APP for coordinative use is called Feelfit; please go to AppleStore and GooglePlay for free download. Feelfit can record all measurement results of you and your family members and is convenient for you to view data for every time."
+                        "Name of the APP for coordinative use is called Feelfit, please go to AppleStore and GooglePlay for free download. Feelfit can record all measurement results of you and your family members and is convenient for you to view data for every time."
                     ]
                 },
                 {
@@ -78,7 +78,7 @@ export default {
                         },
                         {
                             type: "string",
-                            content: "LED does not display. Please check whether the battery still has electric power; please re-install the battery; if LED does not display, it is suggested to replace the battery.",
+                            content: "LED does not display. Please check whether the battery still has electric power, please re-install the battery, if LED does not display, it is suggested to replace the battery.",
                             level: 1,
                         },
                         {
@@ -90,7 +90,7 @@ export default {
                         },
                         {
                             type: "string",
-                            content: "LED displays LO. Please carefully check whether the battery is installed correctly, and confirm the battery still has electric power; if LED still displays LO, it is suggested to replace the battery. ",
+                            content: "LED displays LO. Please carefully check whether the battery is installed correctly, and confirm the battery still has electric power, if LED still displays LO, it is suggested to replace the battery. ",
                             level: 1,
                         },
                         {
@@ -102,7 +102,7 @@ export default {
                         },
                         {
                             type: "string",
-                            content: "LED displays EER. The sensor of the scale has been overloaded or even damaged; please do not measure a weight with more than 180KG or 440 pounds.",
+                            content: "LED displays EER. The sensor of the scale has been overloaded or even damaged, please do not measure a weight with more than 180KG or 440 pounds.",
                             level: 1,
                         },
                     ]
@@ -110,7 +110,7 @@ export default {
                 {
                     question: "How do I make the scale display switch between lb and kg?",
                     answers: [
-                        "First, you need to change settings of lb (pound) and kg in settings of the APP; after setup is completed, please connect the APP to the scale; during the process, the APP will transfer your setting information to the scale, and the unit which you have set up will be displayed on the scale.",
+                        "First, you need to change settings of lb (pound) and kg in settings of the APP, after setup is completed, please connect the APP to the scale, during the process, the APP will transfer your setting information to the scale, and the unit which you have set up will be displayed on the scale.",
                         "Setting",
                         {
                             type: "image",
@@ -129,7 +129,7 @@ export default {
             title: "Different measurement results reason",
             questions: [
                 {
-                    question: "How is the scale bound to it?",
+                    question: "How is measurement performed?",
                     answers: [
                         {
                             type: "string",
@@ -157,17 +157,17 @@ export default {
                         },
                         {
                             type: 'string',
-                            content: "If weight is 50.00KG, when you stand on the scale, a “50.00KG” will blink for about 3 times, the screen presents a “0” which moves from left to right and which repeats the course for 2-3 times, and then the screen will skip to present “50.00KG” for about 5s, and finally the screen of the scale will be automatically turned off, ending the measurement;",
+                            content: "If weight is 50.00KG, when you stand on the scale, a “50.00KG” will blink for about 3 times, the screen presents a “0” which moves from left to right and which repeats the course for 2-3 times, and then the screen will skip to present “50.00KG” for about 5s, and finally the screen of the scale will be automatically turned off, ending the measurement,",
                             level: 2,
                         },
                         {
                             type: 'string',
-                            content: "On the measurement page of the APP, the circle of the measurement interface will scroll till a warning tone and all data appear (warning tone can be turned off);",
+                            content: "On the measurement page of the APP, the circle of the measurement interface will scroll till a warning tone and all data appear (warning tone can be turned off),",
                             level: 2
                         },
                         {
                             type: 'string',
-                            content: ' Next weighing needs to wait for the LED screen to be off for 2-3 seconds and then is performed again;',
+                            content: ' Next weighing needs to wait for the LED screen to be off for 2-3 seconds and then is performed again,',
                             level: 1,
                         }
                     ],
@@ -211,7 +211,7 @@ export default {
                         },
                         {
                             type: "string",
-                            content: "This product obtains body fat percentage by using BIA (bio-impedance analysis) bioelectric measurement method; fat percentage obtained by using BIA measurement method is closely related to the following parameters: body impedance coefficient/height/weight/age/gender. Therefore, change in any of the parameters can cause change of fat percentage.",
+                            content: "This product obtains body fat percentage by using BIA (bio-impedance analysis) bioelectric measurement method, fat percentage obtained by using BIA measurement method is closely related to the following parameters: body impedance coefficient/height/weight/age/gender. Therefore, change in any of the parameters can cause change of fat percentage.",
                             level: 2,
                         },
                         {
@@ -251,21 +251,21 @@ export default {
                         },
                         {
                             type: "string",
-                            content: "  Therefore, we suggest that a user perform measurement in early morning under condition of fasting; continuous early morning fasting measurement can obtain long-term body weight/body fat percentage change data.",
+                            content: "  Therefore, we suggest that a user perform measurement in early morning under condition of fasting, continuous early morning fasting measurement can obtain long-term body weight/body fat percentage change data.",
                         },
                     ]
                 },
                 {
                     question: "Why is my fat percentage measurement datum different from data from other scales? Why is fat percentage required for long-term measurement? Why is fat percentage relative change value more important?",
                     answers: [
-                        "Fat is a special tissue and is complex existence in the body, including subcutaneous fat, visceral fat and the like, and is widely present in various parts of the body. Currently, there are several popular methods for measurement of fat percentage in the world, including DEXA, BIA, method for weighing in water, and so on. Different measurement methods have their own unique algorithms and have different results. So far, method for weighing in water and DEXA (dual energy X-ray absorption method) are called \"gold standards\", however, repeat test results with these gold standards also present error. Therefore, the biggest problem of body component analysis is: no instrument can give absolutely correct answer. Household body fat scale manufacturers mostly use BIA measurement method, but results are also different due to different algorithms; therefore, it is not suggested that users be entangled in difference of absolute values measured by different instruments and equipment, but should pay more attention to relative change value measured by the same equipment for a long term",
-                        "Therefore, we suggest that a user try to use the same assessment system for long-term monitoring and control and measurement of fat percentage; long-term change value can be assessed to obtain a person's health status change trend, and mastery of health trend is the most important, thus, we believe that relative value of change is more meaningful than absolute value of a single measurement.",
+                        "Fat is a special tissue and is complex existence in the body, including subcutaneous fat, visceral fat and the like, and is widely present in various parts of the body. Currently, there are several popular methods for measurement of fat percentage in the world, including DEXA, BIA, method for weighing in water, and so on. Different measurement methods have their own unique algorithms and have different results. So far, method for weighing in water and DEXA (dual energy X-ray absorption method) are called \"gold standards\", however, repeat test results with these gold standards also present error. Therefore, the biggest problem of body component analysis is: no instrument can give absolutely correct answer. Household body fat scale manufacturers mostly use BIA measurement method, but results are also different due to different algorithms, therefore, it is not suggested that users be entangled in difference of absolute values measured by different instruments and equipment, but should pay more attention to relative change value measured by the same equipment for a long term",
+                        "Therefore, we suggest that a user try to use the same assessment system for long-term monitoring and control and measurement of fat percentage, long-term change value can be assessed to obtain a person's health status change trend, and mastery of health trend is the most important, thus, we believe that relative value of change is more meaningful than absolute value of a single measurement.",
                     ]
                 },
                 {
                     question: "Why would the sum be more than 1 when components measured by our body fat scale are added?",
                     answers: [
-                        "From the view of point of the human body's chemical structure, the body's main components include fat tissue, water, protein and inorganic tissue: fat tissue is mainly comprised of fat and water, wherein water accounts for about 25% of total fat tissue; muscle tissue is mainly comprised of protein and water, wherein water accounts for about 70% of total muscle tissue.",
+                        "From the view of point of the human body's chemical structure, the body's main components include fat tissue, water, protein and inorganic tissue: fat tissue is mainly comprised of fat and water, wherein water accounts for about 25% of total fat tissue, muscle tissue is mainly comprised of protein and water, wherein water accounts for about 70% of total muscle tissue.",
                         "Our body fat scale is used to measure contents of fat tissue, muscle tissue, water, bone and other major tissues in the human body. Because various tissues contain considerable proportion of water, the sum would be more than 1 when measurement results of the final product are added.",
                     ]
                 },
@@ -294,7 +294,7 @@ export default {
                     ]
                 },
                 {
-                    question: "I have a Bluetooth version; is it necessary for the APP to be opened at time of measurement?",
+                    question: "I have a Bluetooth version, is it necessary for the APP to be opened at time of measurement?",
                     answers: [
                         "You do not have to open the APP when you perform measurement. In this case, the measured data every time will be saved to the scale and our scale can save up to 20 times of measurement data. Next time when you open the link with the scale, you will automatically receive the data which have been saved by the scale and then which are automatically assigned to the corresponding member accounts. If there is difference of 3KG or more between the received weight data this time and weight data of all accounts in the APP, the APP will allow you to manually allocate the measurement data this time or perform directly deletion."
                     ]
@@ -478,7 +478,7 @@ export default {
                     },
                     {
                         type: 'string',
-                        content: "At this time the other party will receive a system message; besides, the other party can enter the system message view by clicking on the icon on right upper corner of the interface after clicking on the tab \"My Account\". If the other party accepts your invitation, you have succeeded in becoming friends. You can see each other's body detail.",
+                        content: "At this time the other party will receive a system message, besides, the other party can enter the system message view by clicking on the icon on right upper corner of the interface after clicking on the tab \"My Account\". If the other party accepts your invitation, you have succeeded in becoming friends. You can see each other's body detail.",
                         level: 1,
                     },
                 ]
@@ -507,7 +507,7 @@ export default {
                         },
                         {
                             type: "string",
-                            content: "Select the day (now you want to delete the data on that day), and tick the datum need to be deleted (right upper corner of each datum); multiple-ticking is supported ",
+                            content: "Select the day (now you want to delete the data on that day), and tick the datum need to be deleted (right upper corner of each datum), multiple-ticking is supported ",
                             level: 1,
                         },
                         "Click on the \"Delete\" button on bottom of the interface so that deletion is performed",
@@ -519,7 +519,7 @@ export default {
                     ]
                 },
                 {
-                    question: "I want to detailedly compare change in the data which were obtained when I measured myself at different times; what should I do?",
+                    question: "I want to detailedly compare change in the data which were obtained when I measured myself at different times, what should I do?",
                     answers: [
                         {
                             type: "string",
@@ -532,7 +532,7 @@ export default {
                         },
                         {
                             type: "string",
-                            content: "Default weight curve of the week appears; if you want to view other indicators, please click on the icon below the chart and switch to curve graph of a different indicator",
+                            content: "Default weight curve of the week appears, if you want to view other indicators, please click on the icon below the chart and switch to curve graph of a different indicator",
                             level: 1,
                         },
                         {
@@ -565,4 +565,4 @@ export default {
         }
     ],
 }
-;
+
