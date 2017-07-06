@@ -454,6 +454,7 @@ export default {
                 },
                 {
                     question: "如何连接到apple health kit?",
+                    platform: "ios",
                     answers: [
                         {
                             type: "string",
@@ -504,6 +505,114 @@ export default {
                                 Kitnew: require('./img/health_kit_switcher_kitnew.png'),
                                 RENPHO: require('./img/health_kit_switcher_renpho.png'),
                             },
+                            maxWidth: true,
+                        },
+                    ]
+                },
+                {
+                    question: "如何连接到 Google Fit?",
+                    id: 'how_to_connect_google_fit',
+                    platform: 'android',
+                    answers: [
+                        {
+                            type: "string",
+                            content: "在“我的”界面点击右上角的“设置”图标",
+                            level: 1
+                        },
+                        {
+                            type: "image",
+                            content: require("./img/me_setting.png"),
+                        },
+                        {
+                            type: "string",
+                            content: "进入到“系统设置”界面，点击“Google Fit”栏，进入到“Google Fit”界面",
+                            level: 1
+                        },
+                        {
+                            type: "image",
+                            content: require("./img/setting_googlefit.png"),
+                        },
+                        {
+                            type: "string",
+                            content: "打开“Google Fit”的开关按钮，会弹出已存在Google账号的选取界面（或添加新账号、注册Google账号），或选取自己的Google账号",
+                            level: 1
+                        },
+                        {
+                            type: "image",
+                            content: require("./img/googlefit_switcher.png"),
+                            maxWidth: true,
+                        },
+                        {
+                            type: "string",
+                            content: "选取成功后返回到“Google Fit”界面，此时“Google Fit”开关按钮的状态为开，连接GoogleFit成功",
+                            level: 1
+                        },
+                        {
+                            type: "image",
+                            content: require("./img/google_switcher_enable.png"),
+                        },
+                        {
+                            type: "string",
+                            content: "上秤测量后，此时数据会上传到Google Fit，可以登录APP查看相关数据",
+                            level: 1
+                        },
+                        {
+                            type: "image",
+                            content: require("./img/googlefit_result.png"),
+                            maxWidth: true,
+                        },
+                    ]
+                },
+                {
+                    question: "如何连接到 Fitbit?",
+                    id: 'how_to_connect_fitbit',
+                    answers: [
+                        {
+                            type: "string",
+                            content: "在“我的”界面点击右上角的“设置”图标",
+                            level: 1
+                        },
+                        {
+                            type: "image",
+                            content: require("./img/me_setting.png"),
+                        },
+                        {
+                            type: "string",
+                            content: "进入到“系统设置”界面，点击“FitBit”栏，进入到FitBit界面",
+                            level: 1
+                        },
+                        {
+                            type: "image",
+                            content: require("./img/setting_fitbit.png"),
+                        },
+                        {
+                            type: "string",
+                            content: "打开“FitBit”的开关按钮，就会跳转到FitBit的登录界面，输入已注册过FitBit的账号和密码（或在该界面下拉选择注册FitBit）",
+                            level: 1
+                        },
+                        {
+                            type: "image",
+                            content: require("./img/fitbit_switcher.png"),
+                            maxWidth: true,
+                        },
+                        {
+                            type: "string",
+                            content: "点击“登录”后，会继续跳转到您本人是否允许APP访问，选择“允许”后，回到APP系统设置界面，此时FitBit的开关为打开状态",
+                            level: 1
+                        },
+                        {
+                            type: "image",
+                            content: require("./img/fitbit_auth.png"),
+                            maxWidth: true,
+                        },
+                        {
+                            type: "string",
+                            content: "上秤测量成功后，此时相关数据就会上传到FitBit，可以登录FitBit APP或登录FitBit网页查看当前体重、BMI、体脂",
+                            level: 1
+                        },
+                        {
+                            type: "image",
+                            content: require("./img/fitbit_result.png"),
                             maxWidth: true,
                         },
                     ]

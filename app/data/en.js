@@ -509,6 +509,114 @@ export default {
                     ]
                 },
                 {
+                    question: "How to connect Google Fit in App?",
+                    id: 'how_to_connect_google_fit',
+                    platform: 'android',
+                    answers: [
+                        {
+                            type: "string",
+                            content: "Click “Setting” icon on the top right corner of “My Account”page.",
+                            level: 1
+                        },
+                        {
+                            type: "image",
+                            content: require("./img/me_setting.png"),
+                        },
+                        {
+                            type: "string",
+                            content: "Enter into “Setting” interface, click “Google Fit” and then enter into “Google Fit” interface.",
+                            level: 1
+                        },
+                        {
+                            type: "image",
+                            content: require("./img/setting_googlefit.png"),
+                        },
+                        {
+                            type: "string",
+                            content: "Turn on “Google Fit” switch,  selecting interface of existed Google account will appear(or adding new account、register Google account) and select yourselves Google account.",
+                            level: 1
+                        },
+                        {
+                            type: "image",
+                            content: require("./img/googlefit_switcher.png"),
+                            maxWidth: true,
+                        },
+                        {
+                            type: "string",
+                            content: "After selecting successfully, it will  return to “Google Fit” interface. At the moment, the condition of “Google Fit” switch is on, and connection successful.",
+                            level: 1
+                        },
+                        {
+                            type: "image",
+                            content: require("./img/google_switcher_enable.png"),
+                        },
+                        {
+                            type: "string",
+                            content: "After measuring, the data will upload to Google Fit. You can log in your APP and check relevant data.",
+                            level: 1
+                        },
+                        {
+                            type: "image",
+                            content: require("./img/googlefit_result.png"),
+                            maxWidth: true,
+                        },
+                    ]
+                },
+                {
+                    question: "How to connect Fitbit in App?",
+                    id: 'how_to_connect_fitbit',
+                    answers: [
+                        {
+                            type: "string",
+                            content: "Click “Setting” icon on the top right corner of “My Account”page.",
+                            level: 1
+                        },
+                        {
+                            type: "image",
+                            content: require("./img/me_setting.png"),
+                        },
+                        {
+                            type: "string",
+                            content: "Enter into “Setting” interface, click “Fitbit” and then enter into “Fitbit” interface.",
+                            level: 1
+                        },
+                        {
+                            type: "image",
+                            content: require("./img/setting_fitbit.png"),
+                        },
+                        {
+                            type: "string",
+                            content: "Turn on “Fitbit” switch, and then it will jump to LOG IN interface of Fitbit. Please input registered Fitbit account and the password(or select register Fitbit below the interface).",
+                            level: 1
+                        },
+                        {
+                            type: "image",
+                            content: require("./img/fitbit_switcher.png"),
+                            maxWidth: true,
+                        },
+                        {
+                            type: "string",
+                            content: "After clicking “LOG IN”, it will jump to whether you allow App access. After selecting “Allow”, it will return to Setting. At the moment, the condition of Fitbit switch is on.",
+                            level: 1
+                        },
+                        {
+                            type: "image",
+                            content: require("./img/fitbit_auth.png"),
+                            maxWidth: true,
+                        },
+                        {
+                            type: "string",
+                            content: "After measuring, the data will upload to Fitbit. You can log in Fitbit App or log in Fitbit web and check current weight, BMI and Body Fat.",
+                            level: 1
+                        },
+                        {
+                            type: "image",
+                            content: require("./img/fitbit_result.png"),
+                            maxWidth: true,
+                        },
+                    ]
+                },
+                {
                     question: "How is a Feelfit friends added?", answers: [
                     "“Friends” function can help you see each other's physical changes, for examples, dietitians/fitness coaches often need to monitor their own customers' physical changes and can use this function.",
                     {

@@ -16,7 +16,7 @@ export default class Image extends React.Component {
             src = answer.other[app] || src;
         }
 
-        var width = answer.maxWidth ? "100%" : (answer.width || 220);
+        var width = answer.maxWidth ? "100%" : (answer.width || 230);
 
         var alignCenter = answer.center ? ' answer_image_align_center' : "";
         var topPadding = answer.textDown ? 20 : 0;
