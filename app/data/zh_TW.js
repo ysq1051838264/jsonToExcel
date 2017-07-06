@@ -173,8 +173,8 @@ export default {
                     ],
                 },
                 {
-                    id: 'how_to_avoid_measure_deviation',
                     question: "如何測量才能避免產生不必要的測量誤差？",
+                    id: 'how_to_avoid_measure_deviation',
                     answers: [
                         {
                             type: "string",
@@ -274,6 +274,79 @@ export default {
         {
             title: "如何使用APP功能",
             questions: [
+                {
+                    question: "無法連接設備？",
+                    id: "cannot_connect_to_device_android",
+                    platform: 'android',
+                    answers: [
+                        {
+                            type: "string",
+                            content: "確保藍牙已經打開，秤放在手機附近，已安裝上電池並且已亮屏",
+                            level: 1,
+                        },
+                        {
+                            type: "string",
+                            content: "如果是安卓6.0的設備，請確定是否已經授予 Feelfit 定位權限",
+                            level: 1,
+                        },
+                        {
+                            type: "image",
+                            content: require("./img/authorize_permission_feelfit.png"),
+                            other: {
+                                Yolanda: require("./img/authorize_permission_yolanda.png"),
+                                Kitnew: require('./img/authorize_permission_kitnew.png'),
+                                RENPHO: require('./img/authorize_permission_renpho.png'),
+                            },
+                        },
+                        {
+                            type: "string",
+                            content: "已經授予定位權限卻還是搜索不到，請打開GPS定位",
+                            level: 1,
+                        },
+                        {
+                            type: "string",
+                            content: "授予 Feelfit 定位權限",
+                        },
+                        {
+                            type: "string",
+                            content: "進入到 設置，在設置中點擊 “應用”",
+                            level: 2,
+                        },
+                        {
+                            type: "image",
+                            content: require('./img/authorize_permission_1.png'),
+                        },
+                        {
+                            type: "string",
+                            content: "在所有應用中，找到輕牛，點擊進入到 應用信息",
+                            level: 2,
+                        },
+                        {
+                            type: "image",
+                            content: require("./img/authorize_permission_2_feelfit.png"),
+                            other: {
+                                Yolanda: require("./img/authorize_permission_2_yolanda.png"),
+                                Kitnew: require('./img/authorize_permission_2_kitnew.png'),
+                                RENPHO: require('./img/authorize_permission_2_renpho.png'),
+                            },
+                        },
+                        {
+                            type: "string",
+                            content: "在應用信息中找到權限，點擊進入到應用訪問授權，找到位置信息並打開",
+                            level: 2,
+                        },
+                        {
+                            type: "image",
+                            content: require("./img/authorize_permission_3_feelfit.png"),
+                            other: {
+                                Yolanda: require("./img/authorize_permission_3_yolanda.png"),
+                                Kitnew: require('./img/authorize_permission_3_kitnew.png'),
+                                RENPHO: require('./img/authorize_permission_3_renpho.png'),
+                            },
+                            maxWidth: true,
+                        },
+                    ],
+                },
                 {
                     question: "如何將藍牙秤和APP進行綁定",
                     answers: [
@@ -436,52 +509,53 @@ export default {
                     ]
                 },
                 {
-                    question: "如何添加Feelfit friends？", answers: [
-                    "Friends功能可以幫助妳們互相看到對方的身體變化情況，比如營養師/健身教練常常需要monitor自己的客戶的身體變化情況，就可以使用這個功能。",
-                    {
-                        type: 'string',
-                        content: "點擊選項卡 “我”（主界面右下角）",
-                        level: 1
-                    },
-                    {
-                        type: "image",
-                        content: require('./img/user_index.png'),
-                    },
-                    {
-                        type: 'string',
-                        content: "點擊頭像左邊的圖標，彈出選擇添加Feelfit friends",
-                        level: 1,
-                    },
-                    {
-                        type: "image",
-                        content: require('./img/user_add_guide_3_feelfit.png'),
-                        other: {
-                            Yolanda: require("./img/user_add_guide_3_yolanda.png"),
-                            Kitnew: require('./img/user_add_guide_3_kitnew.png'),
-                            RENPHO: require('./img/user_add_guide_3_renpho.png'),
+                    question: "如何添加Feelfit friends？",
+                    answers: [
+                        "Friends功能可以幫助妳們互相看到對方的身體變化情況，比如營養師/健身教練常常需要monitor自己的客戶的身體變化情況，就可以使用這個功能。",
+                        {
+                            type: 'string',
+                            content: "點擊選項卡 “我”（主界面右下角）",
+                            level: 1
                         },
-                        maxWidth: true,
-                    },
-                    {
-                        type: 'string',
-                        content: "然後輸入對方的郵箱，點擊“發送”",
-                        level: 1,
-                    },
-                    {
-                        type: "image",
-                        content: require('./img/user_add_guide_4_feelfit.png'),
-                        other: {
-                            Yolanda: require("./img/user_add_guide_4_yolanda.png"),
-                            Kitnew: require('./img/user_add_guide_4_kitnew.png'),
-                            RENPHO: require('./img/user_add_guide_4_renpho.png'),
+                        {
+                            type: "image",
+                            content: require('./img/user_index.png'),
                         },
-                    },
-                    {
-                        type: 'string',
-                        content: "此時對方會收到壹條系統消息，對方可以通過點擊選項卡“我”界面上右上角的icon進入系統消息查看。如果對方並且接受了妳的邀請，妳們就成功的成為了friends。可以互相查看對方的身體詳情。",
-                        level: 1,
-                    },
-                ]
+                        {
+                            type: 'string',
+                            content: "點擊頭像左邊的圖標，彈出選擇添加Feelfit friends",
+                            level: 1,
+                        },
+                        {
+                            type: "image",
+                            content: require('./img/user_add_guide_3_feelfit.png'),
+                            other: {
+                                Yolanda: require("./img/user_add_guide_3_yolanda.png"),
+                                Kitnew: require('./img/user_add_guide_3_kitnew.png'),
+                                RENPHO: require('./img/user_add_guide_3_renpho.png'),
+                            },
+                            maxWidth: true,
+                        },
+                        {
+                            type: 'string',
+                            content: "然後輸入對方的郵箱，點擊“發送”",
+                            level: 1,
+                        },
+                        {
+                            type: "image",
+                            content: require('./img/user_add_guide_4_feelfit.png'),
+                            other: {
+                                Yolanda: require("./img/user_add_guide_4_yolanda.png"),
+                                Kitnew: require('./img/user_add_guide_4_kitnew.png'),
+                                RENPHO: require('./img/user_add_guide_4_renpho.png'),
+                            },
+                        },
+                        {
+                            type: 'string',
+                            content: "此時對方會收到壹條系統消息，對方可以通過點擊選項卡“我”界面上右上角的icon進入系統消息查看。如果對方並且接受了妳的邀請，妳們就成功的成為了friends。可以互相查看對方的身體詳情。",
+                            level: 1,
+                        },
+                    ]
                 },
                 {
                     question: "如何查看我的歷史測量數據？如果我想刪除其中的數據該怎麽辦？",

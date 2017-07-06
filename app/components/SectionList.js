@@ -21,6 +21,7 @@ export default class SectionList extends React.Component {
         var {helpCenter} = this.props;
         var sectionList = helpCenter.sections;
         var {title} = helpCenter;
+
         return (
             <div className="section_list_container">
                 <NavigationBar title={title} onBackClick={this.onBackClick.bind(this)}/>

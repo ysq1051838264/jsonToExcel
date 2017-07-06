@@ -275,6 +275,79 @@ export default {
             title: "How to using our APP ",
             questions: [
                 {
+                    question: "can not connect to device？",
+                    id: "cannot_connect_to_device_android",
+                    platform: 'android',
+                    answers: [
+                        {
+                            type: "string",
+                            content: "Please make sure that bluetooth is already turned on, the scale is near the phone and battery is installed with bright screen.",
+                            level: 1,
+                        },
+                        {
+                            type: "string",
+                            content: "If it is Android 6.0 device, please make sure whether it grant location rights to Feelfit",
+                            level: 1,
+                        },
+                        {
+                            type: "image",
+                            content: require("./img/authorize_permission_feelfit.png"),
+                            other: {
+                                Yolanda: require("./img/authorize_permission_yolanda.png"),
+                                Kitnew: require('./img/authorize_permission_kitnew.png'),
+                                RENPHO: require('./img/authorize_permission_renpho.png'),
+                            },
+                        },
+                        {
+                            type: "string",
+                            content: "If it still can not be searched after granting location rights, please turn on GPS.",
+                            level: 1,
+                        },
+                        {
+                            type: "string",
+                            content: "Grant location rights to Yolanda:",
+                        },
+                        {
+                            type: "string",
+                            content: "Click “Apps” in Setting",
+                            level: 2,
+                        },
+                        {
+                            type: "image",
+                            content: require('./img/authorize_permission_1.png'),
+                        },
+                        {
+                            type: "string",
+                            content: "Seek out Yolanda from All apps and click it into App info.",
+                            level: 2,
+                        },
+                        {
+                            type: "image",
+                            content: require("./img/authorize_permission_2_feelfit.png"),
+                            other: {
+                                Yolanda: require("./img/authorize_permission_2_yolanda.png"),
+                                Kitnew: require('./img/authorize_permission_2_kitnew.png'),
+                                RENPHO: require('./img/authorize_permission_2_renpho.png'),
+                            },
+                        },
+                        {
+                            type: "string",
+                            content: "Seek out Permissions from App info, click it into App permissions and then turn on location.",
+                            level: 2,
+                        },
+                        {
+                            type: "image",
+                            content: require("./img/authorize_permission_3_feelfit.png"),
+                            other: {
+                                Yolanda: require("./img/authorize_permission_3_yolanda.png"),
+                                Kitnew: require('./img/authorize_permission_3_kitnew.png'),
+                                RENPHO: require('./img/authorize_permission_3_renpho.png'),
+                            },
+                            maxWidth: true,
+                        },
+                    ],
+                },
+                {
                     question: "How is the scale bound to it?",
                     answers: [
                         "Please open the APP and enter measurement interface. As shown below, please stand on the scale and turn on the LED on the scale. If the current APP was not previously bound to any scale, it will automatically be bound to the scale and weigh you immediately.",

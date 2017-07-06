@@ -173,8 +173,8 @@ export default {
                     ],
                 },
                 {
-                    id: 'how_to_avoid_measure_deviation',
                     question: "如何测量才能避免产生不必要的测量误差？",
+                    id: 'how_to_avoid_measure_deviation',
                     answers: [
                         {
                             type: "string",
@@ -274,6 +274,79 @@ export default {
         {
             title: "如何使用APP功能",
             questions: [
+                {
+                    question: "无法连接设备？",
+                    id: "cannot_connect_to_device_android",
+                    platform: 'android',
+                    answers: [
+                        {
+                            type: "string",
+                            content: "确保蓝牙已经打开，秤放在手机附近，已安装上电池并且已亮屏",
+                            level: 1,
+                        },
+                        {
+                            type: "string",
+                            content: "如果是安卓6.0的设备，请确定是否已经授予 Feelfit 定位权限",
+                            level: 1,
+                        },
+                        {
+                            type: "image",
+                            content: require("./img/authorize_permission_feelfit.png"),
+                            other: {
+                                Yolanda: require("./img/authorize_permission_yolanda.png"),
+                                Kitnew: require('./img/authorize_permission_kitnew.png'),
+                                RENPHO: require('./img/authorize_permission_renpho.png'),
+                            },
+                        },
+                        {
+                            type: "string",
+                            content: "已经授予定位权限却还是搜索不到，请打开GPS定位",
+                            level: 1,
+                        },
+                        {
+                            type: "string",
+                            content: "授予 Feelfit 定位权限",
+                        },
+                        {
+                            type: "string",
+                            content: "进入到 设置，在设置中点击 “应用”",
+                            level: 2,
+                        },
+                        {
+                            type: "image",
+                            content: require('./img/authorize_permission_1.png'),
+                        },
+                        {
+                            type: "string",
+                            content: "在所有应用中，找到轻牛，点击进入到 应用信息",
+                            level: 2,
+                        },
+                        {
+                            type: "image",
+                            content: require("./img/authorize_permission_2_feelfit.png"),
+                            other: {
+                                Yolanda: require("./img/authorize_permission_2_yolanda.png"),
+                                Kitnew: require('./img/authorize_permission_2_kitnew.png'),
+                                RENPHO: require('./img/authorize_permission_2_renpho.png'),
+                            },
+                        },
+                        {
+                            type: "string",
+                            content: "在应用信息中找到权限，点击进入到应用访问授权，找到位置信息并打开",
+                            level: 2,
+                        },
+                        {
+                            type: "image",
+                            content: require("./img/authorize_permission_3_feelfit.png"),
+                            other: {
+                                Yolanda: require("./img/authorize_permission_3_yolanda.png"),
+                                Kitnew: require('./img/authorize_permission_3_kitnew.png'),
+                                RENPHO: require('./img/authorize_permission_3_renpho.png'),
+                            },
+                            maxWidth: true,
+                        },
+                    ],
+                },
                 {
                     question: "如何将蓝牙秤和APP进行绑定",
                     answers: [
