@@ -275,7 +275,7 @@ export default {
             title: "How to using our APP ",
             questions: [
                 {
-                    question: "can not connect to device？",
+                    question: "Can not connect to device？",
                     id: "cannot_connect_to_device_android",
                     platform: 'android',
                     answers: [
