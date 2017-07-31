@@ -11,7 +11,7 @@ export default class NavigationBar extends React.Component {
             <div className="navigation_bar" >
                 {this.props.title}
                 <div className="navigation_bar_arrow" onClick={this.props.onBackClick}>
-                    <img width={25} height={25} src={require("../images/common_left_arrow.png")}/>
+                    <img width={20} height={20} src={require("../images/common_left_arrow.png")}/>
                 </div>
             </div>
         )

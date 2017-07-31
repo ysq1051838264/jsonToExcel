@@ -2,7 +2,7 @@
  * Created by hdr on 17/6/9.
  */
 export default {
-    title: '帮助中心',
+    title: 'FAQ',
     sections: [
         {
             title: "产品的使用注意事项",

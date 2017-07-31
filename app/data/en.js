@@ -2,7 +2,7 @@
  * Created by hdr on 17/6/9.
  */
 export default {
-    title: 'Help Center',
+    title: 'FAQ',
     sections: [
         {
             title: "Precautions for use of the product",

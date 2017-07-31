@@ -19,7 +19,7 @@ export default class ItemQuestion extends React.Component {
             <tr onClick={this.handlerClick.bind(this)}>
                 <td className={separatorClass + " question_list_td_content"}>{question}</td>
                 <td className={separatorClass + " question_list_arrow_container"}>
-                    <img className="question_list_arrow"
+                    <img className="question_list_arrow" width={14} height={14}
                          src={require("../images/common_right_arrow.png")}/>
                 </td>
             </tr>
