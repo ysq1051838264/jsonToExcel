@@ -48,7 +48,8 @@ export default class SectionList extends React.Component {
         if (app == null) {
             app = "Feelfit";
         }
-
-        window.location.href = app + '://center.help/back';
+        const uri = app.replace(' ', '') + '://center.help/back';
+        console.log("uri", uri);
+        window.location.href = uri;
     }
 }

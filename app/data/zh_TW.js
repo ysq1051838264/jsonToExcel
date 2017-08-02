@@ -173,8 +173,8 @@ export default {
                     ],
                 },
                 {
-                    question: "如何測量才能避免產生不必要的測量誤差？",
                     id: 'how_to_avoid_measure_deviation',
+                    question: "如何測量才能避免產生不必要的測量誤差？",
                     answers: [
                         {
                             type: "string",
@@ -296,6 +296,7 @@ export default {
                                 Yolanda: require("./img/authorize_permission_yolanda.png"),
                                 Kitnew: require('./img/authorize_permission_kitnew.png'),
                                 RENPHO: require('./img/authorize_permission_renpho.png'),
+                                "BF Scale": require('./img/authorize_permission_bfscale.png'),
                             },
                         },
                         {
@@ -328,6 +329,7 @@ export default {
                                 Yolanda: require("./img/authorize_permission_2_yolanda.png"),
                                 Kitnew: require('./img/authorize_permission_2_kitnew.png'),
                                 RENPHO: require('./img/authorize_permission_2_renpho.png'),
+                                "BF Scale": require('./img/authorize_permission_2_bfscale.png'),
                             },
                         },
                         {
@@ -342,6 +344,7 @@ export default {
                                 Yolanda: require("./img/authorize_permission_3_yolanda.png"),
                                 Kitnew: require('./img/authorize_permission_3_kitnew.png'),
                                 RENPHO: require('./img/authorize_permission_3_renpho.png'),
+                                "BF Scale": require('./img/authorize_permission_3_bfscale.png'),
                             },
                             maxWidth: true,
                         },
@@ -400,6 +403,7 @@ export default {
                                 Yolanda: require("./img/user_add_guide_2_yolanda.png"),
                                 Kitnew: require("./img/user_add_guide_2_kitnew.png"),
                                 RENPHO: require("./img/user_add_guide_2_renpho.png"),
+                                "BF Scale": require("./img/user_add_guide_2_bfscale.png"),
                             }
                         },
                         {
@@ -489,6 +493,7 @@ export default {
                                 Yolanda: require("./img/health_kit_yolanda.png"),
                                 Kitnew: require('./img/health_kit_kitnew.png'),
                                 RENPHO: require('./img/health_kit_renpho.png'),
+                                "BF Scale": require('./img/health_kit_bfscale.png'),
                             },
                             maxWidth: true,
                         },
@@ -504,6 +509,7 @@ export default {
                                 Yolanda: require("./img/health_kit_switcher_yolanda.png"),
                                 Kitnew: require('./img/health_kit_switcher_kitnew.png'),
                                 RENPHO: require('./img/health_kit_switcher_renpho.png'),
+                                "BF Scale": require('./img/health_kit_switcher_bfscale.png'),
                             },
                             maxWidth: true,
                         },
@@ -642,6 +648,7 @@ export default {
                                 Yolanda: require("./img/user_add_guide_3_yolanda.png"),
                                 Kitnew: require('./img/user_add_guide_3_kitnew.png'),
                                 RENPHO: require('./img/user_add_guide_3_renpho.png'),
+                                "BF Scale": require('./img/user_add_guide_3_bfscale.png'),
                             },
                             maxWidth: true,
                         },
@@ -657,6 +664,7 @@ export default {
                                 Yolanda: require("./img/user_add_guide_4_yolanda.png"),
                                 Kitnew: require('./img/user_add_guide_4_kitnew.png'),
                                 RENPHO: require('./img/user_add_guide_4_renpho.png'),
+                                "BF Scale": require('./img/user_add_guide_4_bfscale.png'),
                             },
                         },
                         {
@@ -748,4 +756,3 @@ export default {
         }
     ],
 }
-;
