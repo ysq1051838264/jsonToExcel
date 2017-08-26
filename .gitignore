@@ -1,5 +1,4 @@
 node_modules/
-build/*.png
-build/*.js
+build/
 .DS_Store
 .idea/

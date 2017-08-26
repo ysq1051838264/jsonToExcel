@@ -55,7 +55,7 @@ export default {
                     question: "Battery precautions",
                     answers: [
                         "If you do not use the product for more than a week, please remove the battery, save energy and improve the service life of the product.",
-                        "The accessory low power batteries are just for initializing the fat scale when you get it from the retailer, Please change to regular batteries after you finish your setting up.  ",
+                        "The free batteries are just for initializing the body fat scale with low power, please replace with new batteries in time after finished the initializing settings",
                     ],
                 },
                 {
