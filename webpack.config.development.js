@@ -2,7 +2,7 @@
  * Created by hdr on 17/6/14.
  */
 var webpack = require('webpack');
-console.log("加载了开发环境的配置");
+
 module.exports = {
     entry: ['webpack/hot/dev-server', __dirname + "/app/main.js"],
     devtool: 'eval-source-map',
@@ -31,6 +31,9 @@ module.exports = {
     },
     plugins: [
         new webpack.HotModuleReplacementPlugin(),
+        new HtmlWebpackPlugin({
+            template: __dirname + "/app/index.tmpl.html"//new 一个这个插件的实例，并传入相关的参数
+        })
     ],
     devServer: {
         contentBase: './build',

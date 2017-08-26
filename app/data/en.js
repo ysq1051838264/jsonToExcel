@@ -52,6 +52,13 @@ export default {
                     ]
                 },
                 {
+                    question: "Battery precautions",
+                    answers: [
+                        "If you do not use the product for more than a week, please remove the battery, save energy and improve the service life of the product.",
+                        "The accessory low power batteries are just for initializing the fat scale when you get it from the retailer, Please change to regular batteries after you finish your setting up.  ",
+                    ],
+                },
+                {
                     question: "Can my body scale be connected to an APP (computer application program)? Please briefly introduce the situation.",
                     answers: [
                         "The body fat scale which you have bought must be used in coordination with an APP, otherwise the scale only shows weight information. In the APP, there is more information such as body fat percentage and body water percentage to be displayed. Advantage of doing so is to make your measurement result for one time be able to be recorded on your mobile phone and cloud service.",
