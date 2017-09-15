@@ -2,7 +2,7 @@
  * Created by hdr on 17/6/14.
  */
 var webpack = require('webpack');
-
+const HtmlWebpackPlugin = require("html-webpack-plugin")
 module.exports = {
     entry: ['webpack/hot/dev-server', __dirname + "/app/main.js"],
     devtool: 'eval-source-map',
