@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "webpack",
-    "dev": "webpack-dev-server --devtool eval --progress --colors --content-base build --host 192.168.1.116",
+    "dev": "webpack-dev-server --devtool eval --progress --colors --content-base build --host 192.168.1.105",
     "deploy": "webpack -p --progress --colors --config webpack.config.production.js"
   },
   "author": "hdr",
