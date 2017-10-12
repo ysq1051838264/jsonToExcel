@@ -2,21 +2,24 @@
   "title": "FAQ",
   "sections": [
     {
-      "title": "产品的使用注意事项",
+      "title": "注意事項",
       "questions": [
         {
           "question": "ペースメーカーを装着しています。本製品は使用可能ですか？",
           "answers": [
-            "ペースメーカーや体内電気機器を装着されている方は、装着している機器に重大な影響を与える可能性がありますので、体組成計・体脂肪計の測定を行わないでください。"
+            {
+              "content": "ペースメーカーや体内電気機器を装着されている方は、装着している機器に重大な影響を与える可能性がありますので、体組成計・体脂肪計の測定を行わないでください。",
+              "type": "string"
+            }
           ]
         },
         {
           "question": "本製品を使用するにあたって、年齢制限はありますか？",
           "answers": [
             {
-              "type": "string",
+              "level": 1,
               "content": "18歳以下は体組成計のご利用はご遠慮ください。成長期は、体組成分析システムが正確に測定できない事があります。",
-              "level": 1
+              "type": "string"
             },
             {
               "type": "table",
@@ -80,152 +83,156 @@
               ]
             },
             {
-              "type": "string",
+              "level": 1,
               "content": "妊娠されている方：脂肪率等は、正確な測定値が表示されない場合がありますので体重計のみをご使用ください。",
-              "level": 1
+              "type": "string"
             },
             {
-              "type": "string",
+              "level": 1,
               "content": "本格的に運動をされている方：本製品は家庭用となります。専門機器で測定した筋肉量及び脂肪量の数値と本製品で測定した数値では若干誤差があります。",
-              "level": 1
+              "type": "string"
             }
           ]
         },
         {
-          "question": "电池注意事项",
+          "question": "バッテリー注意事項",
           "answers": [
-            "如果超过一周不使用产品请拆下电池，节约能源并提高产品使用寿命。",
-            "随机附送电池仅作为试用电池，请及时更换正式电池。电池使用时间最好不要超过两个月。"
+            {
+              "content": "一週間以上使用ない場合は、製品の使用寿命を長くするや能源の節約ため、バッテリーを取り出してください。",
+              "type": "string"
+            },
+            {
+              "content": "製品に付属しているバッテリーはお試し用ですので、新しいバッテリーを取り替えてください。",
+              "type": "string"
+            }
           ]
         },
         {
           "question": "この体組成計はAPP(アプリケーションソフトウエア)と連動しますか？",
           "answers": [
-            "ご購入いただいた体組成計の本体では、体重としてのみご利用いただけます。脂肪率や水分量は、お持ちのスマートフォンで確認することができます。ペアリングを行い設定をしてください。APPの名前は「yolanda」です。IOS7/7以降&Android4.3/4.3以降のスマートフォンで対応が可能です。",
-            "配合使用的APP名字叫做Feelfit，请到AppleStore和Google Play上免费下载。Feelfit可以记录您和家人的所有测量结果，方便您查看每一次的数据。"
+            {
+              "content": "ご購入いただいた体組成計の本体では、体重としてのみご利用いただけます。脂肪率や水分量は、お持ちのスマートフォンで確認することができます。ペアリングを行い設定をしてください。APPの名前は「Yolanda」です。IOS7/7以降&Android4.3/4.3以降のスマートフォンで対応が可能です。",
+              "type": "string"
+            },
+            {
+              "content": "Apple StoreとGoogle Playには無料でダウンロード頂けます。Yolandaはお客様やご家族全ての計測データを保存できます。",
+              "type": "string"
+            }
           ]
         },
         {
           "question": "APPを開くと、身長や年齢等プライベートな情報を入力しなければいけないでしょうか。個人情報は大丈夫でしょうか。",
           "answers": [
-            "生体電気インピーダンス（BIA）測定法は身長、年齢、性別と体重、身体インピーダンスを組み合わせ脂肪率を測定します。身長、年齢、性別は必須項目となりますのでご登録をお願いします。",
-            "また、お客様の個人情報は、体脂肪率を測定する為のだけの必要な情報となりますので、その他の用途には個人情報は使用致しません。"
+            {
+              "content": "生体電気インピーダンス（BIA）測定法は身長、年齢、性別と体重、身体インピーダンスを組み合わせ脂肪率を測定します。身長、年齢、性別は必須項目となりますのでご登録をお願いします。",
+              "type": "string"
+            },
+            {
+              "content": "また、お客様の個人情報は、体脂肪率を測定する為のだけの必要な情報となりますので、その他の用途には個人情報は使用致しません。",
+              "type": "string"
+            }
           ]
         },
         {
           "question": "体重計のディスプレイに何も表示されない、または、表示が異常（EER）ならどうしますか？",
           "answers": [
-            "秤的显示异常有以下几个方面：",
+            {
+              "content": "ディスプレイ表示が異常：",
+              "type": "string"
+            },
             {
               "id": "scale_error_1",
               "type": "image"
             },
             {
-              "type": "string",
+              "level": 1,
               "content": "LEDライトが点灯していない場合：バッテリーが消耗したかをご確認ください。バッテリーが消耗している場合は、バッテリーを入れ替えて新しいバッテリーに交換してください。",
-              "level": 1
+              "type": "string"
             },
             {
               "id": "scale_error_2",
               "type": "image"
             },
             {
-              "type": "string",
+              "level": 1,
               "content": "ディスプレイに「Lo」が表示されている場合、バッテリーが消耗しているかをご確認ください。バッテリーを入れ替えてまた新しいバッテリーに交換してください。",
-              "level": 1
+              "type": "string"
             },
             {
               "id": "scale_error_3",
               "type": "image"
             },
             {
-              "type": "string",
+              "level": 1,
               "content": "ディスプレイに「EER」が表示されている場合：体重計のセンサーが過負荷または損害されました。本製品の最大測定可能重量は180kgです。",
-              "level": 1
-            }
-          ]
-        },
-        {
-          "question": "如何让秤的显示在lb和kg之间切换？",
-          "answers": [
-            "首先您需要在APP的设置中更改lb和kg的设置，设置完毕之后进行一次完整的测量，在此过程中，APP会将您的设置信息传递给秤，等到秤的LED关机，在下一次秤开机的时候，将会显示您要的单位。",
-            "设置",
-            {
-              "id": "weight_unit_1",
-              "type": "image"
-            },
-            "设置单位",
-            {
-              "id": "weight_unit_2",
-              "type": "image"
+              "type": "string"
             }
           ]
         }
       ]
     },
     {
-      "title": "影响测量数据的原因",
+      "title": "計測データを影響する原因",
       "questions": [
         {
-          "question": "如何正确的测量?",
+          "question": "正確の計測方法",
           "answers": [
             {
-              "type": "string",
-              "content": "打开APP，进入测量界面",
-              "level": 1
+              "level": 1,
+              "content": "APPを開きます",
+              "type": "string"
             },
             {
               "id": "measure_main_ui",
               "type": "image"
             },
             {
-              "type": "string",
-              "content": "测量时脱去鞋袜，双脚分别站在两边的导电极片上，测量时不要随意离开或晃动",
-              "level": 1
+              "level": 1,
+              "content": "靴と靴下を脱いて裸足で体重計の上にまっすぐ立ってください。足裏を電極部分に均一に触れるように立ってください。",
+              "type": "string"
             },
             {
               "id": "how_measure_1",
               "type": "image"
             },
             {
-              "type": "string",
-              "content": "秤是先测量体重，再测量脂肪。测量的时候秤和APP的反应分别如下:",
-              "level": 1
+              "level": 1,
+              "content": "体重を計測してから脂肪率を計測します。",
+              "type": "string"
             },
             {
-              "type": "string",
+              "level": 2,
               "content": "例えば、体重が50kgの場合、体重計に乗ってからディスプレイには「50.00kg」と数字が３回点滅します。その後、ディスプレイに「０」が表示され３回点滅して、「50.00kg」が再度表示され５秒程経つとLEDライトが消えます。これで、測定が完了します。",
-              "level": 2
+              "type": "string"
             },
             {
-              "type": "string",
+              "level": 2,
               "content": "測定中は画面上の円が回転し続け、測定が完了したら「測定完了音」が鳴ります。（設定で「測定完了音」をオフにすることができます。）",
-              "level": 2
+              "type": "string"
             },
             {
-              "type": "string",
-              "content": "下次称重需要等待LED屏幕熄灭 2 - 3 秒再次进行",
-              "level": 1
+              "level": 1,
+              "content": "次の計測はディスプレイがオフになって2-3秒後してください。",
+              "type": "string"
             }
           ]
         },
         {
-          "id": "how_to_avoid_measure_deviation",
           "question": "どう測定すれば誤差を避けることができますか？",
           "answers": [
             {
-              "type": "string",
+              "level": 1,
               "content": "体重の誤差を防ぐ方法",
-              "level": 1
+              "type": "string"
             },
             {
               "id": "how_put_scale",
               "type": "image"
             },
             {
-              "type": "string",
+              "level": 2,
               "content": "体組成計をご使用いただく際は、硬く平らな安定した床面に置いて測定してください。柔らかい床や安定していない床では正確に測定できません。",
-              "level": 2
+              "type": "string"
             },
             {
               "type": "table",
@@ -249,128 +256,125 @@
               ]
             },
             {
-              "type": "string",
+              "level": 2,
               "content": "測定前にキャリブレーションを行ってください。体重計に乗りLEDライトが点灯し、数値が定まったら体重計から降りてください。",
-              "level": 2
+              "type": "string"
             },
             {
-              "type": "string",
+              "level": 1,
               "content": "体脂肪と水分率の誤差を最小限に防ぐ方法:",
-              "level": 1
+              "type": "string"
             },
             {
-              "type": "string",
+              "level": 2,
               "content": "本製品は生体電気インピーダンス(BIA)技術を利用して体脂肪率を計算します。BIAで測定した体脂肪率は以下の数値と関わっています。身体インピーダンス係数、身長、年齢、体重、性別のどの数値を変更しても体脂肪の数は変更します。",
-              "level": 2
+              "type": "string"
             },
             {
-              "type": "string",
+              "level": 3,
               "content": "ご自身の身長、体重、年齢を登録してください。正確な数値を登録しないと正確な体脂肪を測定ができません。",
-              "level": 3
+              "type": "string"
             },
             {
-              "type": "string",
+              "level": 3,
               "content": "素足で測定してください。正しく測定ができなくなります。",
-              "level": 3
+              "type": "string"
             },
             {
-              "type": "string",
+              "level": 3,
               "content": "正しい姿勢で機器本体へ乗ってください。",
-              "level": 3
+              "type": "string"
             },
             {
               "id": "measure_principle",
               "type": "image"
             },
             {
-              "type": "string",
+              "level": 3,
               "content": "正確な身体インピーダンス係数を得るため、測定時は足裏を電極部分に均一に触れるように立ち、約20秒間動かないでください。測定時に足裏が電極部分から離れたり、動いたりすると正確な数値がでない場合があります。",
-              "level": 3
+              "type": "string"
             },
             {
-              "type": "string",
+              "level": 2,
               "content": "本製品は生体電気インピーダンス(BIA)技術を利用して、測定結果を正確にするため、できるだけ同じ時間帯、同じ状況で測定をするようにお願いします。食事や水分を摂取することにより１日で0.5kgから2kgの変化があります。体脂肪率＝脂肪重量/体重、水分の減増により体脂肪率も変動します。食後、入浴後、運動後などは体内の水分量が変動するため、体脂肪率の数値が低くなってしまったり、高くなってしまったりします。",
-              "level": 2
+              "type": "string"
             },
             {
               "id": "bodyfat_trend_per_day",
               "type": "image"
             },
             {
-              "type": "string",
-              "content": " 起床後や食後と入浴後であれば２時間以上たった後が体内の水分量が安定している状態といわれている為、連続的に正確に測定したい場合は、起床後の測定をお勧めします。"
+              "content": " 起床後や食後と入浴後であれば２時間以上たった後が体内の水分量が安定している状態といわれている為、連続的に正確に測定したい場合は、起床後の測定をお勧めします。",
+              "type": "string"
             }
           ]
         },
         {
           "question": "他メーカーの体重計で測定した体脂肪率と誤差があるのは何故ですか？",
           "answers": [
-            "脂肪は体の中でも複雑な存在で、皮下脂肪や内臓脂肪などを含み、身体のそれぞれに分布しています。脂肪率を測定する機器（DEXA、BIA、水中計量方等）がいくつかあり、それぞれ測定方法は異なり測定結果も異なります。その中でも、水中計量方とDEXA（二重エネルギーX線吸収方）がスタンダードで使用されていますが、この機器でも多少の誤差は生じます。尚、一般的な家庭用体組成計は、BIA測定法を採用しています。",
-            "因此我们建议用户，尽量使用同一个评估系统，对脂肪率进行长期的监控和测量，长期的变化值可以评估得到一个人的健康状况变化趋势，对健康趋势的掌控才是最重要的，因此我们认为变化的相对值比单次测量的绝对值更加有意义。"
-          ]
-        },
-        {
-          "question": "体組成計で測定した成分は１（100％）より多いのは何故でしょうか？",
-          "answers": [
-            "人の主な成分は脂肪組織、水分、蛋白質等です。脂肪組織に主な成分は脂肪と水分です。水分は脂肪組織の25％ぐらい占めています。筋肉組織の主な成分は蛋白質と水分で、水分は筋肉組織の70％ぐらい占めます。",
-            "本製品は脂肪組織、筋肉組織、水分、骨量等主な成分を測定しています。各組織には相当比率の水分を含めているので、最終の測定結果は１より多いです。"
+            {
+              "content": "脂肪は体の中でも複雑な存在で、皮下脂肪や内臓脂肪などを含み、身体のそれぞれに分布しています。脂肪率を測定する機器（DEXA、BIA、水中計量方等）がいくつかあり、それぞれ測定方法は異なり測定結果も異なります。その中でも、水中計量方とDEXA（二重エネルギーX線吸収方）がスタンダードで使用されていますが、この機器でも多少の誤差は生じます。尚、一般的な家庭用体組成計は、BIA測定法を採用しています。",
+              "type": "string"
+            },
+            {
+              "content": "脂肪率の長期間の計測と管理をお勧めします。長時間の脂肪率の変化は健康管理に役たちます。具体的な数値より長時間の変化はもっと有意義だと思います。",
+              "type": "string"
+            }
           ]
         }
       ]
     },
     {
-      "title": "如何使用APP功能",
+      "title": "APPの使用について",
       "questions": [
         {
-          "question": "无法连接设备？",
-          "id": "cannot_connect_to_device_android",
-          "platform": "android",
+          "question": "デバイスと接続できない？",
           "answers": [
             {
-              "type": "string",
-              "content": "确保蓝牙已经打开，秤放在手机附近，已安装上电池并且已亮屏",
-              "level": 1
+              "level": 1,
+              "content": "バッテリーが取り付け、Bluetoothがオンにして、スマホは体組成計の近くにあることをご確認ください。",
+              "type": "string"
             },
             {
-              "type": "string",
-              "content": "如果是安卓6.0的设备，请确定是否已经授予 Feelfit 定位权限",
-              "level": 1
+              "level": 1,
+              "content": "Android6.0以降のSDKにてBluetooth接続のためにGPS機能を求められます。",
+              "type": "string"
             },
             {
               "id": "authorize_permission_feelfit",
               "type": "image"
             },
             {
-              "type": "string",
-              "content": "已经授予定位权限却还是搜索不到，请打开GPS定位",
-              "level": 1
+              "level": 1,
+              "content": "GPS機能を許可しても捜索できない場合はGPSを開き",
+              "type": "string"
             },
             {
-              "type": "string",
-              "content": "授予 Feelfit 定位权限"
+              "content": "Yolandaの位置情報取得を許可します",
+              "type": "string"
             },
             {
-              "type": "string",
-              "content": "进入到 设置，在设置中点击 “应用”",
-              "level": 2
+              "level": 2,
+              "content": "設置で",
+              "type": "string"
             },
             {
               "id": "authorize_permission_1",
               "type": "image"
             },
             {
-              "type": "string",
-              "content": "在所有应用中，找到 Feelfit，点击进入到 应用信息",
-              "level": 2
+              "level": 2,
+              "content": "位置情報サービスでYolandaをクリックして",
+              "type": "string"
             },
             {
               "id": "authorize_permission_2_feelfit",
               "type": "image"
             },
             {
-              "type": "string",
-              "content": "在应用信息中找到权限，点击进入到应用访问授权，找到位置信息并打开",
-              "level": 2
+              "level": 2,
+              "content": "位置情報サービスでYolandaを許可してください",
+              "type": "string"
             },
             {
               "id": "authorize_permission_3_feelfit",
@@ -379,46 +383,55 @@
           ]
         },
         {
-          "question": "如何将蓝牙秤和APP进行绑定",
+          "question": "体組成計とBluetoothのペアリング",
           "answers": [
-            "APPを開き、測量インターフェースに入ってください。以下の写真ように体重計に乗ってLEDライトを点灯します。APPが他の体重計とペアリングしていない場合は、自動的に本製品のAPPとペアリングができます。",
+            {
+              "content": "APPを開き、測量インターフェースに入ってください。以下の写真ように体重計に乗ってLEDライトを点灯します。APPが他の体重計とペアリングしていない場合は、自動的に本製品のAPPとペアリングができます。",
+              "type": "string"
+            },
             {
               "id": "measure_main_ui",
               "type": "image"
             },
-            "もし、他の体重計とペアリングしたことがある場合測量インターフェース右上の＋をクリックして設備を追加します。",
+            {
+              "content": "もし、他の体重計とペアリングしたことがある場合測量インターフェース右上の＋をクリックして設備を追加します。",
+              "type": "string"
+            },
             {
               "id": "measure_add_device_guide",
               "type": "image"
             },
             {
-              "type": "string",
-              "content": "ペアリングを行う際、体組成計のLEDライトは点灯している状態を保っている状態で行ってください。"
+              "content": "ペアリングを行う際、体組成計のLEDライトは点灯している状態を保っている状態で行ってください。",
+              "type": "string"
             }
           ]
         },
         {
-          "question": "我买的蓝牙秤，测量的一定要打开APP吗？",
+          "question": "計測の時必ずAPPを開きますか",
           "answers": [
-            "APPを開かないでも測定できます。この場合、データは体重計に保存されています。最大は20回のデータを保存できます。次回ご使用になる際、APPを開き体重計に保存しているデータが自動的にAPPに送られ、適切なメンバーアカウントに割り当てられます。受信したデータとAPPに全てのデータに３KG以上の差があった場合、手動的に割り当てまたは削除します。"
+            {
+              "content": "APPを開かないでも測定できます。この場合、データは体重計に保存されています。最大は20回のデータを保存できます。次回ご使用になる際、APPを開き体重計に保存しているデータが自動的にAPPに送られ、適切なメンバーアカウントに割り当てられます。受信したデータとAPPに全てのデータに３KG以上の差があった場合、手動的に割り当てまたは削除します。",
+              "type": "string"
+            }
           ]
         },
         {
           "question": "使用するユーザーを追加する方法",
           "answers": [
             {
-              "type": "string",
+              "level": 1,
               "content": "アカウントをクリック",
-              "level": 1
+              "type": "string"
             },
             {
               "id": "user_index",
               "type": "image"
             },
             {
-              "type": "string",
+              "level": 1,
               "content": "人の形をしたアイコン（ユーザーアイコン）の左にある画像をクリックしてユーザーを追加できます",
-              "level": 1
+              "type": "string"
             },
             {
               "id": "user_add_guide_1",
@@ -429,19 +442,19 @@
               "type": "image"
             },
             {
-              "type": "string",
+              "level": 1,
               "content": "測定には、身長・年齢・性別を駆らなず登録してください。",
-              "level": 1
+              "type": "string"
             },
             {
-              "type": "string",
+              "level": 1,
               "content": "Yolanda友達を追加するには、相手の登録メールアドレスを入力してください。",
-              "level": 1
+              "type": "string"
             },
             {
-              "type": "string",
+              "level": 1,
               "content": "ユーザーを追加後、使用するユーザーを選択し測定が出来るようになります。",
-              "level": 1
+              "type": "string"
             }
           ]
         },
@@ -449,70 +462,69 @@
           "question": "性別・年齢・身長を間違えて登録した場合、修正はできますか？",
           "answers": [
             {
-              "type": "string",
+              "level": 1,
               "content": "アカウントをクリックして、",
-              "level": 1
+              "type": "string"
             },
             {
               "id": "user_index",
               "type": "image"
             },
             {
-              "type": "string",
-              "content": "点击界面上方的用户头像",
-              "level": 1
+              "level": 1,
+              "content": "ユーザーアイコンをクリックして",
+              "type": "string"
             },
             {
               "id": "user_edit_profile_guide",
               "type": "image"
             },
             {
-              "type": "string",
+              "level": 1,
               "content": "ユーザーアイコンをクリックして性別、年齢、身長を変更できます。",
-              "level": 1
+              "type": "string"
             },
             {
-              "type": "string",
-              "content": "修改完成后，点击保存即可",
-              "level": 1
+              "level": 1,
+              "content": "修正が変更して確認をクリックしてください。",
+              "type": "string"
             }
           ]
         },
         {
           "question": "iPhoneのヘルスケアやはどのように連携できますか？",
-          "platform": "ios",
           "answers": [
             {
-              "type": "string",
+              "level": 1,
               "content": "iPhoneのヘルスケアを開き",
-              "level": 1
+              "type": "string"
             },
             {
               "id": "health_kit_logo",
               "type": "image"
             },
             {
-              "type": "string",
-              "content": "点击“数据来源”选项卡",
-              "level": 1
+              "level": 1,
+              "content": "ソースをクリックして",
+              "type": "string"
             },
             {
               "id": "health_kit_index",
               "type": "image"
             },
             {
-              "type": "string",
+              "level": 1,
               "content": "ソースをクリックして、ソースリストから「Yolanda」を選択してください",
-              "level": 1
+              "type": "string"
             },
             {
               "id": "health_kit_feelfit",
               "type": "image"
             },
             {
-              "type": "string",
-              "content": "控制开关来开启或禁用数据权限",
-              "level": 1
+              "level": 1,
+              "content": "書き込みの許可をオン/オフにします。",
+              "type": "string"
             },
             {
               "id": "health_kit_switcher_feelfit",
@@ -521,50 +533,48 @@
           ]
         },
         {
-          "question": "如何连接到 Google Fit?",
-          "id": "how_to_connect_google_fit",
-          "platform": "android",
+          "question": " Google Fitとの接続する方法?",
           "answers": [
             {
-              "type": "string",
-              "content": "在“我的”界面点击右上角的“设置”图标",
-              "level": 1
+              "level": 1,
+              "content": "アカウント、設置をクリックして",
+              "type": "string"
             },
             {
               "id": "me_setting",
               "type": "image"
             },
             {
-              "type": "string",
-              "content": "进入到“系统设置”界面，点击“Google Fit”栏，进入到“Google Fit”界面",
-              "level": 1
+              "level": 1,
+              "content": "設置のところGoogle Fitをクリックして",
+              "type": "string"
             },
             {
               "id": "setting_googlefit",
               "type": "image"
             },
             {
-              "type": "string",
-              "content": "打开“Google Fit”的开关按钮，会弹出已存在Google账号的选取界面（或添加新账号、注册Google账号），或选取自己的Google账号",
-              "level": 1
+              "level": 1,
+              "content": "Google Fitをオンにして、Google Fitの登録ページに入ります。",
+              "type": "string"
             },
             {
               "id": "googlefit_switcher",
               "type": "image"
             },
             {
-              "type": "string",
-              "content": "选取成功后返回到“Google Fit”界面，此时“Google Fit”开关按钮的状态为开，连接GoogleFit成功",
-              "level": 1
+              "level": 1,
+              "content": "登録して設置のGoogleFitページに戻して、GoogleFitはオンにします。",
+              "type": "string"
             },
             {
               "id": "google_switcher_enable",
               "type": "image"
             },
             {
-              "type": "string",
-              "content": "上秤测量后，此时数据会上传到Google Fit，可以登录APP查看相关数据",
-              "level": 1
+              "level": 1,
+              "content": "体組成計に乗って計測して、データはGoogle Fitにアップロードします。APPを登録してデータを確認できます。",
+              "type": "string"
             },
             {
               "id": "googlefit_result",
@@ -573,49 +583,48 @@
           ]
         },
         {
-          "question": "如何连接到 Fitbit?",
-          "id": "how_to_connect_fitbit",
+          "question": " Fitbitとの接続する方法?",
           "answers": [
             {
-              "type": "string",
-              "content": "在“我的”界面点击右上角的“设置”图标",
-              "level": 1
+              "level": 1,
+              "content": "アカウント、設置をクリックして",
+              "type": "string"
             },
             {
               "id": "me_setting",
               "type": "image"
             },
             {
-              "type": "string",
-              "content": "进入到“系统设置”界面，点击“FitBit”栏，进入到FitBit界面",
-              "level": 1
+              "level": 1,
+              "content": "FitBit界面設置のところFitBitをクリックして",
+              "type": "string"
             },
             {
               "id": "setting_fitbit",
               "type": "image"
             },
             {
-              "type": "string",
-              "content": "打开“FitBit”的开关按钮，就会跳转到FitBit的登录界面，输入已注册过FitBit的账号和密码（或在该界面下拉选择注册FitBit）",
-              "level": 1
+              "level": 1,
+              "content": "FitBitをオンにして、FitBitの登録ページに入ります。",
+              "type": "string"
             },
             {
               "id": "fitbit_switcher",
               "type": "image"
             },
             {
-              "type": "string",
-              "content": "点击“登录”后，会继续跳转到您本人是否允许APP访问，选择“允许”后，回到APP系统设置界面，此时FitBit的开关为打开状态",
-              "level": 1
+              "level": 1,
+              "content": "登録をクリックしてAPPの読み込みを許可してAPPの設置に戻してFitBitはオンのままします。",
+              "type": "string"
             },
             {
               "id": "fitbit_auth",
               "type": "image"
             },
             {
-              "type": "string",
-              "content": "上秤测量成功后，此时相关数据就会上传到FitBit，可以登录FitBit APP或登录FitBit网页查看当前体重、BMI、体脂",
-              "level": 1
+              "level": 1,
+              "content": "体組成計に乗って計測してデータはFitBitにアップロードします。FitBit APPとFitBitページで体重、BMI、脂肪率を確認できます。",
+              "type": "string"
             },
             {
               "id": "fitbit_result",
@@ -626,38 +635,41 @@
         {
           "question": "Yolanda友達の追加方法。",
           "answers": [
-            "栄養士やフィットネスコーチ等自分の身体の変化を把握してほしい方、共有したい方へこの機能を使用してシェアすることが可能です。",
             {
-              "type": "string",
+              "content": "栄養士やフィットネスコーチ等自分の身体の変化を把握してほしい方、共有したい方へこの機能を使用してシェアすることが可能です。",
+              "type": "string"
+            },
+            {
+              "level": 1,
               "content": "アカウントをクリック",
-              "level": 1
+              "type": "string"
             },
             {
               "id": "user_index",
               "type": "image"
             },
             {
-              "type": "string",
+              "level": 1,
               "content": "してアイコンの左にある画像をクリックします",
-              "level": 1
+              "type": "string"
             },
             {
               "id": "user_add_guide_3_feelfit",
               "type": "image"
             },
             {
-              "type": "string",
+              "level": 1,
               "content": "相手のメールアドレスを入力し確認したら測定記録が見えるようになります",
-              "level": 1
+              "type": "string"
             },
             {
               "id": "user_add_guide_4_feelfit",
               "type": "image"
             },
             {
-              "type": "string",
-              "content": "此时对方会收到一条系统消息，对方可以通过点击选项卡“我”界面上右上角的icon进入系统消息查看。如果对方并且接受了你的邀请，你们就成功的成为了friends。可以互相查看对方的身体详情。",
-              "level": 1
+              "level": 1,
+              "content": "相手はシステムメセッジをもらいます。相手はアカウントのメッセージセンターで確認できます。友達になるリクエストを受け入れならYolanda友達になります。",
+              "type": "string"
             }
           ]
         },
@@ -665,32 +677,32 @@
           "question": "日々の経過データは確認できますか、一部のデータを削除するこはできますか？",
           "answers": [
             {
-              "type": "string",
-              "content": "点击” 图表”选项卡（主界面下方正中间）",
-              "level": 1
+              "level": 1,
+              "content": "チャートをクリックして",
+              "type": "string"
             },
             {
               "id": "chart_index",
               "type": "image"
             },
             {
-              "type": "string",
+              "level": 1,
               "content": "チャートをクリックして、折れ線グラフ内にある●（丸）をクリックして履歴データを確認することができます。",
-              "level": 1
+              "type": "string"
             },
             {
               "id": "chart_click_history",
               "type": "image"
             },
             {
-              "type": "string",
+              "level": 1,
               "content": "削除したいデータの日付をクリックし、削除したいデータの右上",
-              "level": 1
+              "type": "string"
             },
             {
-              "type": "string",
+              "level": 1,
               "content": "削除ボタン」をクリックすると削除ができます。",
-              "level": 1
+              "type": "string"
             },
             {
               "id": "history_check_data",
@@ -702,36 +714,36 @@
           "question": "違う時間帯で測定したデータを比較するには、どうすれば良いでしょうか。",
           "answers": [
             {
-              "type": "string",
+              "level": 1,
               "content": "チャートをクリックして",
-              "level": 1
+              "type": "string"
             },
             {
               "id": "chart_index",
               "type": "image"
             },
             {
-              "type": "string",
+              "level": 1,
               "content": "一週間内の体重の折れ線グラフを確認することができます。他の項目をクリックして折れ線グラフも確認することができます",
-              "level": 1
+              "type": "string"
             },
             {
               "id": "chart_change_indicator",
               "type": "image"
             },
             {
-              "type": "string",
+              "level": 1,
               "content": "グラフを左右にドラッグして前のデータが見られます。",
-              "level": 1
+              "type": "string"
             },
             {
               "id": "chart_slide",
               "type": "image"
             },
             {
-              "type": "string",
+              "level": 1,
               "content": "チャートの上の方で時間範囲を選択することができます。（週、月、年）",
-              "level": 1
+              "type": "string"
             },
             {
               "id": "chart_chart_date",
