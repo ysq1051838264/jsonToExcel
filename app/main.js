@@ -5,9 +5,10 @@ import React from 'react';
 import ReactDom from 'react-dom';
 import SectionList from './components/SectionList';
 import Answer  from './components/Answer';
-import HelpCenter_ZH from './data/zh';
-import HelpCenter_ZH_TW from './data/zh_TW';
-import HelpCenter_EN from './data/en';
+import HelpCenter_ZH from './data/zh.json';
+import HelpCenter_ZH_TW from './data/zh_TW.json';
+import HelpCenter_EN from './data/en.json';
+import imgs from './data/imageMap'
 import queryParams from './util/QueryParams';
 
 class Main extends React.Component {
@@ -17,6 +18,7 @@ class Main extends React.Component {
             currentQuestion: null,
             questionId: null,
         };
+        this.hc = null;
     }
 
     componentDidMount() {
@@ -55,7 +57,25 @@ class Main extends React.Component {
         return targetQuestion;
     }
 
+    prepareHelpCenter(data) {
+
+        data.sections.forEach(section => {
+            section.questions.forEach(question => {
+                question.answers.forEach((answer, index) => {
+                    if (answer.type == 'image') {
+                        question.answers[index] = imgs(answer.id)
+                        question.answers[index].type = 'image';
+                    }
+                })
+            })
+        });
+        return data;
+    }
+
     getHelpCenter() {
+        if(this.hc){
+            return this.hc
+        }
         var lang = queryParams('lang');
         var helpCenter = HelpCenter_EN;
         if (lang != null) {
@@ -65,7 +85,8 @@ class Main extends React.Component {
                 helpCenter = HelpCenter_ZH_TW;
             }
         }
-        return helpCenter;
+        this.hc = this.prepareHelpCenter(helpCenter)
+        return this.hc;
     }
 
 
