@@ -1,1 +1,764 @@
-{"title":"FAQ","sections":[{"title":"Précautions d’utilisation du produit ","questions":[{"question":"Qui ne peut pas utiliser ce produit? ","answers":[{"content":"L’utilisation de dispositifs médicaux durables tels que les stimulateurs cardiaques, les poumons artificiels, l’ECG portable, l’ostéoporose, etc. ne peuvent pas utiliser ce produit. ","type":"string"}]},{"question":"Qui devrait accorder une attention particulière à l’utilisation de ce produit? ","answers":[{"level":1,"content":"Enfants et jeunes de moins de 18 ans: Parce que la croissance et le développement de la croissance des nutriments des mineurs est rapide, il n'existe pas de système d'évaluation standard pour la composition du corps mineur. Par conséquent, certains indicateurs de mesure de notre système varient selon l'âge ","type":"string"},{"type":"table","header":["Type d’indicateur ","Âge effectif "],"body":[["poids ","toujours efficace "],["BMI","≥ 4 ans "],["Taux de graisse corporelle ","≥ 10 ans "],["Fraction eau corporelle ","≥ 10 ans "],["graisse sous cutanée ","≥ 10 ans "],["Le taux métabolique basal ","≥ 10 ans "],["Poids graisseux ","≥ 10 ans "],["Grasse grasse viscérale ","≥ 18 ans "],["Taux musculaire squelettique ","≥ 18 ans "],["Masse musculaire ","≥ 18 ans "],["Masse osseuse ","≥ 18 ans "],["protéine ","≥ 18 ans "],["L’âge du corps ","≥ 18 ans "]]},{"level":1,"content":"Femmes enceintes: En raison du corps du liquide fœtal et amniotique, dans le processus de détection de ces facteurs incertains, la valeur exacte des données du corps, de sorte que le taux de graisse et d'autres données sans référence, il est recommandé de mesurer uniquement le poids. ","type":"string"},{"level":1,"content":"Bodybuilders professionnels: Ce produit vise l’utilisation de la foule pour la population en général. Étant donné que le ratio musculaire et de graisse corporel professionnel est une proportion spéciale, l'utilisation de ce produit a permis de mesurer des données sur le taux de graisse peut être utilisée avec l'hôpital, l'équipement professionnel étant différent, il est recommandé que ces personnes s'inquiètent des changements à long terme dans les données, plutôt que de se concentrer sur la mesure La valeur elle-même. ","type":"string"}]},{"question":"Précautions de la batterie ","answers":[{"content":"Si vous n’utilisez pas le produit pendant plus d’une semaine, retirez la batterie, économisez de l’énergie et améliorez la durée de vie du produit. ","type":"string"},{"content":"La batterie est incluse uniquement comme batterie d’essai, veuillez remplacer la batterie officielle. La durée de vie de la batterie ne doit pas dépasser deux mois. ","type":"string"}]},{"question":"Mes graduations corporelles peuvent-elles être connectées à l’APP? ","answers":[{"content":"Vous achetez le gras corporel qui doit être utilisé en conjonction avec l’APP, ou dans l’échelle ne montre que des informations sur le poids. Dans l’APP, il y a plus de taux de graisse corporelle, de débit d’eau corporelle et d’autres informations. L’avantage de ce faire est de faire en sorte que tous vos résultats de mesure puissent être enregistrés sur le téléphone et les services en nuage. ","type":"string"},{"content":"Utilisez le nom de l’APP appelé Feelfit, accédez à AppleStore et à Google Play pour téléchargement gratuit. Feelfit peut enregistrer toutes les mesures de votre part et de votre famille afin que vous puissiez voir chaque donnée. ","type":"string"}]},{"question":"Pourquoi l’APP a-t-il besoin de ma taille, de mon âge et d’autres informations privées? Voulez-vous le garder secret? ","answers":[{"content":"La méthode de mesure de la résistance bioélectrique de la BIA devra utiliser vos informations de taille/âge/genre trois, combinées au poids du poids et de l’impédance du corps, compte tenu du calcul du taux de graisse. Ainsi, la taille/l’âge/le genre est nécessaire. ","type":"string"},{"content":"Nous garderons vos informations sur le corps confidentielles et veillerons à ce que ces informations ne soient utilisées que pour des applications d’algorithmes de taux de graisse et ne soient utilisées à d’autres fins. ","type":"string"}]},{"question":"Qu’est-ce que l’échelle ne montre pas ou ne présente aucune exception? ","answers":[{"content":"L’exception d’affichage d’échelle a les aspects suivants: ","type":"string"},{"id":"scale_error_1","type":"image"},{"level":1,"content":"Pas d’affichage à DEL. Vérifiez si la batterie est toujours sous tension, réinstallez la batterie, s’il n’y a pas encore d’affichage, il est recommandé de remplacer la batterie. ","type":"string"},{"id":"scale_error_2","type":"image"},{"level":1,"content":"La LED est affichée comme lo. Veuillez vérifier soigneusement que la batterie est correctement installée et confirmer la batterie et la puissance, si elle affiche encore LO, il est recommandé de remplacer la batterie. ","type":"string"},{"id":"scale_error_3","type":"image"},{"level":1,"content":"La LED est affichée comme eer. L’échelle du capteur a été surchargée ou même endommagée, ne mesurez pas plus de 180 kg ou 440 livres de poids. ","type":"string"}]}]},{"title":"La raison de l’impact des données de mesure ","questions":[{"question":"Comment mesurer correctement ","answers":[{"level":1,"content":"Ouvrez l’APP, entrez l’interface de mesure ","type":"string"},{"id":"measure_main_ui","type":"image"},{"level":1,"content":"Lors de la mesure des chaussures et des chaussettes, les pieds debout sur les deux côtés de la languette conductrice, la mesure ne doit pas quitter ou secouer ","type":"string"},{"id":"how_measure_1","type":"image"},{"level":1,"content":"L’échelle consiste à mesurer d’abord le poids, puis à mesurer la graisse. La mesure de l’échelle et la réponse de l’APP étaient les suivantes: ","type":"string"},{"level":2,"content":"Si le poids est de 50.00KG, alors que le temps lorsque 50.00KG clignotera, probablement en clignotant 3, l'écran apparaît sur un 0 de gauche à droite, va 2-3 fois, l'écran et saute à 50.00KG, Environ 5s, la balance sera automatiquement affichée, la fin de la mesure. ","type":"string"},{"level":2,"content":"APP sur la page de mesure, le cercle de l’interface de mesure défile jusqu’à ce qu’il y ait une tonalité et toutes les données apparaissent (la tonalité peut être désactivée) ","type":"string"},{"level":1,"content":"La prochaine pesée doit attendre que l’écran LED s’éteigne de 2 à 3 secondes ","type":"string"}]},{"question":"Comment pouvons-nous mesurer pour éviter des erreurs de mesure inutiles? ","answers":[{"level":1,"content":"Réduire la méthode d’erreur de poids corporel: ","type":"string"},{"id":"how_put_scale","type":"image"},{"level":2,"content":"Ce produit doit être placé dans un sol dur et plat, tel que des carreaux, etc., ne peut pas être placé sur le tapis, ni le tampon sous l’échelle des éléments souples. L’erreur standard de ce produit est la suivante: ","type":"string"},{"type":"table","header":["Des mesures ","Plage d’erreur maximale "],"body":[["0<x≤50KG","±0.2KG"],["50KG<x≤100KG","±0.3KG"],["x≤180KG","±0.4KG"]]},{"level":2,"content":"L’étalonnage est effectué avant chaque mesure. La méthode consiste à niveler la LED de l’échelle, laisser la balance lorsque le nombre est instable, et la LED apparaîtra avec plusieurs lettres et retourner à “0”. À ce stade, l’étalonnage a fini. ","type":"string"},{"level":1,"content":"Méthodes pour réduire les erreurs de taux de graisse et d’eau: ","type":"string"},{"level":2,"content":"Ce produit est obtenu par la mesure de la biorésistance BIA mesure du taux de graisse corporelle, méthode de mesure BIA obtenue par le taux de graisse est étroitement liée avec les paramètres suivants: Coefficient d’impédance du corps/taille/poids/âge/sexe. Ainsi, modifiez tous les paramètres, le taux de graisse provoquera des changements. ","type":"string"},{"level":3,"content":"Demandez à l’arpenteur d’entrer la bonne taille/genre/âge. Une fois que ces données sont incorrectes, vous ne pourrez pas obtenir un taux précis de graisse corporelle. ","type":"string"},{"level":3,"content":"Doit être pieds nus (les chaussettes doivent décoller). ","type":"string"},{"level":3,"content":"Afin d’assurer l’accès au modèle standard du coefficient d’impédance du corps, il faut le mesurer conformément à la posture correcte, comme indiqué ci-dessous: ","type":"string"},{"id":"measure_principle","type":"image"},{"level":3,"content":"Afin d’obtenir le coefficient d’impédance du corps correct, dans le temps de mesure, les pieds recouvrent les côtés gauche et droit de l’électrode métallique et restent intacts. Jusqu’à la fin de la mesure. L’ensemble du processus de mesure prendra environ 20 secondes. ","type":"string"},{"level":2,"content":"Nous recommandons des mesures quotidiennes en même temps et dans le même état physique. Les changements quotidiens du poids du corps avec les changements dans l’alimentation et l’eau potable, il y a 0,5 ~ 2KG allant de la variation de valeur. Parce que le taux de graisse corporelle = poids/poids de graisse, de sorte que le taux de graisse corporelle fluctue, le corps normal dans un jour les fluctuations du taux de graisse corporelle comme indiqué ci-dessous. Dans la matinée, avant de manger et de boire de l'eau, le taux de graisse corporelle a atteint le pic le plus élevé en une journée, en après-midi et en soirée, avec un gain de poids d'alimentation et d'eau potable et une augmentation de la teneur en eau, le taux de graisse corporelle a atteint la valeur la plus basse dans un jour. ","type":"string"},{"id":"bodyfat_trend_per_day","type":"image"},{"content":" Nous recommandons donc que les utilisateurs des mesures de jeûne du matin, des mesures continuelles de jeûne du matin permettent d’obtenir des données à long terme sur le poids corporel et le taux de graisse corporelle. ","type":"string"}]},{"question":"Pourquoi mes taux de graisse sont-ils différents des autres échelles? Pourquoi le taux de graisse nécessite-t-il des mesures à long terme, et le changement relatif du taux de graisse est-il plus important? ","answers":[{"content":"La graisse est une organisation spéciale dans le corps de l’existence complexe, elle comprend la graisse sous-cutanée, la graisse viscérale, etc., largement présente dans diverses parties du corps. Il existe plusieurs méthodes populaires de mesure du taux de graisse dans le monde, y compris DEXA, BIA, méthode de pesée d’eau, etc., différentes méthodes de mesure ont leur propre algorithme unique et ont des résultats différents. Jusqu’à présent, la méthode de pesée à l’eau et DEXA (méthode d’absorption des rayons X à double énergie est appelée «norme or», cependant, dans ces résultats de test répétitifs standard d’or ont également des erreurs. Le plus gros problème de l’analyse de la composition corporelle est donc le suivant: Aucun instrument ne peut donner la réponse absolue correcte). La plupart des fabricants d'échelles de corps domestiques utilisent la méthode de mesure BIA, mais aussi en raison de différents algorithmes et les résultats sont différents, il n'est pas recommandé que les utilisateurs soient enchevêtrés dans différents instruments et équipements mesurés sur la différence entre la valeur absolue, mais devraient faire attention à la même évolution relative des mesures à long terme sur l'équipement ","type":"string"},{"content":"Nous recommandons donc aux utilisateurs d'utiliser le même système d'évaluation, la surveillance et la mesure à long terme du taux de graisse, les changements à long terme peuvent être évalués pour évaluer la tendance de l'état de santé d'une personne, le contrôle des tendances de la santé est le plus important, nous sommes donc la valeur relative de la variation est considérée comme plus significative que la valeur absolue d'une seule mesure. ","type":"string"}]}]},{"title":"Comment utiliser la fonction APP ","questions":[{"question":"Vous ne pouvez pas connecter un périphérique? ","answers":[{"level":1,"content":"Assurez-vous que le Bluetooth est allumé, que l’échelle est proche du téléphone, que la batterie est installée et allumée ","type":"string"},{"level":1,"content":"S’il s’agit d’un périphérique OS 6.0, veuillez déterminer si l’autorité de positionnement Feelfit a été accordée ","type":"string"},{"id":"authorize_permission_feelfit","type":"image"},{"level":1,"content":"A été autorisé à localiser mais ne peut toujours pas rechercher, ouvrez le positionnement GPS ","type":"string"},{"content":"Grant Feelfit permission de positionnement ","type":"string"},{"level":2,"content":"Dans les paramètres, cliquez sur “l’application” ","type":"string"},{"id":"authorize_permission_1","type":"image"},{"level":2,"content":"Dans toutes les applications, trouver Feelfit, cliquez sur les informations de l’application ","type":"string"},{"id":"authorize_permission_2_feelfit","type":"image"},{"level":2,"content":"Dans les informations de l’application pour trouver le droit, cliquez sur l’autorisation d’accès à la demande, trouvez les informations de localisation et ouvrez ","type":"string"},{"id":"authorize_permission_3_feelfit","type":"image"}]},{"question":"Comment lier une balance Bluetooth à une APP ","answers":[{"content":"Ouvrez l’APP, entrez l’interface de mesure. Comme indiqué ci-dessous, maintenez-vous sur la balance, de sorte que la LED de la balance s’allume. Si l’APP actuelle n’a pas précédemment lié une échelle, elle liera automatiquement la balance et la pesera immédiatement. ","type":"string"},{"id":"measure_main_ui","type":"image"},{"content":"Si l’APP actuelle a été liée à d’autres échelles, laissez l’APP, puis augmentez l’échelle, cliquez sur l’interface de mesure dans le coin supérieur droit du “+”, dans l’interface du périphérique de liaison. ","type":"string"},{"id":"measure_add_device_guide","type":"image"},{"content":"Remarque: Lorsque vous reliez la balance, gardez l’échelle de la LED toujours brillante. ","type":"string"}]},{"question":"J’ai acheté l’échelle Bluetooth, la mesure doit ouvrir l’APP? ","answers":[{"content":"Vous ne devez pas ouvrir l’APP lorsque vous mesurez Dans ce cas chaque fois que les données mesurées seront sauvegardées dans la balance, notre échelle peut économiser jusqu’à 20 mesures. La prochaine fois que vous ouvrez l’échelle de connexion, vous recevrez automatiquement que la balance a été enregistrée, puis elle est automatiquement affectée au compte membre correspondant. Si les données de poids reçues et APP tous les comptes à l’intérieur de la différence de poids de 3KG ou plus, l’APP vous permettra d’affecter manuellement les données de mesure ou de supprimer directement. ","type":"string"}]},{"question":"Comment puis-je ajouter plusieurs utilisateurs? ","answers":[{"level":1,"content":"Cliquez sur l’onglet “I” (le coin inférieur droit de l’interface principale) ","type":"string"},{"id":"user_index","type":"image"},{"level":1,"content":"Cliquez sur l’avatar à gauche de l’icône humaine, ouvrez le choix pour ajouter des utilisateurs de mesure ou des amis ","type":"string"},{"id":"user_add_guide_1","type":"image"},{"id":"user_add_guide_2_feelfit","type":"image"},{"level":1,"content":"Les utilisateurs de mesure n’ont pas besoin de s’inscrire, doivent remplir les informations relatives au corps ","type":"string"},{"level":1,"content":"Les amis sont des utilisateurs enregistrés, doivent remplir leur boîte aux lettres enregistrée ","type":"string"},{"level":1,"content":"Une fois que vous avez ajouté un utilisateur ou un ami de mesure, vous pouvez sélectionner l’utilisateur pour effectuer la mesure dans la liste d’utilisateurs ","type":"string"}]},{"question":"Mon sexe/âge/taille est faux, comment le modifier? ","answers":[{"level":1,"content":"Cliquez sur l’onglet “I” (le coin inférieur droit de l’interface principale) ","type":"string"},{"id":"user_index","type":"image"},{"level":1,"content":"Cliquez sur la photo de l’utilisateur au-dessus de l’interface ","type":"string"},{"id":"user_edit_profile_guide","type":"image"},{"level":1,"content":"Entrez les données utilisateur pour modifier l’interface, modifiez l’information ","type":"string"},{"level":1,"content":"Une fois les modifications terminées, cliquez sur Enregistrer ","type":"string"}]},{"question":"Comment se connecter au kit de santé Apple?","answers":[{"level":1,"content":"Trouvez et ouvrez l’application “Santé” sur iPhone ","type":"string"},{"id":"health_kit_logo","type":"image"},{"level":1,"content":"Cliquez sur l’onglet “Sources de données” ","type":"string"},{"id":"health_kit_index","type":"image"},{"level":1,"content":"Sélectionnez “Feelfit” dans la liste des sources ","type":"string"},{"id":"health_kit_feelfit","type":"image"},{"level":1,"content":"Commutateur de commande pour activer ou désactiver les autorisations de données ","type":"string"},{"id":"health_kit_switcher_feelfit","type":"image"}]},{"question":"Comment se connecter au kit de santé Apple? ","answers":[{"level":1,"content":"Dans l’interface “Ma”, cliquez sur l’icône “Paramètres” dans le coin supérieur droit ","type":"string"},{"id":"me_setting","type":"image"},{"level":1,"content":"Accédez à l’interface “Paramètres du système”, cliquez sur la colonne “Google Fit”, entrez l’interface “Google Fit” ","type":"string"},{"id":"setting_googlefit","type":"image"},{"level":1,"content":"Ouvrez le bouton de changement Google Fit, apparaîtra déjà une interface de sélection de compte Google (ou ajoutez un nouveau compte, compte Google enregistré) ou sélectionnez votre propre compte Google ","type":"string"},{"id":"googlefit_switcher","type":"image"},{"level":1,"content":"Une fois réussie, revenez à l’interface Google Fit, où le bouton Google Fit Switch est activé et la connexion à GoogleFit est réussie ","type":"string"},{"id":"google_switcher_enable","type":"image"},{"level":1,"content":"Après la mesure sur la balance, les données seront téléchargées sur Google Fit, vous pouvez vous connecter à l’APP pour afficher les données pertinentes ","type":"string"},{"id":"googlefit_result","type":"image"}]},{"question":"Comment se connecter au kit de santé Apple? ","answers":[{"level":1,"content":"Dans l’interface “Ma”, cliquez sur l’icône “Paramètres” dans le coin supérieur droit ","type":"string"},{"id":"me_setting","type":"image"},{"level":1,"content":"Dans l’interface “Paramètres du système”, cliquez sur la colonne “FitBit”, entrez l’interface FitBit ","type":"string"},{"id":"setting_fitbit","type":"image"},{"level":1,"content":"Ouvrez le bouton de commutation “FitBit”, il va passer à l’interface de connexion FitBit, entrez le FitBit a enregistré le compte et le mot de passe (ou dans l’interface déroulante pour sélectionner FitBit) ","type":"string"},{"id":"fitbit_switcher","type":"image"},{"level":1,"content":"Cliquez sur “connexion”, continuera à sauter à vous-même, que ce soit pour autoriser l’accès à l’APP, sélectionnez “autoriser”, revenir à l’interface des paramètres de l’installation de l’APP, puis le commutateur FitBit est ouvert ","type":"string"},{"id":"fitbit_auth","type":"image"},{"level":1,"content":"Après le succès de la mesure de l'échelle, le poids, le taux de graisse corporelle sera téléchargé sur le FitBit, vous pouvez vous connecter à l'application FitBit ou à la page Log FitBit, pour actualiser les données, voir le poids mesuré, le taux de graisse corporelle; ","type":"string"},{"id":"fitbit_result","type":"image"},{"level":1,"content":"Vous devez garder le bouton Fitbit à l’état ouvert, alors que le réseau doit être connecté en douceur, de sorte que chaque donnée de mesure chargera le poids, le taux de graisse corporelle sur Fitbit; Si fermé, les données mesurées ne porteront plus de poids, le taux de graisse corporelle. ","type":"string"},{"id":"fitbit_open","type":"image"}]},{"question":"Comment puis-je ajouter des amis Feelfit? ","answers":[{"content":"Les amis peuvent vous aider à voir les changements physiques de chacun, tels que les instructeurs diététiciens/de conditionnement physique ont souvent besoin de surveiller les changements physiques de leurs propres clients, vous pouvez utiliser cette fonctionnalité. ","type":"string"},{"level":1,"content":"Cliquez sur l’onglet “I” (le coin inférieur droit de l’interface principale) ","type":"string"},{"id":"user_index","type":"image"},{"level":1,"content":"Cliquez sur l’icône à gauche de l’avatar pour faire apparaître la sélection pour ajouter des amis Feelfit ","type":"string"},{"id":"user_add_guide_3_feelfit","type":"image"},{"level":1,"content":"Ensuite, entrez la boîte aux lettres de l’autre, cliquez sur “envoyer” ","type":"string"},{"id":"user_add_guide_4_feelfit","type":"image"},{"level":1,"content":"À ce stade, l’autre partie recevra un message système, l’autre partie peut cliquer sur l’onglet “I” dans le coin supérieur droit de l’icône dans la vue des messages système. Si l’autre partie et accepté votre invitation, vous avez réussi à devenir amis. Vous pouvez voir les détails du corps de l’autre. ","type":"string"}]},{"question":"Comment afficher mes données de mesure historiques? Et si je veux supprimer les données ","answers":[{"level":1,"content":"Cliquez sur l’onglet “Graphique” (interface principale au-dessous du milieu) ","type":"string"},{"id":"chart_index","type":"image"},{"level":1,"content":"Cliquez sur l’icône en haut à droite de l’interface du graphique, ou cliquez sur un point du graphique pour accéder à l’interface des données historiques ","type":"string"},{"id":"chart_click_history","type":"image"},{"level":1,"content":"Sélectionnez le jour où vous souhaitez supprimer les données et vérifiez la nécessité de supprimer les données (le coin supérieur droit de chaque donnée), appuyez plusieurs fois sur la vérification ","type":"string"},{"content":"Pointez ci-dessous le bouton “Supprimer” de l’interface, vous pouvez supprimer ","type":"string"},{"id":"history_check_data","type":"image"}]},{"question":"Je voudrais comparer les changements dans les données que j’ai mesurées à différents moments. Que devrais-je faire? ","answers":[{"level":1,"content":"Cliquez sur l’onglet “Graphique” (interface principale au-dessous du milieu) ","type":"string"},{"id":"chart_index","type":"image"},{"level":1,"content":"La courbe de poids par défaut de la semaine, si vous voulez voir d’autres indicateurs, cliquez sur l’icône ci-dessous le graphique, passez à différents indicateurs de la courbe ","type":"string"},{"id":"chart_change_indicator","type":"image"},{"level":1,"content":"Le graphique peut être déplacé pour afficher les données antérieures ","type":"string"},{"id":"chart_slide","type":"image"},{"level":1,"content":"En haut du tableau, vous pouvez sélectionner une plage de temps pour voir la tendance plus longue ","type":"string"},{"id":"chart_chart_date","type":"image"}]}]}]}
+{
+  "title": "FAQ",
+  "sections": [
+    {
+      "title": "Précautions d’utilisation du produit ",
+      "questions": [
+        {
+          "question": "Qui ne peut pas utiliser ce produit? ",
+          "answers": [
+            {
+              "content": "L’utilisation de dispositifs médicaux durables tels que les stimulateurs cardiaques, les poumons artificiels, l’ECG portable, l’ostéoporose, etc. ne peuvent pas utiliser ce produit. ",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "question": "Qui devrait accorder une attention particulière à l’utilisation de ce produit? ",
+          "answers": [
+            {
+              "level": 1,
+              "content": "Enfants et jeunes de moins de 18 ans: Parce que la croissance et le développement de la croissance des nutriments des mineurs est rapide, il n'existe pas de système d'évaluation standard pour la composition du corps mineur. Par conséquent, certains indicateurs de mesure de notre système varient selon l'âge ",
+              "type": "string"
+            },
+            {
+              "type": "table",
+              "header": [
+                "Type d’indicateur ",
+                "Âge effectif "
+              ],
+              "body": [
+                [
+                  "poids ",
+                  "toujours efficace "
+                ],
+                [
+                  "BMI",
+                  "≥ 4 ans "
+                ],
+                [
+                  "Taux de graisse corporelle ",
+                  "≥ 10 ans "
+                ],
+                [
+                  "Fraction eau corporelle ",
+                  "≥ 10 ans "
+                ],
+                [
+                  "graisse sous cutanée ",
+                  "≥ 10 ans "
+                ],
+                [
+                  "Le taux métabolique basal ",
+                  "≥ 10 ans "
+                ],
+                [
+                  "Poids graisseux ",
+                  "≥ 10 ans "
+                ],
+                [
+                  "Grasse grasse viscérale ",
+                  "≥ 18 ans "
+                ],
+                [
+                  "Taux musculaire squelettique ",
+                  "≥ 18 ans "
+                ],
+                [
+                  "Masse musculaire ",
+                  "≥ 18 ans "
+                ],
+                [
+                  "Masse osseuse ",
+                  "≥ 18 ans "
+                ],
+                [
+                  "protéine ",
+                  "≥ 18 ans "
+                ],
+                [
+                  "L’âge du corps ",
+                  "≥ 18 ans "
+                ]
+              ]
+            },
+            {
+              "level": 1,
+              "content": "Femmes enceintes: En raison du corps du liquide fœtal et amniotique, dans le processus de détection de ces facteurs incertains, la valeur exacte des données du corps, de sorte que le taux de graisse et d'autres données sans référence, il est recommandé de mesurer uniquement le poids. ",
+              "type": "string"
+            },
+            {
+              "level": 1,
+              "content": "Bodybuilders professionnels: Ce produit vise l’utilisation de la foule pour la population en général. Étant donné que le ratio musculaire et de graisse corporel professionnel est une proportion spéciale, l'utilisation de ce produit a permis de mesurer des données sur le taux de graisse peut être utilisée avec l'hôpital, l'équipement professionnel étant différent, il est recommandé que ces personnes s'inquiètent des changements à long terme dans les données, plutôt que de se concentrer sur la mesure La valeur elle-même. ",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "question": "Précautions de la batterie ",
+          "answers": [
+            {
+              "content": "Si vous n’utilisez pas le produit pendant plus d’une semaine, retirez la batterie, économisez de l’énergie et améliorez la durée de vie du produit. ",
+              "type": "string"
+            },
+            {
+              "content": "La batterie est incluse uniquement comme batterie d’essai, veuillez remplacer la batterie officielle. La durée de vie de la batterie ne doit pas dépasser deux mois. ",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "question": "Mes graduations corporelles peuvent-elles être connectées à l’APP? ",
+          "answers": [
+            {
+              "content": "Vous achetez le gras corporel qui doit être utilisé en conjonction avec l’APP, ou dans l’échelle ne montre que des informations sur le poids. Dans l’APP, il y a plus de taux de graisse corporelle, de débit d’eau corporelle et d’autres informations. L’avantage de ce faire est de faire en sorte que tous vos résultats de mesure puissent être enregistrés sur le téléphone et les services en nuage. ",
+              "type": "string"
+            },
+            {
+              "content": "Utilisez le nom de l’APP appelé Feelfit, accédez à AppleStore et à Google Play pour téléchargement gratuit. Feelfit peut enregistrer toutes les mesures de votre part et de votre famille afin que vous puissiez voir chaque donnée. ",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "question": "Pourquoi l’APP a-t-il besoin de ma taille, de mon âge et d’autres informations privées? Voulez-vous le garder secret? ",
+          "answers": [
+            {
+              "content": "La méthode de mesure de la résistance bioélectrique de la BIA devra utiliser vos informations de taille/âge/genre trois, combinées au poids du poids et de l’impédance du corps, compte tenu du calcul du taux de graisse. Ainsi, la taille/l’âge/le genre est nécessaire. ",
+              "type": "string"
+            },
+            {
+              "content": "Nous garderons vos informations sur le corps confidentielles et veillerons à ce que ces informations ne soient utilisées que pour des applications d’algorithmes de taux de graisse et ne soient utilisées à d’autres fins. ",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "question": "Qu’est-ce que l’échelle ne montre pas ou ne présente aucune exception? ",
+          "answers": [
+            {
+              "content": "L’exception d’affichage d’échelle a les aspects suivants: ",
+              "type": "string"
+            },
+            {
+              "id": "scale_error_1",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "Pas d’affichage à DEL. Vérifiez si la batterie est toujours sous tension, réinstallez la batterie, s’il n’y a pas encore d’affichage, il est recommandé de remplacer la batterie. ",
+              "type": "string"
+            },
+            {
+              "id": "scale_error_2",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "La LED est affichée comme lo. Veuillez vérifier soigneusement que la batterie est correctement installée et confirmer la batterie et la puissance, si elle affiche encore LO, il est recommandé de remplacer la batterie. ",
+              "type": "string"
+            },
+            {
+              "id": "scale_error_3",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "La LED est affichée comme eer. L’échelle du capteur a été surchargée ou même endommagée, ne mesurez pas plus de 180 kg ou 440 livres de poids. ",
+              "type": "string"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "La raison de l’impact des données de mesure ",
+      "questions": [
+        {
+          "question": "Comment mesurer correctement ",
+          "answers": [
+            {
+              "level": 1,
+              "content": "Ouvrez l’APP, entrez l’interface de mesure ",
+              "type": "string"
+            },
+            {
+              "id": "measure_main_ui",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "Lors de la mesure des chaussures et des chaussettes, les pieds debout sur les deux côtés de la languette conductrice, la mesure ne doit pas quitter ou secouer ",
+              "type": "string"
+            },
+            {
+              "id": "how_measure_1",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "L’échelle consiste à mesurer d’abord le poids, puis à mesurer la graisse. La mesure de l’échelle et la réponse de l’APP étaient les suivantes: ",
+              "type": "string"
+            },
+            {
+              "level": 2,
+              "content": "Si le poids est de 50.00KG, alors que le temps lorsque 50.00KG clignotera, probablement en clignotant 3, l'écran apparaît sur un 0 de gauche à droite, va 2-3 fois, l'écran et saute à 50.00KG, Environ 5s, la balance sera automatiquement affichée, la fin de la mesure. ",
+              "type": "string"
+            },
+            {
+              "level": 2,
+              "content": "APP sur la page de mesure, le cercle de l’interface de mesure défile jusqu’à ce qu’il y ait une tonalité et toutes les données apparaissent (la tonalité peut être désactivée) ",
+              "type": "string"
+            },
+            {
+              "level": 1,
+              "content": "La prochaine pesée doit attendre que l’écran LED s’éteigne de 2 à 3 secondes ",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "question": "Comment pouvons-nous mesurer pour éviter des erreurs de mesure inutiles? ",
+          "answers": [
+            {
+              "level": 1,
+              "content": "Réduire la méthode d’erreur de poids corporel: ",
+              "type": "string"
+            },
+            {
+              "id": "how_put_scale",
+              "type": "image"
+            },
+            {
+              "level": 2,
+              "content": "Ce produit doit être placé dans un sol dur et plat, tel que des carreaux, etc., ne peut pas être placé sur le tapis, ni le tampon sous l’échelle des éléments souples. L’erreur standard de ce produit est la suivante: ",
+              "type": "string"
+            },
+            {
+              "type": "table",
+              "header": [
+                "Des mesures ",
+                "Plage d’erreur maximale "
+              ],
+              "body": [
+                [
+                  "0<x≤50KG",
+                  "±0.2KG"
+                ],
+                [
+                  "50KG<x≤100KG",
+                  "±0.3KG"
+                ],
+                [
+                  "x≤180KG",
+                  "±0.4KG"
+                ]
+              ]
+            },
+            {
+              "level": 2,
+              "content": "L’étalonnage est effectué avant chaque mesure. La méthode consiste à niveler la LED de l’échelle, laisser la balance lorsque le nombre est instable, et la LED apparaîtra avec plusieurs lettres et retourner à “0”. À ce stade, l’étalonnage a fini. ",
+              "type": "string"
+            },
+            {
+              "level": 1,
+              "content": "Méthodes pour réduire les erreurs de taux de graisse et d’eau: ",
+              "type": "string"
+            },
+            {
+              "level": 2,
+              "content": "Ce produit est obtenu par la mesure de la biorésistance BIA mesure du taux de graisse corporelle, méthode de mesure BIA obtenue par le taux de graisse est étroitement liée avec les paramètres suivants: Coefficient d’impédance du corps/taille/poids/âge/sexe. Ainsi, modifiez tous les paramètres, le taux de graisse provoquera des changements. ",
+              "type": "string"
+            },
+            {
+              "level": 3,
+              "content": "Demandez à l’arpenteur d’entrer la bonne taille/genre/âge. Une fois que ces données sont incorrectes, vous ne pourrez pas obtenir un taux précis de graisse corporelle. ",
+              "type": "string"
+            },
+            {
+              "level": 3,
+              "content": "Doit être pieds nus (les chaussettes doivent décoller). ",
+              "type": "string"
+            },
+            {
+              "level": 3,
+              "content": "Afin d’assurer l’accès au modèle standard du coefficient d’impédance du corps, il faut le mesurer conformément à la posture correcte, comme indiqué ci-dessous: ",
+              "type": "string"
+            },
+            {
+              "id": "measure_principle",
+              "type": "image"
+            },
+            {
+              "level": 3,
+              "content": "Afin d’obtenir le coefficient d’impédance du corps correct, dans le temps de mesure, les pieds recouvrent les côtés gauche et droit de l’électrode métallique et restent intacts. Jusqu’à la fin de la mesure. L’ensemble du processus de mesure prendra environ 20 secondes. ",
+              "type": "string"
+            },
+            {
+              "level": 2,
+              "content": "Nous recommandons des mesures quotidiennes en même temps et dans le même état physique. Les changements quotidiens du poids du corps avec les changements dans l’alimentation et l’eau potable, il y a 0,5 ~ 2KG allant de la variation de valeur. Parce que le taux de graisse corporelle = poids/poids de graisse, de sorte que le taux de graisse corporelle fluctue, le corps normal dans un jour les fluctuations du taux de graisse corporelle comme indiqué ci-dessous. Dans la matinée, avant de manger et de boire de l'eau, le taux de graisse corporelle a atteint le pic le plus élevé en une journée, en après-midi et en soirée, avec un gain de poids d'alimentation et d'eau potable et une augmentation de la teneur en eau, le taux de graisse corporelle a atteint la valeur la plus basse dans un jour. ",
+              "type": "string"
+            },
+            {
+              "id": "bodyfat_trend_per_day",
+              "type": "image"
+            },
+            {
+              "content": " Nous recommandons donc que les utilisateurs des mesures de jeûne du matin, des mesures continuelles de jeûne du matin permettent d’obtenir des données à long terme sur le poids corporel et le taux de graisse corporelle. ",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "question": "Pourquoi mes taux de graisse sont-ils différents des autres échelles? Pourquoi le taux de graisse nécessite-t-il des mesures à long terme, et le changement relatif du taux de graisse est-il plus important? ",
+          "answers": [
+            {
+              "content": "La graisse est une organisation spéciale dans le corps de l’existence complexe, elle comprend la graisse sous-cutanée, la graisse viscérale, etc., largement présente dans diverses parties du corps. Il existe plusieurs méthodes populaires de mesure du taux de graisse dans le monde, y compris DEXA, BIA, méthode de pesée d’eau, etc., différentes méthodes de mesure ont leur propre algorithme unique et ont des résultats différents. Jusqu’à présent, la méthode de pesée à l’eau et DEXA (méthode d’absorption des rayons X à double énergie est appelée «norme or», cependant, dans ces résultats de test répétitifs standard d’or ont également des erreurs. Le plus gros problème de l’analyse de la composition corporelle est donc le suivant: Aucun instrument ne peut donner la réponse absolue correcte). La plupart des fabricants d'échelles de corps domestiques utilisent la méthode de mesure BIA, mais aussi en raison de différents algorithmes et les résultats sont différents, il n'est pas recommandé que les utilisateurs soient enchevêtrés dans différents instruments et équipements mesurés sur la différence entre la valeur absolue, mais devraient faire attention à la même évolution relative des mesures à long terme sur l'équipement ",
+              "type": "string"
+            },
+            {
+              "content": "Nous recommandons donc aux utilisateurs d'utiliser le même système d'évaluation, la surveillance et la mesure à long terme du taux de graisse, les changements à long terme peuvent être évalués pour évaluer la tendance de l'état de santé d'une personne, le contrôle des tendances de la santé est le plus important, nous sommes donc la valeur relative de la variation est considérée comme plus significative que la valeur absolue d'une seule mesure. ",
+              "type": "string"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Comment utiliser la fonction APP ",
+      "questions": [
+        {
+          "question": "Vous ne pouvez pas connecter un périphérique? ",
+          "id": "cannot_connect_to_device_android",
+          "platform": "android",
+          "answers": [
+            {
+              "level": 1,
+              "content": "Assurez-vous que le Bluetooth est allumé, que l’échelle est proche du téléphone, que la batterie est installée et allumée ",
+              "type": "string"
+            },
+            {
+              "level": 1,
+              "content": "S’il s’agit d’un périphérique OS 6.0, veuillez déterminer si l’autorité de positionnement Feelfit a été accordée ",
+              "type": "string"
+            },
+            {
+              "id": "authorize_permission_feelfit",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "A été autorisé à localiser mais ne peut toujours pas rechercher, ouvrez le positionnement GPS ",
+              "type": "string"
+            },
+            {
+              "content": "Grant Feelfit permission de positionnement ",
+              "type": "string"
+            },
+            {
+              "level": 2,
+              "content": "Dans les paramètres, cliquez sur “l’application” ",
+              "type": "string"
+            },
+            {
+              "id": "authorize_permission_1",
+              "type": "image"
+            },
+            {
+              "level": 2,
+              "content": "Dans toutes les applications, trouver Feelfit, cliquez sur les informations de l’application ",
+              "type": "string"
+            },
+            {
+              "id": "authorize_permission_2_feelfit",
+              "type": "image"
+            },
+            {
+              "level": 2,
+              "content": "Dans les informations de l’application pour trouver le droit, cliquez sur l’autorisation d’accès à la demande, trouvez les informations de localisation et ouvrez ",
+              "type": "string"
+            },
+            {
+              "id": "authorize_permission_3_feelfit",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "question": "Comment lier une balance Bluetooth à une APP ",
+          "answers": [
+            {
+              "content": "Ouvrez l’APP, entrez l’interface de mesure. Comme indiqué ci-dessous, maintenez-vous sur la balance, de sorte que la LED de la balance s’allume. Si l’APP actuelle n’a pas précédemment lié une échelle, elle liera automatiquement la balance et la pesera immédiatement. ",
+              "type": "string"
+            },
+            {
+              "id": "measure_main_ui",
+              "type": "image"
+            },
+            {
+              "content": "Si l’APP actuelle a été liée à d’autres échelles, laissez l’APP, puis augmentez l’échelle, cliquez sur l’interface de mesure dans le coin supérieur droit du “+”, dans l’interface du périphérique de liaison. ",
+              "type": "string"
+            },
+            {
+              "id": "measure_add_device_guide",
+              "type": "image"
+            },
+            {
+              "content": "Remarque: Lorsque vous reliez la balance, gardez l’échelle de la LED toujours brillante. ",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "question": "J’ai acheté l’échelle Bluetooth, la mesure doit ouvrir l’APP? ",
+          "answers": [
+            {
+              "content": "Vous ne devez pas ouvrir l’APP lorsque vous mesurez Dans ce cas chaque fois que les données mesurées seront sauvegardées dans la balance, notre échelle peut économiser jusqu’à 20 mesures. La prochaine fois que vous ouvrez l’échelle de connexion, vous recevrez automatiquement que la balance a été enregistrée, puis elle est automatiquement affectée au compte membre correspondant. Si les données de poids reçues et APP tous les comptes à l’intérieur de la différence de poids de 3KG ou plus, l’APP vous permettra d’affecter manuellement les données de mesure ou de supprimer directement. ",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "question": "Comment puis-je ajouter plusieurs utilisateurs? ",
+          "answers": [
+            {
+              "level": 1,
+              "content": "Cliquez sur l’onglet “I” (le coin inférieur droit de l’interface principale) ",
+              "type": "string"
+            },
+            {
+              "id": "user_index",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "Cliquez sur l’avatar à gauche de l’icône humaine, ouvrez le choix pour ajouter des utilisateurs de mesure ou des amis ",
+              "type": "string"
+            },
+            {
+              "id": "user_add_guide_1",
+              "type": "image"
+            },
+            {
+              "id": "user_add_guide_2_feelfit",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "Les utilisateurs de mesure n’ont pas besoin de s’inscrire, doivent remplir les informations relatives au corps ",
+              "type": "string"
+            },
+            {
+              "level": 1,
+              "content": "Les amis sont des utilisateurs enregistrés, doivent remplir leur boîte aux lettres enregistrée ",
+              "type": "string"
+            },
+            {
+              "level": 1,
+              "content": "Une fois que vous avez ajouté un utilisateur ou un ami de mesure, vous pouvez sélectionner l’utilisateur pour effectuer la mesure dans la liste d’utilisateurs ",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "question": "Mon sexe/âge/taille est faux, comment le modifier? ",
+          "answers": [
+            {
+              "level": 1,
+              "content": "Cliquez sur l’onglet “I” (le coin inférieur droit de l’interface principale) ",
+              "type": "string"
+            },
+            {
+              "id": "user_index",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "Cliquez sur la photo de l’utilisateur au-dessus de l’interface ",
+              "type": "string"
+            },
+            {
+              "id": "user_edit_profile_guide",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "Entrez les données utilisateur pour modifier l’interface, modifiez l’information ",
+              "type": "string"
+            },
+            {
+              "level": 1,
+              "content": "Une fois les modifications terminées, cliquez sur Enregistrer ",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "question": "Comment se connecter au kit de santé Apple?",
+          "answers": [
+            {
+              "level": 1,
+              "content": "Trouvez et ouvrez l’application “Santé” sur iPhone ",
+              "type": "string"
+            },
+            {
+              "id": "health_kit_logo",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "Cliquez sur l’onglet “Sources de données” ",
+              "type": "string"
+            },
+            {
+              "id": "health_kit_index",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "Sélectionnez “Feelfit” dans la liste des sources ",
+              "type": "string"
+            },
+            {
+              "id": "health_kit_feelfit",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "Commutateur de commande pour activer ou désactiver les autorisations de données ",
+              "type": "string"
+            },
+            {
+              "id": "health_kit_switcher_feelfit",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "question": "Comment se connecter au kit de santé Apple? ",
+          "answers": [
+            {
+              "level": 1,
+              "content": "Dans l’interface “Ma”, cliquez sur l’icône “Paramètres” dans le coin supérieur droit ",
+              "type": "string"
+            },
+            {
+              "id": "me_setting",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "Accédez à l’interface “Paramètres du système”, cliquez sur la colonne “Google Fit”, entrez l’interface “Google Fit” ",
+              "type": "string"
+            },
+            {
+              "id": "setting_googlefit",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "Ouvrez le bouton de changement Google Fit, apparaîtra déjà une interface de sélection de compte Google (ou ajoutez un nouveau compte, compte Google enregistré) ou sélectionnez votre propre compte Google ",
+              "type": "string"
+            },
+            {
+              "id": "googlefit_switcher",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "Une fois réussie, revenez à l’interface Google Fit, où le bouton Google Fit Switch est activé et la connexion à GoogleFit est réussie ",
+              "type": "string"
+            },
+            {
+              "id": "google_switcher_enable",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "Après la mesure sur la balance, les données seront téléchargées sur Google Fit, vous pouvez vous connecter à l’APP pour afficher les données pertinentes ",
+              "type": "string"
+            },
+            {
+              "id": "googlefit_result",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "question": "Comment se connecter au kit de santé Apple? ",
+          "id": "how_to_connect_fitbit",
+          "answers": [
+            {
+              "level": 1,
+              "content": "Dans l’interface “Ma”, cliquez sur l’icône “Paramètres” dans le coin supérieur droit ",
+              "type": "string"
+            },
+            {
+              "id": "me_setting",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "Dans l’interface “Paramètres du système”, cliquez sur la colonne “FitBit”, entrez l’interface FitBit ",
+              "type": "string"
+            },
+            {
+              "id": "setting_fitbit",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "Ouvrez le bouton de commutation “FitBit”, il va passer à l’interface de connexion FitBit, entrez le FitBit a enregistré le compte et le mot de passe (ou dans l’interface déroulante pour sélectionner FitBit) ",
+              "type": "string"
+            },
+            {
+              "id": "fitbit_switcher",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "Cliquez sur “connexion”, continuera à sauter à vous-même, que ce soit pour autoriser l’accès à l’APP, sélectionnez “autoriser”, revenir à l’interface des paramètres de l’installation de l’APP, puis le commutateur FitBit est ouvert ",
+              "type": "string"
+            },
+            {
+              "id": "fitbit_auth",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "Après le succès de la mesure de l'échelle, le poids, le taux de graisse corporelle sera téléchargé sur le FitBit, vous pouvez vous connecter à l'application FitBit ou à la page Log FitBit, pour actualiser les données, voir le poids mesuré, le taux de graisse corporelle; ",
+              "type": "string"
+            },
+            {
+              "id": "fitbit_result",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "Vous devez garder le bouton Fitbit à l’état ouvert, alors que le réseau doit être connecté en douceur, de sorte que chaque donnée de mesure chargera le poids, le taux de graisse corporelle sur Fitbit; Si fermé, les données mesurées ne porteront plus de poids, le taux de graisse corporelle. ",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "question": "Comment puis-je ajouter des amis Feelfit? ",
+          "answers": [
+            {
+              "content": "Les amis peuvent vous aider à voir les changements physiques de chacun, tels que les instructeurs diététiciens/de conditionnement physique ont souvent besoin de surveiller les changements physiques de leurs propres clients, vous pouvez utiliser cette fonctionnalité. ",
+              "type": "string"
+            },
+            {
+              "level": 1,
+              "content": "Cliquez sur l’onglet “I” (le coin inférieur droit de l’interface principale) ",
+              "type": "string"
+            },
+            {
+              "id": "user_index",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "Cliquez sur l’icône à gauche de l’avatar pour faire apparaître la sélection pour ajouter des amis Feelfit ",
+              "type": "string"
+            },
+            {
+              "id": "user_add_guide_3_feelfit",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "Ensuite, entrez la boîte aux lettres de l’autre, cliquez sur “envoyer” ",
+              "type": "string"
+            },
+            {
+              "id": "user_add_guide_4_feelfit",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "À ce stade, l’autre partie recevra un message système, l’autre partie peut cliquer sur l’onglet “I” dans le coin supérieur droit de l’icône dans la vue des messages système. Si l’autre partie et accepté votre invitation, vous avez réussi à devenir amis. Vous pouvez voir les détails du corps de l’autre. ",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "question": "Comment afficher mes données de mesure historiques? Et si je veux supprimer les données ",
+          "answers": [
+            {
+              "level": 1,
+              "content": "Cliquez sur l’onglet “Graphique” (interface principale au-dessous du milieu) ",
+              "type": "string"
+            },
+            {
+              "id": "chart_index",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "Cliquez sur l’icône en haut à droite de l’interface du graphique, ou cliquez sur un point du graphique pour accéder à l’interface des données historiques ",
+              "type": "string"
+            },
+            {
+              "id": "chart_click_history",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "Sélectionnez le jour où vous souhaitez supprimer les données et vérifiez la nécessité de supprimer les données (le coin supérieur droit de chaque donnée), appuyez plusieurs fois sur la vérification ",
+              "type": "string"
+            },
+            {
+              "content": "Pointez ci-dessous le bouton “Supprimer” de l’interface, vous pouvez supprimer ",
+              "type": "string"
+            },
+            {
+              "id": "history_check_data",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "question": "Je voudrais comparer les changements dans les données que j’ai mesurées à différents moments. Que devrais-je faire? ",
+          "answers": [
+            {
+              "level": 1,
+              "content": "Cliquez sur l’onglet “Graphique” (interface principale au-dessous du milieu) ",
+              "type": "string"
+            },
+            {
+              "id": "chart_index",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "La courbe de poids par défaut de la semaine, si vous voulez voir d’autres indicateurs, cliquez sur l’icône ci-dessous le graphique, passez à différents indicateurs de la courbe ",
+              "type": "string"
+            },
+            {
+              "id": "chart_change_indicator",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "Le graphique peut être déplacé pour afficher les données antérieures ",
+              "type": "string"
+            },
+            {
+              "id": "chart_slide",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "En haut du tableau, vous pouvez sélectionner une plage de temps pour voir la tendance plus longue ",
+              "type": "string"
+            },
+            {
+              "id": "chart_chart_date",
+              "type": "image"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

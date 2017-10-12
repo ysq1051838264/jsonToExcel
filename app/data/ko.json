@@ -1,1 +1,761 @@
-{"title":"FAQ","sections":[{"title":"제품 사용주의사항 ","questions":[{"question":"본 제품을 사용해서는 안 될 사람들 ","answers":[{"content":"심장박동 조절장치, 인공 페, 휴대식 ECG, 골 조송증 등 생명유지의료기기를 사용하고 있는 사람은 본 제품을 사용해서는 안됨 ","type":"string"}]},{"question":"본 제품 사용시 특별 주의해야 할 사람들 ","answers":[{"level":1,"content":"18세미만 아동 및 청소년 미성년자는 영양섭취 및 성장속도가 빨라 현재 적용되는 미성년 인체성분 평가시스템이 없는 상황이어 저희 시스템 중 일부 측정지표는 나이에 따라 다릅니다. ","type":"string"},{"type":"table","header":["지표유형 ","유효년령 "],"body":[["몸 무게 ","유효함 "],["BMI","≥ 4살 "],["인체지방율 ","≥ 10살 "],["인체수분율 ","≥ 10살 "],["피하 지방 ","≥ 10살 "],["기초대사율 ","≥ 10살 "],["비 지방 체중 ","≥ 10살 "],["내장 지방 등급 ","≥ 18살 "],["근육 율 ","≥ 18살 "],["근육 량 ","≥ 18살 "],["골량 ","≥ 18살 "],["단백질 ","≥ 18살 "],["신체년령 ","≥ 18살 "]]},{"level":1,"content":"임신부 신체내에 태아와 양수가 있어 검진과정 중 미 확정 요소들이 데이타 정확성에 영향주게 됩니다. 하여 지방율 등 수치는 참고적 가치가 없어 몸 무게만 측정하도록 건의합니다. ","type":"string"},{"level":1,"content":"전문 보디 빌딩운동원 본 제품의 적용대상은 일반사람 임 보디 빌딩을 전문으로 하는 사람들의 근육과 지방비율은 특수하기 떄문에 본 제품으로 측정한 지방율 데이타는 병원에서 사용되는 전문기기로 측정한 데이타와 다를 수 있습니다. 이 부분 사람들은 측정데이타 보다 장기적인 변화에 주목 하도록 건의합니다. ","type":"string"}]},{"question":"전지주의사항 ","answers":[{"content":"한 주 이상 본 제품을 사용하지 않을 경우 전지를 빼주세요. 에네지 절감 및 제품 사용수명연장 효과가 있습니다. ","type":"string"},{"content":"첨부로 드린 전지는 단지 시용전지로, 정식전지를 제때에 교체 해 주세요 전지사용시간은 두달을 넘기지 말아 주세요 ","type":"string"}]},{"question":"나의 체중계는 APP와 연결 가능한가요? ","answers":[{"content":"고객님이 구매하신 체중계는 APP와 연결하여 사용해야지 아닐경우 체중계에 체중정보만 나타냅니다.  APP에서 지방율, 수분율 등 더 많은 정보를 확인 하실 수 있습니다. 이헐게 해서 좋은 점이라면 매 번 측정결과를 스마트 폰과 클라우드 서버에 저장 할 수 있다는 것입니다  ","type":"string"},{"content":"세트로 쓰일 APP이름은 Feelfit라고 합니다. AppleStore과Google Play에서 무료로 다운 받으세요 Feelfit로 당신과 가족분들의 측정한 모든 결과를 기록 할 수 있어 빠른 확인 가능합니다. ","type":"string"}]},{"question":"왜 처음 APP을 사용 할 때 나의 키, 나이 등 개인정보를 입력해야 하나요? 개인정보가 보호되나요? ","answers":[{"content":"BIA생물전기저항 측정방법중 당신의 키/나이/성별 세가지 정보는  필수내용이고, 체중계에서 측정된 몸 무게와 신체 임피던스 정보로 지방율계산을 하게됩니다. 하여 키/나이/성별은 필수내용입니다. ","type":"string"},{"content":"저희들은 고객님의 신체에 관련된 개인정보를 보호 할 것이고, 이런 정보는 단지 지방율계산에만 사용하고 기타 용도로 사용하지 않을 것을 보증합니다. ","type":"string"}]},{"question":"체중계 화면이 나타나지 않거나 화면이 이상하게 나올때 어떻해야죠? ","answers":[{"content":"체중계 화면에 이상있는경우는 다음과 같은 몇가지 입니다. ","type":"string"},{"id":"scale_error_1","type":"image"},{"level":1,"content":"LED화면이 나타나지 않을 경우 전지의 전기량을 확인하시고, 전지를 재 설치 해 보세요. 그래도 화면이 없을 경우 전지를 교체하도록 건의합니다. ","type":"string"},{"id":"scale_error_2","type":"image"},{"level":1,"content":"LED화면에 LO가 나타날 경우 전지가 정확히 설치되었는지를 자세히 확인 해 보시고, 전기량이 있는지도 확인 해 보세요. 그래도 LO가 계속 될 경우 전지를 교체하도록 건의합니다. ","type":"string"},{"id":"scale_error_3","type":"image"},{"level":1,"content":"LED화면에 EER가 나타날 경우 체중계 센서가 과부하 혹은 파손 됨. 180KG혹은 440파운드 중량을 넘게 측정하지 말아 주세요 ","type":"string"}]}]},{"title":"측정한 데이타에 영향주는 원인 ","questions":[{"question":"정확히 측정하는 방법","answers":[{"level":1,"content":"APP을 열어 측정화면으로 이동 ","type":"string"},{"id":"measure_main_ui","type":"image"},{"level":1,"content":"측정시 신, 양말을 벗고 두 발로 양쪽의 전극판넬을 밟아 서 주세요. 측정 과정 중 함부로 측정계에서 내리거나 움직이지 말아 주세요. ","type":"string"},{"id":"how_measure_1","type":"image"},{"level":1,"content":"체중계는 먼저 체중을 측정하고 지방을 측정하게 되어있습니다. 측정시 체중계와 APP의 반응은 다음과 같습니다. ","type":"string"},{"level":2,"content":"만약 체중이 50.00KG일 시, 체중계에 서 있을때 50.00KG수자가 약 3번 정도 반짝이고 모니터에 0이 생겨 좌측에서 우측으로 약 2-3번 정도 통과하게 되고 다시 50.00KG으로 바뀌어 약 5초 정도 후 자동으로 숫자가 사라져 측정완료 됩니다 ","type":"string"},{"level":2,"content":"APP측정화면에서는 화면 중의 원형모양의 그림이 신호음과 함께 모든 데이타가 나타날 때까지 움직입니다.(신호음은 닫을 수 있음) ","type":"string"},{"level":1,"content":"다음번 무게측정은 LED모니터가 꺼지고 2-3초 뒤에 다시 측정 할 수 있습니다. ","type":"string"}]},{"question":"어떻게 측정해야 불 필요한 측정오차가 생기지 않도록 하는가요? ","answers":[{"level":1,"content":"체중오차를 줄이는 방법 ","type":"string"},{"id":"how_put_scale","type":"image"},{"level":2,"content":"본 제품을 반드시 타일 등 평탄하고 딴딴한 지면에 놓아야 합니다. 카펫위에 설치한다든가 체중계 밑에 연성물품을 받치거나 해서는 안됩니다. 본 제품의 표준오차는 다음 표와 같습니다. ","type":"string"},{"type":"table","header":["측정수치 ","최대 오차범위 "],"body":[["0<x≤50KG","±0.2KG"],["50KG<x≤100KG","±0.3KG"],["x≤180KG","±0.4KG"]]},{"level":2,"content":"매번 측정하기 전 Calibrating하기:  체중계위어 올라서서 LED전등이 켜지고 화면 상 숫자가 아직 안정되지 않았을때 체중계에서 내리면 화면에 CAL가 뜨고 “0”으로 됩니다 이때 Calibrating이 완료되었음을 의미합니다. ","type":"string"},{"level":1,"content":"지방율과 수분율오차를 줄이는 방법 ","type":"string"},{"level":2,"content":"본 제품은 BIA생물전기저항측정방법으로 지방율을 측정하는데 측정된 지방율은 다음과 같은 파라미터와 긴밀히 연관됩니다. 신체저항계수/키/체중/년령/성별 이런 파라미터가 변화 될 시 지방율 측정결과도 변화 됩니다. ","type":"string"},{"level":3,"content":"하여 사용자는 정확한 키/성별/년령을 입력하셔야 합니다 이런 수치가 정확치 않을 경우 정확한 지방율측정이 안됩니다. ","type":"string"},{"level":3,"content":"맨 발이여야 함(양말벗어야 함) ","type":"string"},{"level":3,"content":"표준화 된 모델형의 신체저항계수를 확보하기 위하여 사용자는 정확한 자세로 체중계에 서서 측정해야 합니다. 다음 그림 참조 ","type":"string"},{"id":"measure_principle","type":"image"},{"level":3,"content":"정확한 신체저항계수를 측정하기 위하여 측정 시 양쪽 발은 좌우양측의 금속전극 위에 있어야 하고 측정이 끝날때까지 움직이지 말아야 합니다. 直到测量结束。측정과정은 약 20초 정도 필요합니다 ","type":"string"},{"level":2,"content":"저희는 매일 같은 시간에 동일한 조건하에서 측정하도록 건의합니다. 인체 몸 무게는 매일 식사와 음수에 따라 변화되며 0.5~2kg변화량이 있겟습니다. 인체 지방율=지방중량/몸무게 로 계산되기 때문에 지방율도 파동이 있을 수 있습니다. 정상인체의 하루간 지방율 변화는 다음 그래프 참조 아침 식사, 음수 전의 인체 지방율은 일일간 최고치에 도달하고, 오후와 저녁에 식사와 음수로 체중과 수분율이 증가되어 지방율은 일일간 최저치에 도달하게 됩니다. ","type":"string"},{"id":"bodyfat_trend_per_day","type":"image"},{"content":" 하여 저희는 사용자가 공복으로 아침마다 측정하도록 건의하고 연속적으로 측정하면 장기적인 신체 체중/지방율 변화 데이타를 얻을 수 있습니다. ","type":"string"}]},{"question":"왜 나의 지방율 측정결과는 다른 측정계로 측정된 결과와 다를까요? 왜 지방율은 장기적으로 측정해야 하고 지방율의 상대적 변화데이타가 더 중요할까요? ","answers":[{"content":"지방은 인체내의 특수조직으로 복잡한 존재입니다. 이는 또 피하지방, 내장지방 등을 포함하며 인체내의 곳곳에 있습니다. 현재 전 세계적으로 비교적 유행되는 지방율 측정방법으로 DEXA, BIA, 수중 몸 무게측정 등 방법이 있습니다. 측정방법별로 특유한 계산방법이 있어 부동한 결과가 얻어집니다. 목전, 수중 몸 무게 측정방법과 DEXA(이중 X방사선 흡수방법)이 “골든 표준”으로 인정되고 있는데 이런 골든표준으로 반복적으로 측정해도 오차가 있을 수 있습니다. 하여 인체성분분석의 최대 문제로는: 그 어떤 기기로도 절대적으로 정확한 결과를 얻을 수 없다는 것입니다. 가정용 체중지방측정계는 대부분 BIA측정방법을 채용하고 있고, 부동한 측정방법으로 인한 부동한 결과가 얻어집니다. 하여 사용자는 부동한 설비에서 측정된 절대치의 차이점에 너무 집념하지 마시고 동일한 설비에서 장기적으로 측정된 데이타의 상대적 변화에 더 관심가지시도록 건의하는 바입니다. ","type":"string"},{"content":"사용자는 가능하면 한가지 평가시스템을 사용하여 지방율에 대한 장기적인 감시, 측정하도록 건의합니다. 장기적인 변화 데이타는 한 사람의 건강상황 변화추세를 평가 할 수 있고 건강추세에 대한 컨트롤이야 말로 제일 중요한 것입니다. 하여 저희는 변화의 상대적인 데이타는 한번의 측정결과 보다 더 의미 있다고 생각하고 있습니다. ","type":"string"}]}]},{"title":"APP기능 사용방법 ","questions":[{"question":"설비가 연결 안 되나요? ","answers":[{"level":1,"content":"Bluetooth가 켜져 있는지 확인하시고, 체중계를 핸드폰 근처에 놓고 전지가 설치되었는지, 화면이 켜져있는지를 확인합니다. ","type":"string"},{"level":1,"content":"Android6.0 인 설비일 경우, Feelfit에 위치권한이 수여되었는지를 확인 해 주세요. ","type":"string"},{"id":"authorize_permission_feelfit","type":"image"},{"level":1,"content":"위치권한이 수여되어도 검색 안 될 경우 GPS를 켜 주세요 ","type":"string"},{"content":"Feelfit에 위치권한 수여하기 ","type":"string"},{"level":2,"content":"“설치”에 있는 어플리케이션을 클릭 ","type":"string"},{"id":"authorize_permission_1","type":"image"},{"level":2,"content":"“모든 APP”중 Feelfit를 클릭하여 APP정보 확인 ","type":"string"},{"id":"authorize_permission_2_feelfit","type":"image"},{"level":2,"content":"APP정보 중 권한을 클릭하여 위치정보를 확보 및 켜기 ","type":"string"},{"id":"authorize_permission_3_feelfit","type":"image"}]},{"question":"Bluetooth와 APP 을 binding하기 ","answers":[{"content":"APP을 열어 측정화면에 들어가기 다음과 같은 화면이 뜰때 측정계 위에 서서 LED화면이 켜지게 합니다 사용 중 APP이 기존에 아무런 측정계도 BINDING하지 않았을 경우 자동적으로 이 측정계와 BINDING하게 되고 즉시 몸 무게를 측정합니다. ","type":"string"},{"id":"measure_main_ui","type":"image"},{"content":"사용 중 APP이 기존에 다른 측정계를 BINDING한 적이 있을 경우 APP을 통해 측정계를 더 추가해야 하는데 화면 우측상단에 있는+를 클릭하여 BINDING화면으로 이동합니다. ","type":"string"},{"id":"measure_add_device_guide","type":"image"},{"content":"주의: 측정계를 BINDING할때 LED가 밝음 상태을 유지하도록 해야 합니다. ","type":"string"}]},{"question":"내가 구매 한 Bluetooth 측정계는 측정할때 꼭 APP을 열어야 하나요? ","answers":[{"content":"꼭 APP열지 않으셔도 됩니다. 이런 상황에서는 매번 측정결과를 측정계내에 저장하게 되고 최대20차의 측정데이타를 저장가능합니다. 다음번 측정계와 연결 할때 자동적으로 측정계내에 저장된 데이타를 접수하여 대응되는 맴버 계정으로 배분합니다. 만약 본차 접수된 데이타가 APP내의 모든 계정내의 단번 체중보다 3KG혹은 그 이상의 차이가 있을경우 APP은 수동으로 배분한 본차 측정결과를 삭제 혹은 바로 삭제하도록 제시합니다. ","type":"string"}]},{"question":"여러개 계정추가 ","answers":[{"level":1,"content":"옵션”나”클릭(메인화면 우측하단) ","type":"string"},{"id":"user_index","type":"image"},{"level":1,"content":"프로필사진 좌측의 인형그림 클릭, 측정계정혹은 친구추가 클릭 ","type":"string"},{"id":"user_add_guide_1","type":"image"},{"id":"user_add_guide_2_feelfit","type":"image"},{"level":1,"content":"추가된 계정은 등록필요없지만 신체관련정보를 입력해야 함 ","type":"string"},{"level":1,"content":"추가한 친구가 등록된 사용자일 경우 상대방의 등록이메일을 입력해야 함 ","type":"string"},{"level":1,"content":"계정 혹은 친구를 추가하면 사용자리스트에서 사용자를 선택하여 측정 할 수 있습니다. ","type":"string"}]},{"question":"나의 성별/년령/키 가 잘못 입력되었을 경우 어떻게 수정하나요? ","answers":[{"level":1,"content":"옵션”나”클릭(메인화면 우측하단) ","type":"string"},{"id":"user_index","type":"image"},{"level":1,"content":"화면 상단의 피로필사진 클릭 ","type":"string"},{"id":"user_edit_profile_guide","type":"image"},{"level":1,"content":"사용자자료 수정화면에 들어가 자료수정 ","type":"string"},{"level":1,"content":"수정완료 후 저장하기 클릭 ","type":"string"}]},{"question":"apple health kit와 연결하기 ","answers":[{"level":1,"content":"iPhone에서 “건강” APP를 엽니다 ","type":"string"},{"id":"health_kit_logo","type":"image"},{"level":1,"content":"“데이타 래원” 옵션 클릭 ","type":"string"},{"id":"health_kit_index","type":"image"},{"level":1,"content":"래원 리스트에서 “Feelfit” 선택하기 ","type":"string"},{"id":"health_kit_feelfit","type":"image"},{"level":1,"content":"데이타 권한스위치를 열거나 닫기 ","type":"string"},{"id":"health_kit_switcher_feelfit","type":"image"}]},{"question":"Google Fit와 연결하기","answers":[{"level":1,"content":"“나” 화면 우측상단 설치 아이콘 클릭 ","type":"string"},{"id":"me_setting","type":"image"},{"level":1,"content":"“시스템 설치” 화면에서 “Google Fit”  클릭하여 열기 ","type":"string"},{"id":"setting_googlefit","type":"image"},{"level":1,"content":"“Google Fit” 의 스위치를 열면 Google계정 선택화면이 뜸니다. (신 계정추가, Google계정 등록하기) 혹은 자신의 Google계정을 선택 할 수 있습니다. ","type":"string"},{"id":"googlefit_switcher","type":"image"},{"level":1,"content":"선택완료 후 “Google Fit” 화면으로 돌아가면 이때 “Google Fit” 스위치는 오픈 상태로 성공적으로 연결됩니다 ","type":"string"},{"id":"google_switcher_enable","type":"image"},{"level":1,"content":"무게측정계에 올라서서 측정하면 측정된 데이타는 “Google Fit” 에 업로딩 되어 APP롤 통해 관련 데이타를 확인 하실 수 있습니다. ","type":"string"},{"id":"googlefit_result","type":"image"}]},{"question":"Fitbit와 연결하기 ","answers":[{"level":1,"content":"“나” 화면 우측상단 설치 아이콘 클릭 ","type":"string"},{"id":"me_setting","type":"image"},{"level":1,"content":"“시스템 설치” 화면에서 “FitBit”  클릭하여 열기 ","type":"string"},{"id":"setting_fitbit","type":"image"},{"level":1,"content":"“FitBit”  의 스위치를 열면 “FitBit”  의 로그인 화면에서 이미 등록된 “FitBit”  계정과 비밀번호를 입력할 수 있습니다.(혹은 같은 화면에서 “FitBit”  회원신청 하실 수 있습니다.) ","type":"string"},{"id":"fitbit_switcher","type":"image"},{"level":1,"content":"“로그인”을 클릭하시면 “APP방문을 허락하시겠습니까” 라는 화면이 뜨는데 이때 “허락합니다”를 선택하시면 APP시스템 설치화면으로 바뀌게 되고 “FitBit”  의 스위치는 켜진 상태로 됩니다. ","type":"string"},{"id":"fitbit_auth","type":"image"},{"level":1,"content":"체중계에 올라서서 측정하면 체중, 지방율은 “FitBit”  로 업로딩 되어 “FitBit” APP혹은 “FitBit”  홈페이지를 통해 데이타를 업데이터 하게 되면 본차 측정한 체중 지방율을 확인 할 수 있습니다  ","type":"string"},{"id":"fitbit_result","type":"image"},{"level":1,"content":"“FitBit”  가 켜진 상태이고 인터넷연결이 원활해야만 매번 측정한 데이타가 제대로 업로딩됩니다.  혹시 닫겨지면 측정한 체중, 지방율데이타는 업로딩되지 않습니다. ","type":"string"},{"id":"fitbit_open","type":"image"}]},{"question":"Feelfit friends 추가하는 방법 ","answers":[{"content":"Friends기능은 친구들사이에 상호간 상대방의 신체변화상황을 확인 할 수 있게 해 드립니다. 예를들면 영양사/헬스 트레이너는 자신 고객의 신체변화상황을 모니터링해야 하는데 이때 바로 이 기능을 사용 할 수 있습니다. ","type":"string"},{"level":1,"content":"옵션”나”클릭(메인화면 우측하단) ","type":"string"},{"id":"user_index","type":"image"},{"level":1,"content":"프로필사진 좌측의 인형그림 클릭, Feelfit friends추가하기 클릭 ","type":"string"},{"id":"user_add_guide_3_feelfit","type":"image"},{"level":1,"content":"상대방의 이메일을 입력하고 “발송하기”클릭 ","type":"string"},{"id":"user_add_guide_4_feelfit","type":"image"},{"level":1,"content":"상대방은 시스템 메세지를 받게 되는데 상대방은 옵션카드”나” 화면의 우측상단의 아이콘을 클릭하여 시스템 메세지를 확인 할 수 있습니다. 상대방이 친구요청을 접수하면 친구추가 완료됩니다. 상대방의 신체의 상세한 정보를 확인 할 수 있습니다. ","type":"string"}]},{"question":"나의 과거 측정데이타 확인하는 방법 일부 데이타를 삭제할려면 어떻게 해야하는지? ","answers":[{"level":1,"content":"“그래프”옵션카드 클릭(메인 화면의 하단 중간) ","type":"string"},{"id":"chart_index","type":"image"},{"level":1,"content":"그래프 화면의 우측상단 아이콘 클릭하거나 그래프 중 임의의 점을 클릭하여 과거데이타 화면으로 들어갑니다. ","type":"string"},{"id":"chart_click_history","type":"image"},{"level":1,"content":"삭제하고자 하는 그날의 데이타를 선택하여 해당데이타를 선택합니다(각 데이타의 우측상단), 여러데이타 동시선택가능함. ","type":"string"},{"content":" 화면 하단의 “삭제”버턴을 클릭하면 삭제됩니다. ","type":"string"},{"id":"history_check_data","type":"image"}]},{"question":"나의 부동한 시간때 측정했던 데이타를 상세히 비교할려면 어떻게 해야하나요? ","answers":[{"level":1,"content":"“그래프”옵션카드 클릭(메인 화면의 하단 중간) ","type":"string"},{"id":"chart_index","type":"image"},{"level":1,"content":"초기설정으로 한주간의 체중 그래프만 조회됩니다. 기타 지표를 확인하실려면 그래프 하단의 아이콘을 클릭하여 부동한 지표의 그래프를 확인 할 수 있습니다.  ","type":"string"},{"id":"chart_change_indicator","type":"image"},{"level":1,"content":"그래프를 끌어 당기면 더 오래전의 데이타를 확인 할 수 있습니다. ","type":"string"},{"id":"chart_slide","type":"image"},{"level":1,"content":"그래프 상단에서 시간대 범위를 선택할 수 있는어 더 긴 시간대의 추이를 확인 할 수 있습니다. ","type":"string"},{"id":"chart_chart_date","type":"image"}]}]}]}
+{
+  "title": "FAQ",
+  "sections": [
+    {
+      "title": "제품 사용주의사항 ",
+      "questions": [
+        {
+          "question": "본 제품을 사용해서는 안 될 사람들 ",
+          "answers": [
+            {
+              "content": "심장박동 조절장치, 인공 페, 휴대식 ECG, 골 조송증 등 생명유지의료기기를 사용하고 있는 사람은 본 제품을 사용해서는 안됨 ",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "question": "본 제품 사용시 특별 주의해야 할 사람들 ",
+          "answers": [
+            {
+              "level": 1,
+              "content": "18세미만 아동 및 청소년 미성년자는 영양섭취 및 성장속도가 빨라 현재 적용되는 미성년 인체성분 평가시스템이 없는 상황이어 저희 시스템 중 일부 측정지표는 나이에 따라 다릅니다. ",
+              "type": "string"
+            },
+            {
+              "type": "table",
+              "header": [
+                "지표유형 ",
+                "유효년령 "
+              ],
+              "body": [
+                [
+                  "몸 무게 ",
+                  "유효함 "
+                ],
+                [
+                  "BMI",
+                  "≥ 4살 "
+                ],
+                [
+                  "인체지방율 ",
+                  "≥ 10살 "
+                ],
+                [
+                  "인체수분율 ",
+                  "≥ 10살 "
+                ],
+                [
+                  "피하 지방 ",
+                  "≥ 10살 "
+                ],
+                [
+                  "기초대사율 ",
+                  "≥ 10살 "
+                ],
+                [
+                  "비 지방 체중 ",
+                  "≥ 10살 "
+                ],
+                [
+                  "내장 지방 등급 ",
+                  "≥ 18살 "
+                ],
+                [
+                  "근육 율 ",
+                  "≥ 18살 "
+                ],
+                [
+                  "근육 량 ",
+                  "≥ 18살 "
+                ],
+                [
+                  "골량 ",
+                  "≥ 18살 "
+                ],
+                [
+                  "단백질 ",
+                  "≥ 18살 "
+                ],
+                [
+                  "신체년령 ",
+                  "≥ 18살 "
+                ]
+              ]
+            },
+            {
+              "level": 1,
+              "content": "임신부 신체내에 태아와 양수가 있어 검진과정 중 미 확정 요소들이 데이타 정확성에 영향주게 됩니다. 하여 지방율 등 수치는 참고적 가치가 없어 몸 무게만 측정하도록 건의합니다. ",
+              "type": "string"
+            },
+            {
+              "level": 1,
+              "content": "전문 보디 빌딩운동원 본 제품의 적용대상은 일반사람 임 보디 빌딩을 전문으로 하는 사람들의 근육과 지방비율은 특수하기 떄문에 본 제품으로 측정한 지방율 데이타는 병원에서 사용되는 전문기기로 측정한 데이타와 다를 수 있습니다. 이 부분 사람들은 측정데이타 보다 장기적인 변화에 주목 하도록 건의합니다. ",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "question": "전지주의사항 ",
+          "answers": [
+            {
+              "content": "한 주 이상 본 제품을 사용하지 않을 경우 전지를 빼주세요. 에네지 절감 및 제품 사용수명연장 효과가 있습니다. ",
+              "type": "string"
+            },
+            {
+              "content": "첨부로 드린 전지는 단지 시용전지로, 정식전지를 제때에 교체 해 주세요 전지사용시간은 두달을 넘기지 말아 주세요 ",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "question": "나의 체중계는 APP와 연결 가능한가요? ",
+          "answers": [
+            {
+              "content": "고객님이 구매하신 체중계는 APP와 연결하여 사용해야지 아닐경우 체중계에 체중정보만 나타냅니다.  APP에서 지방율, 수분율 등 더 많은 정보를 확인 하실 수 있습니다. 이헐게 해서 좋은 점이라면 매 번 측정결과를 스마트 폰과 클라우드 서버에 저장 할 수 있다는 것입니다  ",
+              "type": "string"
+            },
+            {
+              "content": "세트로 쓰일 APP이름은 Feelfit라고 합니다. AppleStore과Google Play에서 무료로 다운 받으세요 Feelfit로 당신과 가족분들의 측정한 모든 결과를 기록 할 수 있어 빠른 확인 가능합니다. ",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "question": "왜 처음 APP을 사용 할 때 나의 키, 나이 등 개인정보를 입력해야 하나요? 개인정보가 보호되나요? ",
+          "answers": [
+            {
+              "content": "BIA생물전기저항 측정방법중 당신의 키/나이/성별 세가지 정보는  필수내용이고, 체중계에서 측정된 몸 무게와 신체 임피던스 정보로 지방율계산을 하게됩니다. 하여 키/나이/성별은 필수내용입니다. ",
+              "type": "string"
+            },
+            {
+              "content": "저희들은 고객님의 신체에 관련된 개인정보를 보호 할 것이고, 이런 정보는 단지 지방율계산에만 사용하고 기타 용도로 사용하지 않을 것을 보증합니다. ",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "question": "체중계 화면이 나타나지 않거나 화면이 이상하게 나올때 어떻해야죠? ",
+          "answers": [
+            {
+              "content": "체중계 화면에 이상있는경우는 다음과 같은 몇가지 입니다. ",
+              "type": "string"
+            },
+            {
+              "id": "scale_error_1",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "LED화면이 나타나지 않을 경우 전지의 전기량을 확인하시고, 전지를 재 설치 해 보세요. 그래도 화면이 없을 경우 전지를 교체하도록 건의합니다. ",
+              "type": "string"
+            },
+            {
+              "id": "scale_error_2",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "LED화면에 LO가 나타날 경우 전지가 정확히 설치되었는지를 자세히 확인 해 보시고, 전기량이 있는지도 확인 해 보세요. 그래도 LO가 계속 될 경우 전지를 교체하도록 건의합니다. ",
+              "type": "string"
+            },
+            {
+              "id": "scale_error_3",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "LED화면에 EER가 나타날 경우 체중계 센서가 과부하 혹은 파손 됨. 180KG혹은 440파운드 중량을 넘게 측정하지 말아 주세요 ",
+              "type": "string"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "측정한 데이타에 영향주는 원인 ",
+      "questions": [
+        {
+          "question": "정확히 측정하는 방법",
+          "answers": [
+            {
+              "level": 1,
+              "content": "APP을 열어 측정화면으로 이동 ",
+              "type": "string"
+            },
+            {
+              "id": "measure_main_ui",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "측정시 신, 양말을 벗고 두 발로 양쪽의 전극판넬을 밟아 서 주세요. 측정 과정 중 함부로 측정계에서 내리거나 움직이지 말아 주세요. ",
+              "type": "string"
+            },
+            {
+              "id": "how_measure_1",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "체중계는 먼저 체중을 측정하고 지방을 측정하게 되어있습니다. 측정시 체중계와 APP의 반응은 다음과 같습니다. ",
+              "type": "string"
+            },
+            {
+              "level": 2,
+              "content": "만약 체중이 50.00KG일 시, 체중계에 서 있을때 50.00KG수자가 약 3번 정도 반짝이고 모니터에 0이 생겨 좌측에서 우측으로 약 2-3번 정도 통과하게 되고 다시 50.00KG으로 바뀌어 약 5초 정도 후 자동으로 숫자가 사라져 측정완료 됩니다 ",
+              "type": "string"
+            },
+            {
+              "level": 2,
+              "content": "APP측정화면에서는 화면 중의 원형모양의 그림이 신호음과 함께 모든 데이타가 나타날 때까지 움직입니다.(신호음은 닫을 수 있음) ",
+              "type": "string"
+            },
+            {
+              "level": 1,
+              "content": "다음번 무게측정은 LED모니터가 꺼지고 2-3초 뒤에 다시 측정 할 수 있습니다. ",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "question": "어떻게 측정해야 불 필요한 측정오차가 생기지 않도록 하는가요? ",
+          "answers": [
+            {
+              "level": 1,
+              "content": "체중오차를 줄이는 방법 ",
+              "type": "string"
+            },
+            {
+              "id": "how_put_scale",
+              "type": "image"
+            },
+            {
+              "level": 2,
+              "content": "본 제품을 반드시 타일 등 평탄하고 딴딴한 지면에 놓아야 합니다. 카펫위에 설치한다든가 체중계 밑에 연성물품을 받치거나 해서는 안됩니다. 본 제품의 표준오차는 다음 표와 같습니다. ",
+              "type": "string"
+            },
+            {
+              "type": "table",
+              "header": [
+                "측정수치 ",
+                "최대 오차범위 "
+              ],
+              "body": [
+                [
+                  "0<x≤50KG",
+                  "±0.2KG"
+                ],
+                [
+                  "50KG<x≤100KG",
+                  "±0.3KG"
+                ],
+                [
+                  "x≤180KG",
+                  "±0.4KG"
+                ]
+              ]
+            },
+            {
+              "level": 2,
+              "content": "매번 측정하기 전 Calibrating하기:  체중계위어 올라서서 LED전등이 켜지고 화면 상 숫자가 아직 안정되지 않았을때 체중계에서 내리면 화면에 CAL가 뜨고 “0”으로 됩니다 이때 Calibrating이 완료되었음을 의미합니다. ",
+              "type": "string"
+            },
+            {
+              "level": 1,
+              "content": "지방율과 수분율오차를 줄이는 방법 ",
+              "type": "string"
+            },
+            {
+              "level": 2,
+              "content": "본 제품은 BIA생물전기저항측정방법으로 지방율을 측정하는데 측정된 지방율은 다음과 같은 파라미터와 긴밀히 연관됩니다. 신체저항계수/키/체중/년령/성별 이런 파라미터가 변화 될 시 지방율 측정결과도 변화 됩니다. ",
+              "type": "string"
+            },
+            {
+              "level": 3,
+              "content": "하여 사용자는 정확한 키/성별/년령을 입력하셔야 합니다 이런 수치가 정확치 않을 경우 정확한 지방율측정이 안됩니다. ",
+              "type": "string"
+            },
+            {
+              "level": 3,
+              "content": "맨 발이여야 함(양말벗어야 함) ",
+              "type": "string"
+            },
+            {
+              "level": 3,
+              "content": "표준화 된 모델형의 신체저항계수를 확보하기 위하여 사용자는 정확한 자세로 체중계에 서서 측정해야 합니다. 다음 그림 참조 ",
+              "type": "string"
+            },
+            {
+              "id": "measure_principle",
+              "type": "image"
+            },
+            {
+              "level": 3,
+              "content": "정확한 신체저항계수를 측정하기 위하여 측정 시 양쪽 발은 좌우양측의 금속전극 위에 있어야 하고 측정이 끝날때까지 움직이지 말아야 합니다. 直到测量结束。측정과정은 약 20초 정도 필요합니다 ",
+              "type": "string"
+            },
+            {
+              "level": 2,
+              "content": "저희는 매일 같은 시간에 동일한 조건하에서 측정하도록 건의합니다. 인체 몸 무게는 매일 식사와 음수에 따라 변화되며 0.5~2kg변화량이 있겟습니다. 인체 지방율=지방중량/몸무게 로 계산되기 때문에 지방율도 파동이 있을 수 있습니다. 정상인체의 하루간 지방율 변화는 다음 그래프 참조 아침 식사, 음수 전의 인체 지방율은 일일간 최고치에 도달하고, 오후와 저녁에 식사와 음수로 체중과 수분율이 증가되어 지방율은 일일간 최저치에 도달하게 됩니다. ",
+              "type": "string"
+            },
+            {
+              "id": "bodyfat_trend_per_day",
+              "type": "image"
+            },
+            {
+              "content": " 하여 저희는 사용자가 공복으로 아침마다 측정하도록 건의하고 연속적으로 측정하면 장기적인 신체 체중/지방율 변화 데이타를 얻을 수 있습니다. ",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "question": "왜 나의 지방율 측정결과는 다른 측정계로 측정된 결과와 다를까요? 왜 지방율은 장기적으로 측정해야 하고 지방율의 상대적 변화데이타가 더 중요할까요? ",
+          "answers": [
+            {
+              "content": "지방은 인체내의 특수조직으로 복잡한 존재입니다. 이는 또 피하지방, 내장지방 등을 포함하며 인체내의 곳곳에 있습니다. 현재 전 세계적으로 비교적 유행되는 지방율 측정방법으로 DEXA, BIA, 수중 몸 무게측정 등 방법이 있습니다. 측정방법별로 특유한 계산방법이 있어 부동한 결과가 얻어집니다. 목전, 수중 몸 무게 측정방법과 DEXA(이중 X방사선 흡수방법)이 “골든 표준”으로 인정되고 있는데 이런 골든표준으로 반복적으로 측정해도 오차가 있을 수 있습니다. 하여 인체성분분석의 최대 문제로는: 그 어떤 기기로도 절대적으로 정확한 결과를 얻을 수 없다는 것입니다. 가정용 체중지방측정계는 대부분 BIA측정방법을 채용하고 있고, 부동한 측정방법으로 인한 부동한 결과가 얻어집니다. 하여 사용자는 부동한 설비에서 측정된 절대치의 차이점에 너무 집념하지 마시고 동일한 설비에서 장기적으로 측정된 데이타의 상대적 변화에 더 관심가지시도록 건의하는 바입니다. ",
+              "type": "string"
+            },
+            {
+              "content": "사용자는 가능하면 한가지 평가시스템을 사용하여 지방율에 대한 장기적인 감시, 측정하도록 건의합니다. 장기적인 변화 데이타는 한 사람의 건강상황 변화추세를 평가 할 수 있고 건강추세에 대한 컨트롤이야 말로 제일 중요한 것입니다. 하여 저희는 변화의 상대적인 데이타는 한번의 측정결과 보다 더 의미 있다고 생각하고 있습니다. ",
+              "type": "string"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "APP기능 사용방법 ",
+      "questions": [
+        {
+          "question": "설비가 연결 안 되나요? ",
+          "answers": [
+            {
+              "level": 1,
+              "content": "Bluetooth가 켜져 있는지 확인하시고, 체중계를 핸드폰 근처에 놓고 전지가 설치되었는지, 화면이 켜져있는지를 확인합니다. ",
+              "type": "string"
+            },
+            {
+              "level": 1,
+              "content": "Android6.0 인 설비일 경우, Feelfit에 위치권한이 수여되었는지를 확인 해 주세요. ",
+              "type": "string"
+            },
+            {
+              "id": "authorize_permission_feelfit",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "위치권한이 수여되어도 검색 안 될 경우 GPS를 켜 주세요 ",
+              "type": "string"
+            },
+            {
+              "content": "Feelfit에 위치권한 수여하기 ",
+              "type": "string"
+            },
+            {
+              "level": 2,
+              "content": "“설치”에 있는 어플리케이션을 클릭 ",
+              "type": "string"
+            },
+            {
+              "id": "authorize_permission_1",
+              "type": "image"
+            },
+            {
+              "level": 2,
+              "content": "“모든 APP”중 Feelfit를 클릭하여 APP정보 확인 ",
+              "type": "string"
+            },
+            {
+              "id": "authorize_permission_2_feelfit",
+              "type": "image"
+            },
+            {
+              "level": 2,
+              "content": "APP정보 중 권한을 클릭하여 위치정보를 확보 및 켜기 ",
+              "type": "string"
+            },
+            {
+              "id": "authorize_permission_3_feelfit",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "question": "Bluetooth와 APP 을 binding하기 ",
+          "answers": [
+            {
+              "content": "APP을 열어 측정화면에 들어가기 다음과 같은 화면이 뜰때 측정계 위에 서서 LED화면이 켜지게 합니다 사용 중 APP이 기존에 아무런 측정계도 BINDING하지 않았을 경우 자동적으로 이 측정계와 BINDING하게 되고 즉시 몸 무게를 측정합니다. ",
+              "type": "string"
+            },
+            {
+              "id": "measure_main_ui",
+              "type": "image"
+            },
+            {
+              "content": "사용 중 APP이 기존에 다른 측정계를 BINDING한 적이 있을 경우 APP을 통해 측정계를 더 추가해야 하는데 화면 우측상단에 있는+를 클릭하여 BINDING화면으로 이동합니다. ",
+              "type": "string"
+            },
+            {
+              "id": "measure_add_device_guide",
+              "type": "image"
+            },
+            {
+              "content": "주의: 측정계를 BINDING할때 LED가 밝음 상태을 유지하도록 해야 합니다. ",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "question": "내가 구매 한 Bluetooth 측정계는 측정할때 꼭 APP을 열어야 하나요? ",
+          "answers": [
+            {
+              "content": "꼭 APP열지 않으셔도 됩니다. 이런 상황에서는 매번 측정결과를 측정계내에 저장하게 되고 최대20차의 측정데이타를 저장가능합니다. 다음번 측정계와 연결 할때 자동적으로 측정계내에 저장된 데이타를 접수하여 대응되는 맴버 계정으로 배분합니다. 만약 본차 접수된 데이타가 APP내의 모든 계정내의 단번 체중보다 3KG혹은 그 이상의 차이가 있을경우 APP은 수동으로 배분한 본차 측정결과를 삭제 혹은 바로 삭제하도록 제시합니다. ",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "question": "여러개 계정추가 ",
+          "answers": [
+            {
+              "level": 1,
+              "content": "옵션”나”클릭(메인화면 우측하단) ",
+              "type": "string"
+            },
+            {
+              "id": "user_index",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "프로필사진 좌측의 인형그림 클릭, 측정계정혹은 친구추가 클릭 ",
+              "type": "string"
+            },
+            {
+              "id": "user_add_guide_1",
+              "type": "image"
+            },
+            {
+              "id": "user_add_guide_2_feelfit",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "추가된 계정은 등록필요없지만 신체관련정보를 입력해야 함 ",
+              "type": "string"
+            },
+            {
+              "level": 1,
+              "content": "추가한 친구가 등록된 사용자일 경우 상대방의 등록이메일을 입력해야 함 ",
+              "type": "string"
+            },
+            {
+              "level": 1,
+              "content": "계정 혹은 친구를 추가하면 사용자리스트에서 사용자를 선택하여 측정 할 수 있습니다. ",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "question": "나의 성별/년령/키 가 잘못 입력되었을 경우 어떻게 수정하나요? ",
+          "answers": [
+            {
+              "level": 1,
+              "content": "옵션”나”클릭(메인화면 우측하단) ",
+              "type": "string"
+            },
+            {
+              "id": "user_index",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "화면 상단의 피로필사진 클릭 ",
+              "type": "string"
+            },
+            {
+              "id": "user_edit_profile_guide",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "사용자자료 수정화면에 들어가 자료수정 ",
+              "type": "string"
+            },
+            {
+              "level": 1,
+              "content": "수정완료 후 저장하기 클릭 ",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "question": "apple health kit와 연결하기 ",
+          "answers": [
+            {
+              "level": 1,
+              "content": "iPhone에서 “건강” APP를 엽니다 ",
+              "type": "string"
+            },
+            {
+              "id": "health_kit_logo",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "“데이타 래원” 옵션 클릭 ",
+              "type": "string"
+            },
+            {
+              "id": "health_kit_index",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "래원 리스트에서 “Feelfit” 선택하기 ",
+              "type": "string"
+            },
+            {
+              "id": "health_kit_feelfit",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "데이타 권한스위치를 열거나 닫기 ",
+              "type": "string"
+            },
+            {
+              "id": "health_kit_switcher_feelfit",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "question": "Google Fit와 연결하기",
+          "answers": [
+            {
+              "level": 1,
+              "content": "“나” 화면 우측상단 설치 아이콘 클릭 ",
+              "type": "string"
+            },
+            {
+              "id": "me_setting",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "“시스템 설치” 화면에서 “Google Fit”  클릭하여 열기 ",
+              "type": "string"
+            },
+            {
+              "id": "setting_googlefit",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "“Google Fit” 의 스위치를 열면 Google계정 선택화면이 뜸니다. (신 계정추가, Google계정 등록하기) 혹은 자신의 Google계정을 선택 할 수 있습니다. ",
+              "type": "string"
+            },
+            {
+              "id": "googlefit_switcher",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "선택완료 후 “Google Fit” 화면으로 돌아가면 이때 “Google Fit” 스위치는 오픈 상태로 성공적으로 연결됩니다 ",
+              "type": "string"
+            },
+            {
+              "id": "google_switcher_enable",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "무게측정계에 올라서서 측정하면 측정된 데이타는 “Google Fit” 에 업로딩 되어 APP롤 통해 관련 데이타를 확인 하실 수 있습니다. ",
+              "type": "string"
+            },
+            {
+              "id": "googlefit_result",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "question": "Fitbit와 연결하기 ",
+          "answers": [
+            {
+              "level": 1,
+              "content": "“나” 화면 우측상단 설치 아이콘 클릭 ",
+              "type": "string"
+            },
+            {
+              "id": "me_setting",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "“시스템 설치” 화면에서 “FitBit”  클릭하여 열기 ",
+              "type": "string"
+            },
+            {
+              "id": "setting_fitbit",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "“FitBit”  의 스위치를 열면 “FitBit”  의 로그인 화면에서 이미 등록된 “FitBit”  계정과 비밀번호를 입력할 수 있습니다.(혹은 같은 화면에서 “FitBit”  회원신청 하실 수 있습니다.) ",
+              "type": "string"
+            },
+            {
+              "id": "fitbit_switcher",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "“로그인”을 클릭하시면 “APP방문을 허락하시겠습니까” 라는 화면이 뜨는데 이때 “허락합니다”를 선택하시면 APP시스템 설치화면으로 바뀌게 되고 “FitBit”  의 스위치는 켜진 상태로 됩니다. ",
+              "type": "string"
+            },
+            {
+              "id": "fitbit_auth",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "체중계에 올라서서 측정하면 체중, 지방율은 “FitBit”  로 업로딩 되어 “FitBit” APP혹은 “FitBit”  홈페이지를 통해 데이타를 업데이터 하게 되면 본차 측정한 체중 지방율을 확인 할 수 있습니다  ",
+              "type": "string"
+            },
+            {
+              "id": "fitbit_result",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "“FitBit”  가 켜진 상태이고 인터넷연결이 원활해야만 매번 측정한 데이타가 제대로 업로딩됩니다.  혹시 닫겨지면 측정한 체중, 지방율데이타는 업로딩되지 않습니다. ",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "question": "Feelfit friends 추가하는 방법 ",
+          "answers": [
+            {
+              "content": "Friends기능은 친구들사이에 상호간 상대방의 신체변화상황을 확인 할 수 있게 해 드립니다. 예를들면 영양사/헬스 트레이너는 자신 고객의 신체변화상황을 모니터링해야 하는데 이때 바로 이 기능을 사용 할 수 있습니다. ",
+              "type": "string"
+            },
+            {
+              "level": 1,
+              "content": "옵션”나”클릭(메인화면 우측하단) ",
+              "type": "string"
+            },
+            {
+              "id": "user_index",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "프로필사진 좌측의 인형그림 클릭, Feelfit friends추가하기 클릭 ",
+              "type": "string"
+            },
+            {
+              "id": "user_add_guide_3_feelfit",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "상대방의 이메일을 입력하고 “발송하기”클릭 ",
+              "type": "string"
+            },
+            {
+              "id": "user_add_guide_4_feelfit",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "상대방은 시스템 메세지를 받게 되는데 상대방은 옵션카드”나” 화면의 우측상단의 아이콘을 클릭하여 시스템 메세지를 확인 할 수 있습니다. 상대방이 친구요청을 접수하면 친구추가 완료됩니다. 상대방의 신체의 상세한 정보를 확인 할 수 있습니다. ",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "question": "나의 과거 측정데이타 확인하는 방법 일부 데이타를 삭제할려면 어떻게 해야하는지? ",
+          "answers": [
+            {
+              "level": 1,
+              "content": "“그래프”옵션카드 클릭(메인 화면의 하단 중간) ",
+              "type": "string"
+            },
+            {
+              "id": "chart_index",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "그래프 화면의 우측상단 아이콘 클릭하거나 그래프 중 임의의 점을 클릭하여 과거데이타 화면으로 들어갑니다. ",
+              "type": "string"
+            },
+            {
+              "id": "chart_click_history",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "삭제하고자 하는 그날의 데이타를 선택하여 해당데이타를 선택합니다(각 데이타의 우측상단), 여러데이타 동시선택가능함. ",
+              "type": "string"
+            },
+            {
+              "content": " 화면 하단의 “삭제”버턴을 클릭하면 삭제됩니다. ",
+              "type": "string"
+            },
+            {
+              "id": "history_check_data",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "question": "나의 부동한 시간때 측정했던 데이타를 상세히 비교할려면 어떻게 해야하나요? ",
+          "answers": [
+            {
+              "level": 1,
+              "content": "“그래프”옵션카드 클릭(메인 화면의 하단 중간) ",
+              "type": "string"
+            },
+            {
+              "id": "chart_index",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "초기설정으로 한주간의 체중 그래프만 조회됩니다. 기타 지표를 확인하실려면 그래프 하단의 아이콘을 클릭하여 부동한 지표의 그래프를 확인 할 수 있습니다.  ",
+              "type": "string"
+            },
+            {
+              "id": "chart_change_indicator",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "그래프를 끌어 당기면 더 오래전의 데이타를 확인 할 수 있습니다. ",
+              "type": "string"
+            },
+            {
+              "id": "chart_slide",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "그래프 상단에서 시간대 범위를 선택할 수 있는어 더 긴 시간대의 추이를 확인 할 수 있습니다. ",
+              "type": "string"
+            },
+            {
+              "id": "chart_chart_date",
+              "type": "image"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -620,6 +620,11 @@
                         {
                             "id": "fitbit_result",
                             "type": "image"
+                        },
+                        {
+                            "level": 1,
+                            "content": "必須讓Fitbit按鈕保持在開啟的狀態，同時網絡必須連接順暢，這樣每次的測量數據才會上傳體重、體脂率到Fitbit；如果關閉了，測量數據則不會再上傳體重、體脂率。",
+                            "type": "string"
                         }
                     ]
                 },

@@ -6,6 +6,11 @@ import ReactDom from 'react-dom';
 import SectionList from './components/SectionList';
 import Answer  from './components/Answer';
 import HelpCenter_ZH from './data/zh.json';
+import HelpCenter_JP from './data/jp.json';
+import HelpCenter_KO from './data/ko.json';
+import HelpCenter_FA from './data/fa.json';
+import HelpCenter_ES from './data/es.json';
+import HelpCenter_DE from './data/de.json';
 import HelpCenter_ZH_TW from './data/zh_TW.json';
 import HelpCenter_EN from './data/en.json';
 import imgs from './data/imageMap'
@@ -81,8 +86,18 @@ class Main extends React.Component {
         if (lang != null) {
             if (lang == "zh") {
                 helpCenter = HelpCenter_ZH;
+            }else if (lang == "jp") {
+                helpCenter = HelpCenter_JP;
             } else if (lang == 'zh_TW') {
                 helpCenter = HelpCenter_ZH_TW;
+            }else if (lang == 'ko') {
+                helpCenter = HelpCenter_KO;
+            }else if (lang == 'fa') {
+                helpCenter = HelpCenter_FA;
+            }else if (lang == 'es') {
+                helpCenter = HelpCenter_ES;
+            }else if (lang == 'de') {
+                helpCenter = HelpCenter_DE;
             }
         }
         this.hc = this.prepareHelpCenter(helpCenter)

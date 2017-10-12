@@ -1,1 +1,763 @@
-{"title":"FAQ","sections":[{"title":"Vorsichtsmaßnahmen für die Verwendung des Produkts ","questions":[{"question":"Wer kann dieses Produkt nicht nutzen? ","answers":[{"content":"Die Verwendung von lebenserhaltenden medizinischen Geräten wie Herzschrittmachern, künstlichen Lungen, tragbarem ECG, Osteoporose usw. kann dieses Produkt nicht verwenden. ","type":"string"}]},{"question":"Wer sollte der Verwendung dieses Produktes besondere Aufmerksamkeit widmen? ","answers":[{"level":1,"content":"Kinder und Jugendliche unter 18 Jahren: Weil das Wachstum und die Entwicklung des Nährstoffwachstums der Minderjährigen schnell ist, gibt es kein Standardbewertungssystem für die Zusammensetzung des Minderjährigen. Daher variieren einige der Messindikatoren in unserem System je nach Alter ","type":"string"},{"type":"table","header":["Indikatortyp ","Effektives Alter "],"body":[["Körpergewicht ","immer wirksam "],["BMI","≥ 4 Jahre alt "],["Körperfettrate ","≥ 10 Jahre alt "],["Körper-Wasser-Fraktion ","≥ 10 Jahre alt "],["subkutane Fett ","≥ 10 Jahre alt "],["Basal metabolische Rate ","≥ 10 Jahre alt "],["Fettgewicht ","≥ 10 Jahre alt "],["Visceral Fett Klasse ","≥ 18 Jahre alt "],["Skelettmuskelrate ","≥ 18 Jahre alt "],["Muskelmasse ","≥ 18 Jahre alt "],["Knochenmasse ","≥ 18 Jahre alt "],["Eiweiß ","≥ 18 Jahre alt "],["Körperalter ","≥ 18 Jahre alt "]]},{"level":1,"content":"Schwangere Frau: Aufgrund der Körper der fetalen und fruchtwasserischen Flüssigkeit, in der Erkennung dieser unsicheren Faktoren beeinflussen den genauen Wert der Körper Daten, so dass die Fettrate und andere Daten ohne Referenz, es wird empfohlen, nur Gewicht zu messen. ","type":"string"},{"level":1,"content":"Professionelle Bodybuilder: Dieses Produkt zielt auf die Verwendung der Menge für die allgemeine Bevölkerung. Da die professionelle Bodybuilder Körper Muskel-und Fett-Verhältnis ist ein besonderer Anteil, so dass die Verwendung dieses Produkts gemessen Fettrate Daten können mit dem Krankenhaus mit der professionellen Ausrüstung verwendet werden, ist es empfehlenswert, dass diese Menschen über die langfristigen Änderungen betroffen sind in Daten, anstatt Fokus auf Messung Der Wert selbst. ","type":"string"}]},{"question":"Batterie Vorsichtsmaßnahmen ","answers":[{"content":"Wenn Sie das Produkt nicht länger als eine Woche verwenden, entnehmen Sie bitte den Akku, sparen Sie Energie und verbessern Sie die Produktlebensdauer. ","type":"string"},{"content":"Die Batterie ist nur als Versuchsbatterie enthalten, bitte ersetzen Sie die offizielle Batterie. Die Batterielebensdauer ist am besten nicht mehr als zwei Monate. ","type":"string"}]},{"question":"Kann meine Körperwaage mit APP verbunden werden? ","answers":[{"content":"Sie kaufen das Körperfett, das in Verbindung mit APP verwendet werden muss, oder in der Skala zeigt nur Gewicht Informationen. In APP gibt es mehr wie Körperfettrate, Körper Wasserrate und andere Informationsanzeige. Der Vorteil, dies zu tun ist, um alle Ihre Messergebnis können auf dem Telefon und Cloud-Services aufgezeichnet werden. ","type":"string"},{"content":"Benutze den APP-Namen namens Feelfit, geh bitte zum AppleStore und Google Play zum kostenlosen Download. Feelfit kann alle Messungen von Ihnen und Ihrer Familie aufzeichnen, damit Sie jede Daten anzeigen können. ","type":"string"}]},{"question":"Warum braucht die APP meine eigene Höhe, Alter und andere private Informationen? Wirst du es geheim halten? ","answers":[{"content":"BIA bioelektrischen widerstand messmethode müssen ihre höhe/alter/geschlecht drei informationen verwenden, kombiniert mit dem gewicht des gewichts und körper impedanz informationen gegeben fettrate berechnung. So Größe/Alter/Geschlecht ist notwendig. ","type":"string"},{"content":"Wir werden Ihre Körperinformationen vertraulich behandeln und dafür sorgen, dass diese Informationen nur für Fatrate-Algorithmen verwendet werden und nicht für andere Zwecke verwendet werden. ","type":"string"}]},{"question":"Was zeigt die Skala nicht aus? ","answers":[{"content":"Scale-Display-Ausnahme hat folgende Aspekte: ","type":"string"},{"id":"scale_error_1","type":"image"},{"level":1,"content":"Keine LED-Anzeige. Bitte überprüfen Sie, ob der Akku immer noch Strom ist, installieren Sie den Akku wieder, falls noch keine Anzeige vorhanden ist, empfiehlt es sich, die Batterie zu ersetzen. ","type":"string"},{"id":"scale_error_2","type":"image"},{"level":1,"content":"LED wird als lo angezeigt. Bitte überprüfen Sie sorgfältig, ob der Akku korrekt installiert ist, und bestätigen Sie den Akku und die Stromversorgung, wenn noch LO angezeigt wird, empfiehlt es sich, die Batterie zu ersetzen. ","type":"string"},{"id":"scale_error_3","type":"image"},{"level":1,"content":"LED wird als eer angezeigt. Die Skala des Sensors wurde überlastet oder sogar beschädigt, bitte nicht mehr als 180KG oder 440 Pfund Gewicht zu messen. ","type":"string"}]}]},{"title":"Der Grund für die Auswirkung der Messdaten ","questions":[{"question":"Wie richtig zu messen ","answers":[{"level":1,"content":"Öffnen Sie die APP, geben Sie die Messschnittstelle ein ","type":"string"},{"id":"measure_main_ui","type":"image"},{"level":1,"content":"Beim Messen der Schuhe und Socken, Füße auf beiden Seiten der leitenden Lasche stehen, sollte die Messung nicht verlassen oder zittern ","type":"string"},{"id":"how_measure_1","type":"image"},{"level":1,"content":"Die Skala ist, das Gewicht zuerst zu messen, dann das Fett zu messen. Die Messung der Skala und der APP-Antwort waren wie folgt: ","type":"string"},{"level":2,"content":"Wenn das Gewicht 50.00KG ist, dann stehend auf die Zeit, wenn 50.00KG blinkt, wahrscheinlich blinkt 3, erscheint der Bildschirm auf einer 0 von links nach rechts, gehen 2-3 mal, den Bildschirm und springen auf 50.00KG, ca. 5s, die Skala wird automatisch, das Ende der Messung. ","type":"string"},{"level":2,"content":"APP auf der messseite, wird der kreis der messschnittstelle blättern, bis ein ton vorliegt und alle daten angezeigt werden (der ton kann ausgeschaltet werden) ","type":"string"},{"level":1,"content":"Das nächste Wiegen muss warten, bis der LED-Bildschirm noch 2 - 3 Sekunden ausgeht ","type":"string"}]},{"question":"Wie können wir messen, um unnötige Messfehler zu vermeiden? ","answers":[{"level":1,"content":"Reduzieren Sie Körpergewicht Fehler Methode: ","type":"string"},{"id":"how_put_scale","type":"image"},{"level":2,"content":"Dieses Produkt muss in harten und flachen Boden platziert werden, wie zB Fliesen, etc., kann nicht auf den Teppich gelegt werden, noch kann das Pad unter der Skala von weichen Gegenständen. Der Standardfehler dieses Produktes ist wie folgt: ","type":"string"},{"type":"table","header":["Messungen ","Maximaler Fehlerbereich "],"body":[["0<x≤50KG","±0.2KG"],["50KG<x≤100KG","±0.3KG"],["x≤180KG","±0.4KG"]]},{"level":2,"content":"Die Kalibrierung erfolgt vor jeder Messung. Die Methode ist, die LED der Skala zu nivellieren, die Waage zu verlassen, wenn die Zahl instabil ist, und die LED erscheint mit mehreren Buchstaben und kehrt zu “0” zurück. An diesem Punkt Kalibrieren beendet. ","type":"string"},{"level":1,"content":"Methoden zur Reduzierung von Fett- und Wasserratenfehlern: ","type":"string"},{"level":2,"content":"Dieses Produkt wird durch BIA-Bioresistenz-Messkörper-Fettrate erhalten, das BIA-Messverfahren, das durch die Fettrate erhalten wird, ist eng mit den folgenden Parametern verknüpft: Körperimpedanzkoeffizient/Höhe/Gewicht/Alter/Geschlecht. So ändern Sie alle Parameter, Fettrate verursacht Änderungen. ","type":"string"},{"level":3,"content":"Benötigen Sie den Vermesser, um die richtige Größe/Geschlecht/Alter einzugeben. Sobald diese Daten falsch sind, werden Sie nicht in der Lage, eine genaue Körperfettrate zu bekommen. ","type":"string"},{"level":3,"content":"Muss barfuß sein (Socken müssen abheben). ","type":"string"},{"level":3,"content":"Um den Zugang zum Standardmodell des Körperimpedanzkoeffizienten zu gewährleisten, ist die Messung gemäß der korrekten Standhaltung erforderlich, wie unten gezeigt: ","type":"string"},{"id":"measure_principle","type":"image"},{"level":3,"content":"Um den korrekten Körperimpedanzkoeffizienten zu erhalten, decken die Füße in der Messzeit die linke und die rechte Seite der Metallelektrode ab und bleiben intakt. Bis zum Ende der Messung. Der gesamte Messvorgang dauert ca. 20 Sekunden. ","type":"string"},{"level":2,"content":"Wir empfehlen tägliche Messungen zur gleichen Zeit und unter der gleichen körperlichen Verfassung. Die täglichen Veränderungen des Körpers mit den Änderungen in Essen und Trinkwasser, gibt es 0,5 ~ 2KG von Wertänderungen. Weil die Körperfettrate = Fettgewicht/Gewicht, so dass die Körperfettrate schwankt, der normale Körper innerhalb eines Tages die Körperfettrate Schwankungen wie unten gezeigt. Am Morgen vor dem Essen und Trinkwasser erreichte die Körperfettrate den höchsten Gipfel an einem Tag, Nachmittag und Abend mit Essen und Trinkwassergewichtszunahme und erhöhtem Wassergehalt, Körperfettrate erreichte den niedrigsten Wert innerhalb eines Tages. ","type":"string"},{"id":"bodyfat_trend_per_day","type":"image"},{"content":" So empfehlen wir, dass Benutzer am Morgen Fasten Messungen, kontinuierliche frühen Morgen Fasten Messungen können langfristige Körpergewicht/Körper Fettrate ändern Daten. ","type":"string"}]},{"question":"Warum unterscheidet sich meine Fettrate von anderen Skalen? Warum erfordert die Fettrate Langzeitmessungen, und die relative Veränderung der Fettrate ist wichtiger? ","answers":[{"content":"Fett ist eine besondere Organisation im Körper der komplexen Existenz, es umfasst subkutane Fett, viszerale Fett, etc., weit verbreitet in verschiedenen Teilen des Körpers. Es gibt mehrere populäre Methoden der Messung der Fettrate in der Welt, einschließlich DEXA, BIA, Wasser-Wiege-Methode, etc., verschiedene Messmethoden haben ihre eigenen einzigartigen Algorithmus, und haben unterschiedliche Ergebnisse. Bisher ist die Wasser-Wiege-Methode und DEXA (Dual Energy Röntgen-Resorption-Methode heißt “Gold-Standard”, aber in diesen Gold-Standard wiederholen Testergebnisse haben auch Fehler. So ist das größte Problem bei der Körperzusammensetzungsanalyse: Kein Instrument kann die absolute Antwort geben). Die meisten Haushaltskarosserie-Hersteller verwenden die BIA-Messmethode, aber auch wegen unterschiedlicher Algorithmen und die Ergebnisse sind unterschiedlich, es wird nicht empfohlen, dass sich Benutzer in verschiedene Instrumente und Geräte verstrickt haben, gemessen an der Differenz zwischen dem absoluten Wert, aber sollte darauf achten, zu den gleichen relativen Veränderungen in der Langzeit-Messung auf Ausrüstung ","type":"string"},{"content":"So empfehlen wir, dass Benutzer versuchen, das gleiche Assessment-System verwenden, die langfristige Überwachung und Messung der Fettrate, können langfristige Änderungen beurteilt werden, um den Trend des Gesundheitszustandes einer Person zu beurteilen, ist die Kontrolle der Gesundheitstrends am wichtigsten, so ist der relative Wert der Veränderung als sinnvoller als der absolute Wert einer einzigen Maßnahme. ","type":"string"}]}]},{"title":"Wie benutzt man die APP-Funktion ","questions":[{"question":"Gerät kann nicht angeschlossen werden ","answers":[{"level":1,"content":"Stellen Sie sicher, dass das Bluetooth eingeschaltet ist, die Waage befindet sich in der Nähe des Telefons, der Akku ist installiert und eingeschaltet ","type":"string"},{"level":1,"content":"Wenn es sich um ein OS 6.0 Gerät handelt, legen Sie fest, ob die Feelfit-Positionierbehörde erteilt wurde ","type":"string"},{"id":"authorize_permission_feelfit","type":"image"},{"level":1,"content":"Wurde die Erlaubnis erhalten zu finden, aber immer noch nicht suchen können, bitte die GPS-Positionierung öffnen ","type":"string"},{"content":"Grant Feelfit Positionierungsgenehmigung ","type":"string"},{"level":2,"content":"In die Einstellungen klicken Sie auf die “Anwendung” ","type":"string"},{"id":"authorize_permission_1","type":"image"},{"level":2,"content":"In allen Anwendungen finden Sie Feelfit, klicken Sie in die Anwendungsinformationen ","type":"string"},{"id":"authorize_permission_2_feelfit","type":"image"},{"level":2,"content":"In der Anwendungsinformation finden Sie das Recht, klicken Sie in die Anwendungszugriffsberechtigung, finden Sie die Standortinformationen und öffnen Sie sie ","type":"string"},{"id":"authorize_permission_3_feelfit","type":"image"}]},{"question":"Wie man eine Bluetooth-Skala an eine APP bindet ","answers":[{"content":"Öffnen Sie die APP, geben Sie die Messschnittstelle ein. Wie unten gezeigt, steht bitte auf der Waage, so dass die LED auf der Skala Licht. Wenn die aktuelle APP bisher keine Skala gebunden hat, wird sie automatisch die Waage binden und sofort abwägen. ","type":"string"},{"id":"measure_main_ui","type":"image"},{"content":"Wenn die aktuelle APP an andere Waagen gebunden ist, lassen Sie APP und erhöhen Sie dann die Skala, klicken Sie auf die Messschnittstelle in der oberen rechten Ecke des “+”, in die Bindegeräte-Schnittstelle. ","type":"string"},{"id":"measure_add_device_guide","type":"image"},{"content":"Hinweis: Wenn Sie die Waage binden, halten Sie bitte die Skala der LED immer hell. ","type":"string"}]},{"question":"Ich habe die Bluetooth-Skala gekauft, die Messung muss die APP öffnen? ","answers":[{"content":"Sie müssen APP nicht öffnen, wenn Sie messen In diesem Fall können jedes Mal, wenn die Messdaten auf der Waage gespeichert werden, unsere Waage bis zu 20 Messungen sparen. Wenn Sie das nächste Mal die Verbindungsskala öffnen, wird automatisch die Waage gespeichert und dann automatisch dem entsprechenden Mitgliedskonto zugewiesen. Wenn die empfangenen Gewichtsdaten und APP alle Konten innerhalb der Gewichtsdifferenz von 3KG oder mehr, APP ermöglicht es Ihnen, manuell zuweisen, die Messdaten, oder direkt zu löschen. ","type":"string"}]},{"question":"Wie füge ich mehrere Benutzer hinzu? ","answers":[{"level":1,"content":"Klicken Sie auf die Registerkarte “I” (die rechte untere Ecke der Hauptschnittstelle) ","type":"string"},{"id":"user_index","type":"image"},{"level":1,"content":"Klicken Sie auf den Avatar auf der linken Seite des menschlichen Symbols, Pop-up die Wahl, um Mess-Benutzer oder Freunde hinzufügen ","type":"string"},{"id":"user_add_guide_1","type":"image"},{"id":"user_add_guide_2_feelfit","type":"image"},{"level":1,"content":"Measurement-Benutzer müssen sich nicht registrieren, müssen die körperbezogenen Informationen ausfüllen ","type":"string"},{"level":1,"content":"Freunde sind registrierte Benutzer, müssen sich gegenseitig registriert mailbox ","type":"string"},{"level":1,"content":"Sobald Sie einen Messbenutzer oder einen Freund hinzugefügt haben, können Sie den Benutzer auswählen, um die Messung in der Benutzerliste vorzunehmen ","type":"string"}]},{"question":"Mein Geschlecht/Alter/Höhe ist falsch, wie man es ändert? ","answers":[{"level":1,"content":"Klicken Sie auf die Registerkarte “I” (die rechte untere Ecke der Hauptschnittstelle) ","type":"string"},{"id":"user_index","type":"image"},{"level":1,"content":"Klicken Sie auf das Bild des Benutzers über dem Interface ","type":"string"},{"id":"user_edit_profile_guide","type":"image"},{"level":1,"content":"Geben Sie die Benutzerdaten ein, um die Schnittstelle zu ändern, ändern Sie die Informationen ","type":"string"},{"level":1,"content":"Sobald die Änderungen abgeschlossen sind, klicken Sie auf Speichern ","type":"string"}]},{"question":"Wie man eine Verbindung zum Apfel-Gesundheitskit herstellt? ","answers":[{"level":1,"content":"Finden und öffnen Sie die “Health” App auf dem iPhone ","type":"string"},{"id":"health_kit_logo","type":"image"},{"level":1,"content":"Klicken Sie auf die Registerkarte “Datenquellen” ","type":"string"},{"id":"health_kit_index","type":"image"},{"level":1,"content":"Wählen Sie “Feelfit” aus der Liste der Quellen ","type":"string"},{"id":"health_kit_feelfit","type":"image"},{"level":1,"content":"Steuerelement zum Aktivieren oder Deaktivieren von Datenberechtigungen ","type":"string"},{"id":"health_kit_switcher_feelfit","type":"image"}]},{"question":"Wie man eine Verbindung zum Apfel-Gesundheitskit herstellt? ","answers":[{"level":1,"content":"Klicken Sie in der “Meine” -Schnittstelle auf das Symbol “Einstellungen” in der oberen rechten Ecke ","type":"string"},{"id":"me_setting","type":"image"},{"level":1,"content":"Gehen Sie auf die “System Settings” -Schnittstelle, klicken Sie auf die “Google Fit” -Spalte, geben Sie die “Google Fit” -Schnittstelle ","type":"string"},{"id":"setting_googlefit","type":"image"},{"level":1,"content":"Öffnen Sie die Schaltfläche “Google Fit”, wird Pop-up bereits vorhanden Google-Konto-Auswahl-Schnittstelle (oder fügen Sie ein neues Konto, registrierte Google-Konto), oder wählen Sie Ihre eigenen Google-Konto ","type":"string"},{"id":"googlefit_switcher","type":"image"},{"level":1,"content":"Sobald Sie erfolgreich sind, kehren Sie zum Google Fit-Interface zurück, wo die Schaltfläche “Google Fit” aktiviert ist und die Verbindung zu GoogleFit erfolgreich ist ","type":"string"},{"id":"google_switcher_enable","type":"image"},{"level":1,"content":"Nach der Messung auf der Waage werden die Daten in Google Fit hochgeladen, Sie können sich APP anmelden, um die relevanten Daten anzuzeigen ","type":"string"},{"id":"googlefit_result","type":"image"}]},{"question":"Wie man eine Verbindung zum Apfel-Gesundheitskit herstellt? ","answers":[{"level":1,"content":"Klicken Sie in der “Meine” -Schnittstelle auf das Symbol “Einstellungen” in der oberen rechten Ecke ","type":"string"},{"id":"me_setting","type":"image"},{"level":1,"content":"In die “Systemeinstellungen” -Schnittstelle klicken Sie auf die Spalte “FitBit”, geben Sie die FitBit-Schnittstelle ein ","type":"string"},{"id":"setting_fitbit","type":"image"},{"level":1,"content":"Öffnen Sie die Schaltfläche “FitBit”, es springt zur FitBit Login-Schnittstelle, geben Sie die FitBit hat das Konto und Passwort registriert (oder in der Schnittstelle Dropdown, um FitBit wählen) ","type":"string"},{"id":"fitbit_switcher","type":"image"},{"level":1,"content":"Klicken Sie auf “Login”, wird weiterhin auf eigene Faust zu springen, ob APP-Zugang zu ermöglichen, wählen Sie “erlauben”, zurück zu der APP-System-Einstellungen-Schnittstelle, dann FitBit-Schalter ist offen ","type":"string"},{"id":"fitbit_auth","type":"image"},{"level":1,"content":"Nach dem Erfolg der Skala Messung, Gewicht, Körperfettrate wird auf die FitBit hochgeladen werden, können Sie sich in FitBit APP oder Log FitBit Seite, um die Daten zu aktualisieren, sehen Sie das gemessene Gewicht, Körperfettrate; ","type":"string"},{"id":"fitbit_result","type":"image"},{"level":1,"content":"Sie müssen die Fitbit-Taste im offenen Zustand halten, während das Netzwerk reibungslos verbunden sein muss, damit jede Messdaten Gewicht, Körperfettrate nach Fitbit hochladen wird; Wenn sie geschlossen sind, werden die gemessenen Daten nicht mehr Gewicht, Körperfettrate hochladen. ","type":"string"},{"id":"fitbit_open","type":"image"}]},{"question":"Wie füge ich Feelfit Freunde hinzu? ","answers":[{"content":"Freunde können Ihnen helfen, sich gegenseitig die körperlichen Veränderungen, wie Ernährungsberater/Fitness-Lehrer oft müssen ihre eigenen Kunden die physischen Veränderungen zu überwachen, können Sie diese Funktion verwenden. ","type":"string"},{"level":1,"content":"Klicken Sie auf die Registerkarte “I” (die rechte untere Ecke der Hauptschnittstelle) ","type":"string"},{"id":"user_index","type":"image"},{"level":1,"content":"Klicken Sie auf das Symbol auf der linken Seite des Avatars, um die Auswahl aufzufüllen, um Feelfit Freunde hinzuzufügen ","type":"string"},{"id":"user_add_guide_3_feelfit","type":"image"},{"level":1,"content":"Und dann geben Sie die andere Mailbox, klicken Sie auf “senden” ","type":"string"},{"id":"user_add_guide_4_feelfit","type":"image"},{"level":1,"content":"An dieser Stelle erhält die andere Partei eine Systemnachricht, die andere Partei kann auf die Registerkarte “I” in der oberen rechten Ecke des Symbols in die Systemmeldungsansicht klicken. Wenn die andere Partei und nahm Ihre Einladung, war es Ihnen gelungen, Freunde zu werden. Sie können sich die Körperdetails des anderen sehen. ","type":"string"},{}]},{"question":"Wie sehe ich meine historischen Messdaten an? Was ist, wenn ich die Daten löschen möchte ","answers":[{"level":1,"content":"Klicken Sie auf die Registerkarte “Diagramm” (Hauptschnittstelle unterhalb der Mitte) ","type":"string"},{"id":"chart_index","type":"image"},{"level":1,"content":"Klicken Sie auf das Symbol rechts oben in der Diagrammschnittstelle oder klicken Sie auf einen Punkt im Diagramm, um zur Schnittstelle der historischen Daten zu gelangen ","type":"string"},{"id":"chart_click_history","type":"image"},{"level":1,"content":"Wählen Sie den Tag aus, an dem Sie die Daten löschen möchten, und überprüfen Sie die Notwendigkeit, die Daten zu löschen (die obere rechte Ecke jeder Daten), unterstützen Sie die Mehrfachprüfung ","type":"string"},{"content":"Zeigen Sie unter die Schaltfläche “Löschen”, können Sie löschen ","type":"string"},{"id":"history_check_data","type":"image"},{}]},{"question":"Ich möchte die Änderungen der Daten, die ich zu verschiedenen Zeiten gemessen habe, vergleichen. Was soll ich machen? ","answers":[{"level":1,"content":"Klicken Sie auf die Registerkarte “Diagramm” (Hauptschnittstelle unterhalb der Mitte) ","type":"string"},{"id":"chart_index","type":"image"},{"level":1,"content":"Die Standard-Gewichtskurve der Woche, wenn Sie andere Indikatoren sehen möchten, klicken Sie auf das Symbol unter dem Diagramm, wechseln Sie zu verschiedenen Indikatoren der Kurve ","type":"string"},{"id":"chart_change_indicator","type":"image"},{"level":1,"content":"Das Diagramm kann gezogen werden, um die früheren Daten anzuzeigen ","type":"string"},{"id":"chart_slide","type":"image"},{"level":1,"content":"Am oberen Rand des Diagramms können Sie einen Zeitbereich auswählen, um den längeren Trend zu sehen ","type":"string"},{"id":"chart_chart_date","type":"image"}]}]}]}
+{
+  "title": "FAQ",
+  "sections": [
+    {
+      "title": "Vorsichtsmaßnahmen für die Verwendung des Produkts ",
+      "questions": [
+        {
+          "question": "Wer kann dieses Produkt nicht nutzen? ",
+          "answers": [
+            {
+              "content": "Die Verwendung von lebenserhaltenden medizinischen Geräten wie Herzschrittmachern, künstlichen Lungen, tragbarem ECG, Osteoporose usw. kann dieses Produkt nicht verwenden. ",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "question": "Wer sollte der Verwendung dieses Produktes besondere Aufmerksamkeit widmen? ",
+          "answers": [
+            {
+              "level": 1,
+              "content": "Kinder und Jugendliche unter 18 Jahren: Weil das Wachstum und die Entwicklung des Nährstoffwachstums der Minderjährigen schnell ist, gibt es kein Standardbewertungssystem für die Zusammensetzung des Minderjährigen. Daher variieren einige der Messindikatoren in unserem System je nach Alter ",
+              "type": "string"
+            },
+            {
+              "type": "table",
+              "header": [
+                "Indikatortyp ",
+                "Effektives Alter "
+              ],
+              "body": [
+                [
+                  "Körpergewicht ",
+                  "immer wirksam "
+                ],
+                [
+                  "BMI",
+                  "≥ 4 Jahre alt "
+                ],
+                [
+                  "Körperfettrate ",
+                  "≥ 10 Jahre alt "
+                ],
+                [
+                  "Körper-Wasser-Fraktion ",
+                  "≥ 10 Jahre alt "
+                ],
+                [
+                  "subkutane Fett ",
+                  "≥ 10 Jahre alt "
+                ],
+                [
+                  "Basal metabolische Rate ",
+                  "≥ 10 Jahre alt "
+                ],
+                [
+                  "Fettgewicht ",
+                  "≥ 10 Jahre alt "
+                ],
+                [
+                  "Visceral Fett Klasse ",
+                  "≥ 18 Jahre alt "
+                ],
+                [
+                  "Skelettmuskelrate ",
+                  "≥ 18 Jahre alt "
+                ],
+                [
+                  "Muskelmasse ",
+                  "≥ 18 Jahre alt "
+                ],
+                [
+                  "Knochenmasse ",
+                  "≥ 18 Jahre alt "
+                ],
+                [
+                  "Eiweiß ",
+                  "≥ 18 Jahre alt "
+                ],
+                [
+                  "Körperalter ",
+                  "≥ 18 Jahre alt "
+                ]
+              ]
+            },
+            {
+              "level": 1,
+              "content": "Schwangere Frau: Aufgrund der Körper der fetalen und fruchtwasserischen Flüssigkeit, in der Erkennung dieser unsicheren Faktoren beeinflussen den genauen Wert der Körper Daten, so dass die Fettrate und andere Daten ohne Referenz, es wird empfohlen, nur Gewicht zu messen. ",
+              "type": "string"
+            },
+            {
+              "level": 1,
+              "content": "Professionelle Bodybuilder: Dieses Produkt zielt auf die Verwendung der Menge für die allgemeine Bevölkerung. Da die professionelle Bodybuilder Körper Muskel-und Fett-Verhältnis ist ein besonderer Anteil, so dass die Verwendung dieses Produkts gemessen Fettrate Daten können mit dem Krankenhaus mit der professionellen Ausrüstung verwendet werden, ist es empfehlenswert, dass diese Menschen über die langfristigen Änderungen betroffen sind in Daten, anstatt Fokus auf Messung Der Wert selbst. ",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "question": "Batterie Vorsichtsmaßnahmen ",
+          "answers": [
+            {
+              "content": "Wenn Sie das Produkt nicht länger als eine Woche verwenden, entnehmen Sie bitte den Akku, sparen Sie Energie und verbessern Sie die Produktlebensdauer. ",
+              "type": "string"
+            },
+            {
+              "content": "Die Batterie ist nur als Versuchsbatterie enthalten, bitte ersetzen Sie die offizielle Batterie. Die Batterielebensdauer ist am besten nicht mehr als zwei Monate. ",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "question": "Kann meine Körperwaage mit APP verbunden werden? ",
+          "answers": [
+            {
+              "content": "Sie kaufen das Körperfett, das in Verbindung mit APP verwendet werden muss, oder in der Skala zeigt nur Gewicht Informationen. In APP gibt es mehr wie Körperfettrate, Körper Wasserrate und andere Informationsanzeige. Der Vorteil, dies zu tun ist, um alle Ihre Messergebnis können auf dem Telefon und Cloud-Services aufgezeichnet werden. ",
+              "type": "string"
+            },
+            {
+              "content": "Benutze den APP-Namen namens Feelfit, geh bitte zum AppleStore und Google Play zum kostenlosen Download. Feelfit kann alle Messungen von Ihnen und Ihrer Familie aufzeichnen, damit Sie jede Daten anzeigen können. ",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "question": "Warum braucht die APP meine eigene Höhe, Alter und andere private Informationen? Wirst du es geheim halten? ",
+          "answers": [
+            {
+              "content": "BIA bioelektrischen widerstand messmethode müssen ihre höhe/alter/geschlecht drei informationen verwenden, kombiniert mit dem gewicht des gewichts und körper impedanz informationen gegeben fettrate berechnung. So Größe/Alter/Geschlecht ist notwendig. ",
+              "type": "string"
+            },
+            {
+              "content": "Wir werden Ihre Körperinformationen vertraulich behandeln und dafür sorgen, dass diese Informationen nur für Fatrate-Algorithmen verwendet werden und nicht für andere Zwecke verwendet werden. ",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "question": "Was zeigt die Skala nicht aus? ",
+          "answers": [
+            {
+              "content": "Scale-Display-Ausnahme hat folgende Aspekte: ",
+              "type": "string"
+            },
+            {
+              "id": "scale_error_1",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "Keine LED-Anzeige. Bitte überprüfen Sie, ob der Akku immer noch Strom ist, installieren Sie den Akku wieder, falls noch keine Anzeige vorhanden ist, empfiehlt es sich, die Batterie zu ersetzen. ",
+              "type": "string"
+            },
+            {
+              "id": "scale_error_2",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "LED wird als lo angezeigt. Bitte überprüfen Sie sorgfältig, ob der Akku korrekt installiert ist, und bestätigen Sie den Akku und die Stromversorgung, wenn noch LO angezeigt wird, empfiehlt es sich, die Batterie zu ersetzen. ",
+              "type": "string"
+            },
+            {
+              "id": "scale_error_3",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "LED wird als eer angezeigt. Die Skala des Sensors wurde überlastet oder sogar beschädigt, bitte nicht mehr als 180KG oder 440 Pfund Gewicht zu messen. ",
+              "type": "string"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Der Grund für die Auswirkung der Messdaten ",
+      "questions": [
+        {
+          "question": "Wie richtig zu messen ",
+          "answers": [
+            {
+              "level": 1,
+              "content": "Öffnen Sie die APP, geben Sie die Messschnittstelle ein ",
+              "type": "string"
+            },
+            {
+              "id": "measure_main_ui",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "Beim Messen der Schuhe und Socken, Füße auf beiden Seiten der leitenden Lasche stehen, sollte die Messung nicht verlassen oder zittern ",
+              "type": "string"
+            },
+            {
+              "id": "how_measure_1",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "Die Skala ist, das Gewicht zuerst zu messen, dann das Fett zu messen. Die Messung der Skala und der APP-Antwort waren wie folgt: ",
+              "type": "string"
+            },
+            {
+              "level": 2,
+              "content": "Wenn das Gewicht 50.00KG ist, dann stehend auf die Zeit, wenn 50.00KG blinkt, wahrscheinlich blinkt 3, erscheint der Bildschirm auf einer 0 von links nach rechts, gehen 2-3 mal, den Bildschirm und springen auf 50.00KG, ca. 5s, die Skala wird automatisch, das Ende der Messung. ",
+              "type": "string"
+            },
+            {
+              "level": 2,
+              "content": "APP auf der messseite, wird der kreis der messschnittstelle blättern, bis ein ton vorliegt und alle daten angezeigt werden (der ton kann ausgeschaltet werden) ",
+              "type": "string"
+            },
+            {
+              "level": 1,
+              "content": "Das nächste Wiegen muss warten, bis der LED-Bildschirm noch 2 - 3 Sekunden ausgeht ",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "question": "Wie können wir messen, um unnötige Messfehler zu vermeiden? ",
+          "answers": [
+            {
+              "level": 1,
+              "content": "Reduzieren Sie Körpergewicht Fehler Methode: ",
+              "type": "string"
+            },
+            {
+              "id": "how_put_scale",
+              "type": "image"
+            },
+            {
+              "level": 2,
+              "content": "Dieses Produkt muss in harten und flachen Boden platziert werden, wie zB Fliesen, etc., kann nicht auf den Teppich gelegt werden, noch kann das Pad unter der Skala von weichen Gegenständen. Der Standardfehler dieses Produktes ist wie folgt: ",
+              "type": "string"
+            },
+            {
+              "type": "table",
+              "header": [
+                "Messungen ",
+                "Maximaler Fehlerbereich "
+              ],
+              "body": [
+                [
+                  "0<x≤50KG",
+                  "±0.2KG"
+                ],
+                [
+                  "50KG<x≤100KG",
+                  "±0.3KG"
+                ],
+                [
+                  "x≤180KG",
+                  "±0.4KG"
+                ]
+              ]
+            },
+            {
+              "level": 2,
+              "content": "Die Kalibrierung erfolgt vor jeder Messung. Die Methode ist, die LED der Skala zu nivellieren, die Waage zu verlassen, wenn die Zahl instabil ist, und die LED erscheint mit mehreren Buchstaben und kehrt zu “0” zurück. An diesem Punkt Kalibrieren beendet. ",
+              "type": "string"
+            },
+            {
+              "level": 1,
+              "content": "Methoden zur Reduzierung von Fett- und Wasserratenfehlern: ",
+              "type": "string"
+            },
+            {
+              "level": 2,
+              "content": "Dieses Produkt wird durch BIA-Bioresistenz-Messkörper-Fettrate erhalten, das BIA-Messverfahren, das durch die Fettrate erhalten wird, ist eng mit den folgenden Parametern verknüpft: Körperimpedanzkoeffizient/Höhe/Gewicht/Alter/Geschlecht. So ändern Sie alle Parameter, Fettrate verursacht Änderungen. ",
+              "type": "string"
+            },
+            {
+              "level": 3,
+              "content": "Benötigen Sie den Vermesser, um die richtige Größe/Geschlecht/Alter einzugeben. Sobald diese Daten falsch sind, werden Sie nicht in der Lage, eine genaue Körperfettrate zu bekommen. ",
+              "type": "string"
+            },
+            {
+              "level": 3,
+              "content": "Muss barfuß sein (Socken müssen abheben). ",
+              "type": "string"
+            },
+            {
+              "level": 3,
+              "content": "Um den Zugang zum Standardmodell des Körperimpedanzkoeffizienten zu gewährleisten, ist die Messung gemäß der korrekten Standhaltung erforderlich, wie unten gezeigt: ",
+              "type": "string"
+            },
+            {
+              "id": "measure_principle",
+              "type": "image"
+            },
+            {
+              "level": 3,
+              "content": "Um den korrekten Körperimpedanzkoeffizienten zu erhalten, decken die Füße in der Messzeit die linke und die rechte Seite der Metallelektrode ab und bleiben intakt. Bis zum Ende der Messung. Der gesamte Messvorgang dauert ca. 20 Sekunden. ",
+              "type": "string"
+            },
+            {
+              "level": 2,
+              "content": "Wir empfehlen tägliche Messungen zur gleichen Zeit und unter der gleichen körperlichen Verfassung. Die täglichen Veränderungen des Körpers mit den Änderungen in Essen und Trinkwasser, gibt es 0,5 ~ 2KG von Wertänderungen. Weil die Körperfettrate = Fettgewicht/Gewicht, so dass die Körperfettrate schwankt, der normale Körper innerhalb eines Tages die Körperfettrate Schwankungen wie unten gezeigt. Am Morgen vor dem Essen und Trinkwasser erreichte die Körperfettrate den höchsten Gipfel an einem Tag, Nachmittag und Abend mit Essen und Trinkwassergewichtszunahme und erhöhtem Wassergehalt, Körperfettrate erreichte den niedrigsten Wert innerhalb eines Tages. ",
+              "type": "string"
+            },
+            {
+              "id": "bodyfat_trend_per_day",
+              "type": "image"
+            },
+            {
+              "content": " So empfehlen wir, dass Benutzer am Morgen Fasten Messungen, kontinuierliche frühen Morgen Fasten Messungen können langfristige Körpergewicht/Körper Fettrate ändern Daten. ",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "question": "Warum unterscheidet sich meine Fettrate von anderen Skalen? Warum erfordert die Fettrate Langzeitmessungen, und die relative Veränderung der Fettrate ist wichtiger? ",
+          "answers": [
+            {
+              "content": "Fett ist eine besondere Organisation im Körper der komplexen Existenz, es umfasst subkutane Fett, viszerale Fett, etc., weit verbreitet in verschiedenen Teilen des Körpers. Es gibt mehrere populäre Methoden der Messung der Fettrate in der Welt, einschließlich DEXA, BIA, Wasser-Wiege-Methode, etc., verschiedene Messmethoden haben ihre eigenen einzigartigen Algorithmus, und haben unterschiedliche Ergebnisse. Bisher ist die Wasser-Wiege-Methode und DEXA (Dual Energy Röntgen-Resorption-Methode heißt “Gold-Standard”, aber in diesen Gold-Standard wiederholen Testergebnisse haben auch Fehler. So ist das größte Problem bei der Körperzusammensetzungsanalyse: Kein Instrument kann die absolute Antwort geben). Die meisten Haushaltskarosserie-Hersteller verwenden die BIA-Messmethode, aber auch wegen unterschiedlicher Algorithmen und die Ergebnisse sind unterschiedlich, es wird nicht empfohlen, dass sich Benutzer in verschiedene Instrumente und Geräte verstrickt haben, gemessen an der Differenz zwischen dem absoluten Wert, aber sollte darauf achten, zu den gleichen relativen Veränderungen in der Langzeit-Messung auf Ausrüstung ",
+              "type": "string"
+            },
+            {
+              "content": "So empfehlen wir, dass Benutzer versuchen, das gleiche Assessment-System verwenden, die langfristige Überwachung und Messung der Fettrate, können langfristige Änderungen beurteilt werden, um den Trend des Gesundheitszustandes einer Person zu beurteilen, ist die Kontrolle der Gesundheitstrends am wichtigsten, so ist der relative Wert der Veränderung als sinnvoller als der absolute Wert einer einzigen Maßnahme. ",
+              "type": "string"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Wie benutzt man die APP-Funktion ",
+      "questions": [
+        {
+          "question": "Gerät kann nicht angeschlossen werden ",
+          "answers": [
+            {
+              "level": 1,
+              "content": "Stellen Sie sicher, dass das Bluetooth eingeschaltet ist, die Waage befindet sich in der Nähe des Telefons, der Akku ist installiert und eingeschaltet ",
+              "type": "string"
+            },
+            {
+              "level": 1,
+              "content": "Wenn es sich um ein OS 6.0 Gerät handelt, legen Sie fest, ob die Feelfit-Positionierbehörde erteilt wurde ",
+              "type": "string"
+            },
+            {
+              "id": "authorize_permission_feelfit",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "Wurde die Erlaubnis erhalten zu finden, aber immer noch nicht suchen können, bitte die GPS-Positionierung öffnen ",
+              "type": "string"
+            },
+            {
+              "content": "Grant Feelfit Positionierungsgenehmigung ",
+              "type": "string"
+            },
+            {
+              "level": 2,
+              "content": "In die Einstellungen klicken Sie auf die “Anwendung” ",
+              "type": "string"
+            },
+            {
+              "id": "authorize_permission_1",
+              "type": "image"
+            },
+            {
+              "level": 2,
+              "content": "In allen Anwendungen finden Sie Feelfit, klicken Sie in die Anwendungsinformationen ",
+              "type": "string"
+            },
+            {
+              "id": "authorize_permission_2_feelfit",
+              "type": "image"
+            },
+            {
+              "level": 2,
+              "content": "In der Anwendungsinformation finden Sie das Recht, klicken Sie in die Anwendungszugriffsberechtigung, finden Sie die Standortinformationen und öffnen Sie sie ",
+              "type": "string"
+            },
+            {
+              "id": "authorize_permission_3_feelfit",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "question": "Wie man eine Bluetooth-Skala an eine APP bindet ",
+          "answers": [
+            {
+              "content": "Öffnen Sie die APP, geben Sie die Messschnittstelle ein. Wie unten gezeigt, steht bitte auf der Waage, so dass die LED auf der Skala Licht. Wenn die aktuelle APP bisher keine Skala gebunden hat, wird sie automatisch die Waage binden und sofort abwägen. ",
+              "type": "string"
+            },
+            {
+              "id": "measure_main_ui",
+              "type": "image"
+            },
+            {
+              "content": "Wenn die aktuelle APP an andere Waagen gebunden ist, lassen Sie APP und erhöhen Sie dann die Skala, klicken Sie auf die Messschnittstelle in der oberen rechten Ecke des “+”, in die Bindegeräte-Schnittstelle. ",
+              "type": "string"
+            },
+            {
+              "id": "measure_add_device_guide",
+              "type": "image"
+            },
+            {
+              "content": "Hinweis: Wenn Sie die Waage binden, halten Sie bitte die Skala der LED immer hell. ",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "question": "Ich habe die Bluetooth-Skala gekauft, die Messung muss die APP öffnen? ",
+          "answers": [
+            {
+              "content": "Sie müssen APP nicht öffnen, wenn Sie messen In diesem Fall können jedes Mal, wenn die Messdaten auf der Waage gespeichert werden, unsere Waage bis zu 20 Messungen sparen. Wenn Sie das nächste Mal die Verbindungsskala öffnen, wird automatisch die Waage gespeichert und dann automatisch dem entsprechenden Mitgliedskonto zugewiesen. Wenn die empfangenen Gewichtsdaten und APP alle Konten innerhalb der Gewichtsdifferenz von 3KG oder mehr, APP ermöglicht es Ihnen, manuell zuweisen, die Messdaten, oder direkt zu löschen. ",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "question": "Wie füge ich mehrere Benutzer hinzu? ",
+          "answers": [
+            {
+              "level": 1,
+              "content": "Klicken Sie auf die Registerkarte “I” (die rechte untere Ecke der Hauptschnittstelle) ",
+              "type": "string"
+            },
+            {
+              "id": "user_index",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "Klicken Sie auf den Avatar auf der linken Seite des menschlichen Symbols, Pop-up die Wahl, um Mess-Benutzer oder Freunde hinzufügen ",
+              "type": "string"
+            },
+            {
+              "id": "user_add_guide_1",
+              "type": "image"
+            },
+            {
+              "id": "user_add_guide_2_feelfit",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "Measurement-Benutzer müssen sich nicht registrieren, müssen die körperbezogenen Informationen ausfüllen ",
+              "type": "string"
+            },
+            {
+              "level": 1,
+              "content": "Freunde sind registrierte Benutzer, müssen sich gegenseitig registriert mailbox ",
+              "type": "string"
+            },
+            {
+              "level": 1,
+              "content": "Sobald Sie einen Messbenutzer oder einen Freund hinzugefügt haben, können Sie den Benutzer auswählen, um die Messung in der Benutzerliste vorzunehmen ",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "question": "Mein Geschlecht/Alter/Höhe ist falsch, wie man es ändert? ",
+          "answers": [
+            {
+              "level": 1,
+              "content": "Klicken Sie auf die Registerkarte “I” (die rechte untere Ecke der Hauptschnittstelle) ",
+              "type": "string"
+            },
+            {
+              "id": "user_index",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "Klicken Sie auf das Bild des Benutzers über dem Interface ",
+              "type": "string"
+            },
+            {
+              "id": "user_edit_profile_guide",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "Geben Sie die Benutzerdaten ein, um die Schnittstelle zu ändern, ändern Sie die Informationen ",
+              "type": "string"
+            },
+            {
+              "level": 1,
+              "content": "Sobald die Änderungen abgeschlossen sind, klicken Sie auf Speichern ",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "question": "Wie man eine Verbindung zum Apfel-Gesundheitskit herstellt? ",
+          "answers": [
+            {
+              "level": 1,
+              "content": "Finden und öffnen Sie die “Health” App auf dem iPhone ",
+              "type": "string"
+            },
+            {
+              "id": "health_kit_logo",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "Klicken Sie auf die Registerkarte “Datenquellen” ",
+              "type": "string"
+            },
+            {
+              "id": "health_kit_index",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "Wählen Sie “Feelfit” aus der Liste der Quellen ",
+              "type": "string"
+            },
+            {
+              "id": "health_kit_feelfit",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "Steuerelement zum Aktivieren oder Deaktivieren von Datenberechtigungen ",
+              "type": "string"
+            },
+            {
+              "id": "health_kit_switcher_feelfit",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "question": "Wie man eine Verbindung zum Apfel-Gesundheitskit herstellt? ",
+          "answers": [
+            {
+              "level": 1,
+              "content": "Klicken Sie in der “Meine” -Schnittstelle auf das Symbol “Einstellungen” in der oberen rechten Ecke ",
+              "type": "string"
+            },
+            {
+              "id": "me_setting",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "Gehen Sie auf die “System Settings” -Schnittstelle, klicken Sie auf die “Google Fit” -Spalte, geben Sie die “Google Fit” -Schnittstelle ",
+              "type": "string"
+            },
+            {
+              "id": "setting_googlefit",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "Öffnen Sie die Schaltfläche “Google Fit”, wird Pop-up bereits vorhanden Google-Konto-Auswahl-Schnittstelle (oder fügen Sie ein neues Konto, registrierte Google-Konto), oder wählen Sie Ihre eigenen Google-Konto ",
+              "type": "string"
+            },
+            {
+              "id": "googlefit_switcher",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "Sobald Sie erfolgreich sind, kehren Sie zum Google Fit-Interface zurück, wo die Schaltfläche “Google Fit” aktiviert ist und die Verbindung zu GoogleFit erfolgreich ist ",
+              "type": "string"
+            },
+            {
+              "id": "google_switcher_enable",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "Nach der Messung auf der Waage werden die Daten in Google Fit hochgeladen, Sie können sich APP anmelden, um die relevanten Daten anzuzeigen ",
+              "type": "string"
+            },
+            {
+              "id": "googlefit_result",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "question": "Wie man eine Verbindung zum Apfel-Gesundheitskit herstellt? ",
+          "answers": [
+            {
+              "level": 1,
+              "content": "Klicken Sie in der “Meine” -Schnittstelle auf das Symbol “Einstellungen” in der oberen rechten Ecke ",
+              "type": "string"
+            },
+            {
+              "id": "me_setting",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "In die “Systemeinstellungen” -Schnittstelle klicken Sie auf die Spalte “FitBit”, geben Sie die FitBit-Schnittstelle ein ",
+              "type": "string"
+            },
+            {
+              "id": "setting_fitbit",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "Öffnen Sie die Schaltfläche “FitBit”, es springt zur FitBit Login-Schnittstelle, geben Sie die FitBit hat das Konto und Passwort registriert (oder in der Schnittstelle Dropdown, um FitBit wählen) ",
+              "type": "string"
+            },
+            {
+              "id": "fitbit_switcher",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "Klicken Sie auf “Login”, wird weiterhin auf eigene Faust zu springen, ob APP-Zugang zu ermöglichen, wählen Sie “erlauben”, zurück zu der APP-System-Einstellungen-Schnittstelle, dann FitBit-Schalter ist offen ",
+              "type": "string"
+            },
+            {
+              "id": "fitbit_auth",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "Nach dem Erfolg der Skala Messung, Gewicht, Körperfettrate wird auf die FitBit hochgeladen werden, können Sie sich in FitBit APP oder Log FitBit Seite, um die Daten zu aktualisieren, sehen Sie das gemessene Gewicht, Körperfettrate; ",
+              "type": "string"
+            },
+            {
+              "id": "fitbit_result",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "Sie müssen die Fitbit-Taste im offenen Zustand halten, während das Netzwerk reibungslos verbunden sein muss, damit jede Messdaten Gewicht, Körperfettrate nach Fitbit hochladen wird; Wenn sie geschlossen sind, werden die gemessenen Daten nicht mehr Gewicht, Körperfettrate hochladen. ",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "question": "Wie füge ich Feelfit Freunde hinzu? ",
+          "answers": [
+            {
+              "content": "Freunde können Ihnen helfen, sich gegenseitig die körperlichen Veränderungen, wie Ernährungsberater/Fitness-Lehrer oft müssen ihre eigenen Kunden die physischen Veränderungen zu überwachen, können Sie diese Funktion verwenden. ",
+              "type": "string"
+            },
+            {
+              "level": 1,
+              "content": "Klicken Sie auf die Registerkarte “I” (die rechte untere Ecke der Hauptschnittstelle) ",
+              "type": "string"
+            },
+            {
+              "id": "user_index",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "Klicken Sie auf das Symbol auf der linken Seite des Avatars, um die Auswahl aufzufüllen, um Feelfit Freunde hinzuzufügen ",
+              "type": "string"
+            },
+            {
+              "id": "user_add_guide_3_feelfit",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "Und dann geben Sie die andere Mailbox, klicken Sie auf “senden” ",
+              "type": "string"
+            },
+            {
+              "id": "user_add_guide_4_feelfit",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "An dieser Stelle erhält die andere Partei eine Systemnachricht, die andere Partei kann auf die Registerkarte “I” in der oberen rechten Ecke des Symbols in die Systemmeldungsansicht klicken. Wenn die andere Partei und nahm Ihre Einladung, war es Ihnen gelungen, Freunde zu werden. Sie können sich die Körperdetails des anderen sehen. ",
+              "type": "string"
+            },
+            {}
+          ]
+        },
+        {
+          "question": "Wie sehe ich meine historischen Messdaten an? Was ist, wenn ich die Daten löschen möchte ",
+          "answers": [
+            {
+              "level": 1,
+              "content": "Klicken Sie auf die Registerkarte “Diagramm” (Hauptschnittstelle unterhalb der Mitte) ",
+              "type": "string"
+            },
+            {
+              "id": "chart_index",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "Klicken Sie auf das Symbol rechts oben in der Diagrammschnittstelle oder klicken Sie auf einen Punkt im Diagramm, um zur Schnittstelle der historischen Daten zu gelangen ",
+              "type": "string"
+            },
+            {
+              "id": "chart_click_history",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "Wählen Sie den Tag aus, an dem Sie die Daten löschen möchten, und überprüfen Sie die Notwendigkeit, die Daten zu löschen (die obere rechte Ecke jeder Daten), unterstützen Sie die Mehrfachprüfung ",
+              "type": "string"
+            },
+            {
+              "content": "Zeigen Sie unter die Schaltfläche “Löschen”, können Sie löschen ",
+              "type": "string"
+            },
+            {
+              "id": "history_check_data",
+              "type": "image"
+            },
+            {}
+          ]
+        },
+        {
+          "question": "Ich möchte die Änderungen der Daten, die ich zu verschiedenen Zeiten gemessen habe, vergleichen. Was soll ich machen? ",
+          "answers": [
+            {
+              "level": 1,
+              "content": "Klicken Sie auf die Registerkarte “Diagramm” (Hauptschnittstelle unterhalb der Mitte) ",
+              "type": "string"
+            },
+            {
+              "id": "chart_index",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "Die Standard-Gewichtskurve der Woche, wenn Sie andere Indikatoren sehen möchten, klicken Sie auf das Symbol unter dem Diagramm, wechseln Sie zu verschiedenen Indikatoren der Kurve ",
+              "type": "string"
+            },
+            {
+              "id": "chart_change_indicator",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "Das Diagramm kann gezogen werden, um die früheren Daten anzuzeigen ",
+              "type": "string"
+            },
+            {
+              "id": "chart_slide",
+              "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "Am oberen Rand des Diagramms können Sie einen Zeitbereich auswählen, um den längeren Trend zu sehen ",
+              "type": "string"
+            },
+            {
+              "id": "chart_chart_date",
+              "type": "image"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

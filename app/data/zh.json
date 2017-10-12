@@ -620,6 +620,11 @@
             {
               "id": "fitbit_result",
               "type": "image"
+            },
+            {
+              "level": 1,
+              "content": "必须让Fitbit按钮保持在开启的状态，同时网络必须连接顺畅，这样每次的测量数据才会上传体重、体脂率到Fitbit；如果关闭了，测量数据则不会再上传体重、体脂率。",
+              "type": "string"
             }
           ]
         },
@@ -687,7 +692,11 @@
               "content": "选中您需要删除数据的那一天，并勾选需要删除的数据（每条数据的右上角），支持多个勾选",
               "level": 1
             },
-            "点界面下方的“删除”按钮，即可删除",
+            {
+              "type": "string",
+              "content": "点界面下方的“删除”按钮，即可删除",
+              "level": 1
+            },
             {
               "id": "history_check_data",
               "type": "image"

@@ -68,7 +68,7 @@ const generateExcel = (data) => {
 };
 
 
-generateExcel(require('./app/data/zh.json'));
+generateExcel(require('./app/data/en.json'));
 //
 // const generateDataJs = (data) => {
 //
